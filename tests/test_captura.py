@@ -46,6 +46,20 @@ class Captura(unittest.TestCase):
         self.assertEqual(f["estado"], "omitido")
 
 
+class Bloqueos(unittest.TestCase):
+    def test_pagina_antibots_no_es_documento(self):
+        b = b"<head><title>Radware Bot Manager Block</title><script>var x=1;</script></head>"
+        self.assertIn("no se elude", captura.pagina_de_bloqueo(b, "text/html", "https://www.minhacienda.gov.co/x/PD.pdf"))
+
+    def test_pdf_pedido_y_html_recibido(self):
+        self.assertTrue(captura.pagina_de_bloqueo(b"<html><body>hola</body></html>", "text/html", "https://a.gov.co/d.pdf"))
+
+    def test_documento_real_pasa(self):
+        self.assertEqual(captura.pagina_de_bloqueo(b"%PDF-1.7 ...", "application/pdf", "https://a.gov.co/d.pdf"), "")
+        self.assertEqual(captura.pagina_de_bloqueo(b"<html><title>Sentencia T-246/26</title></html>", "text/html",
+                                                   "https://www.corteconstitucional.gov.co/relatoria/2026/T-246-26.htm"), "")
+
+
 class Textos(unittest.TestCase):
     def test_notas_vigencia_solo_en_compilaciones(self):
         filas, rel, an = textos.procesar("ley-9", LEY, "http://www.secretariasenado.gov.co/senado/basedoc/ley_0009_2026.html")

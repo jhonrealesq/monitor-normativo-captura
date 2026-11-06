@@ -150,36 +150,6 @@
   "clave": "providencia-sp1317-2026-2026-colombia-corte-suprema-de-justicia"
  },
  {
-  "doc_id": "proyecto-de-decreto-3fc3c631-2026-colombia-ministerio-de-hacienda-y",
-  "sha256": "6f6ff0999f06dff4aafa0286199736ca243b152645a60520094661a24deacbfd",
-  "fecha_captura": "2026-11-06",
-  "metodo": "html.parser",
-  "unidades": 1,
-  "articulos": 0,
-  "caracteres": 399,
-  "notas_vigencia": 0,
-  "estado": "capturado",
-  "aviso": "",
-  "url": "https://www.minhacienda.gov.co/documents/20119/2873514/PD+normas+del+Sistema+General+de+Pensiones.pdf/1aa5ca68-d9bc-9115-7fcf-d0867e973322?t=1792207785553",
-  "archivo": "originales/6f6ff0999f06dff4aafa0286199736ca243b152645a60520094661a24deacbfd.html",
-  "clave": "proyecto-de-decreto-3fc3c631-2026-colombia-ministerio-de-hacienda-y"
- },
- {
-  "doc_id": "proyecto-de-decreto-3fec1413-2026-colombia-ministerio-de-hacienda-y",
-  "sha256": "931cc8a51fe19065b821d085fd20c485047faeb3d344702d077c7c87af96d037",
-  "fecha_captura": "2026-11-06",
-  "metodo": "html.parser",
-  "unidades": 1,
-  "articulos": 0,
-  "caracteres": 399,
-  "notas_vigencia": 0,
-  "estado": "capturado",
-  "aviso": "",
-  "url": "https://www.minhacienda.gov.co/documents/20119/2873514/PD.+Deuda+SAS.pdf/b06d549b-aca8-044c-1a37-6c0eb25eafb5?t=1792077889170",
-  "archivo": "originales/931cc8a51fe19065b821d085fd20c485047faeb3d344702d077c7c87af96d037.html",
-  "clave": "proyecto-de-decreto-3fec1413-2026-colombia-ministerio-de-hacienda-y"
- },
- {
   "doc_id": "proyecto-de-ley-f62ff120-2026-colombia-congreso-de-la-republica",
   "sha256": "4a7e52938b91a30da837c41e3e6ad4a28e667d546aafac4add16892f5a6ef6cf",
   "fecha_captura": "2026-11-06",

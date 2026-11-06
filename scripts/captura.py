@@ -106,6 +106,22 @@ def permitido(url):
     return rp.can_fetch(AGENTE, url), nota
 
 
+BLOQUEO_RE = re.compile(rb"<title>[^<]*(bot manager|captcha|access denied|acceso denegado|attention required|just a moment|"
+                        rb"request rejected|are you a robot|security check)[^<]*</title>", re.I)
+
+
+def pagina_de_bloqueo(b, ct, url):
+    """Detecta páginas de protección anti-bots o de desafío que el sitio entrega en lugar del documento. No se
+    intenta eludirlas: se registra el bloqueo y el documento queda pendiente para consulta manual."""
+    cabeza = b[:4096]
+    m = BLOQUEO_RE.search(cabeza)
+    if m:
+        return f"el sitio entregó una página de protección («{m.group(1).decode('latin-1')}») en lugar del documento; no se elude"
+    if urllib.parse.urlparse(url).path.lower().endswith(".pdf") and b[:5] != b"%PDF-" and "pdf" not in ct.lower():
+        return "se pidió un PDF y el sitio devolvió otro contenido; no se conserva como original"
+    return ""
+
+
 def capturar(p, base, fecha):
     fila = {"doc_id": p["doc_id"], "url": p["url"], "fecha_captura": fecha, "estado": "", "sha256": "", "bytes": 0,
             "content_type": "", "archivo": "", "texto": "", "metodo_extraccion": "", "unidades": 0, "nota": ""}
@@ -125,6 +141,10 @@ def capturar(p, base, fecha):
             charset = resp.headers.get_content_charset()
     except Exception as e:  # el fallo se registra, no se oculta
         fila.update(estado="fallido", nota=f"{type(e).__name__}: {e}"[:300])
+        return fila
+    bloqueo = pagina_de_bloqueo(b, ct, p["url"])
+    if bloqueo:  # no se guarda como original: no es el documento oficial
+        fila.update(estado="bloqueado por protección anti-bots", bytes=len(b), content_type=ct, nota=bloqueo)
         return fila
     sha = hashlib.sha256(b).hexdigest()
     es_pdf = b[:5] == b"%PDF-" or "pdf" in ct.lower()

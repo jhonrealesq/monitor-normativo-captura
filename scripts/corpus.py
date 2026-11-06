@@ -113,6 +113,11 @@ def main():
     grafo.guardar(os.path.join(x.salida_dir, "corpus.json"), filas)
     for k, d in docs.items():
         json.dump(d, open(os.path.join(x.salida_dir, "textos_db", k + ".json"), "w", encoding="utf-8"), ensure_ascii=False)
+    # textos_db es salida derivada: un archivo que ya no corresponde a ningún documento del corpus se retira para que
+    # la corrida no publique textos de capturas reclasificadas (p. ej., páginas de bloqueo).
+    for f in os.listdir(os.path.join(x.salida_dir, "textos_db")):
+        if f.endswith(".json") and f[:-5] not in docs:
+            os.remove(os.path.join(x.salida_dir, "textos_db", f))
     grafo.guardar(os.path.join(x.salida_dir, "relaciones_texto.json"), rels)
     grafo.guardar(os.path.join(x.salida_dir, "analisis_texto.json"), ans)
     e = grafo.validar("relacion", rels) + grafo.validar("analisis", ans)
