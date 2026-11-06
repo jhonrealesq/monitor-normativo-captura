@@ -1,0 +1,72 @@
+[
+ {
+  "id": "rel-d77ee29475a1",
+  "origen_id": "circular-0024-2026-colombia-comision-nacional-de-precios",
+  "destino_id": "",
+  "destino_ref": "Circular 21 de 2026",
+  "parte": "Artículo 1. Modificación del artículo 10",
+  "tipo": "Modifica",
+  "fragmento": "Artículo 1. Modificación del artículo 10 de la Circular 21 de 2026",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.minsalud.gov.co/Normatividad_Nuevo/Circular%20Externa%20No%200024%20de%202026%20COMISI%C3%93N%20NACIONAL%20DE%20PRECIOS%20DE%20MEDICAMENTOS%20Y%20DISPOSITIVOS%20M%C3%89DICOS.PDF",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 1 del texto capturado (hash 81888a678043afd5)."
+ },
+ {
+  "id": "rel-70619b60c1ce",
+  "origen_id": "circular-0024-2026-colombia-comision-nacional-de-precios",
+  "destino_id": "",
+  "destino_ref": "Circular 21 de 2026",
+  "parte": "los artículos 10 y 12",
+  "tipo": "Modifica",
+  "fragmento": "bligados a reportar podrán CIRCULAR NÚMERO 0GG024 de g2 OCT 2026 HOJA 4 DE 4 Continuación de la circular: \"Por la cual se modifican los artículos 10 y 12 de la Circular 21 de 2026",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.minsalud.gov.co/Normatividad_Nuevo/Circular%20Externa%20No%200024%20de%202026%20COMISI%C3%93N%20NACIONAL%20DE%20PRECIOS%20DE%20MEDICAMENTOS%20Y%20DISPOSITIVOS%20M%C3%89DICOS.PDF",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 1 del texto capturado (hash 81888a678043afd5)."
+ },
+ {
+  "id": "rel-eb8c398f48d1",
+  "origen_id": "circular-0024-2026-colombia-comision-nacional-de-precios",
+  "destino_id": "",
+  "destino_ref": "Circular 21 de 2026",
+  "parte": "Artículo 2. Modificación del artículo 12",
+  "tipo": "Modifica",
+  "fragmento": "Artículo 2. Modificación del artículo 12 de la Circular 21 de 2026",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.minsalud.gov.co/Normatividad_Nuevo/Circular%20Externa%20No%200024%20de%202026%20COMISI%C3%93N%20NACIONAL%20DE%20PRECIOS%20DE%20MEDICAMENTOS%20Y%20DISPOSITIVOS%20M%C3%89DICOS.PDF",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 2 del texto capturado (hash 636303e01f6bc50d)."
+ },
+ {
+  "id": "rel-b9b845a8a954",
+  "origen_id": "circular-0024-2026-colombia-comision-nacional-de-precios",
+  "destino_id": "",
+  "destino_ref": "Circular 17 de 2023",
+  "parte": "",
+  "tipo": "Modifica",
+  "fragmento": "quedarán derogadas la Circular 06 de 2018, su modificatoria, la Circular 17 de 2023",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.minsalud.gov.co/Normatividad_Nuevo/Circular%20Externa%20No%200024%20de%202026%20COMISI%C3%93N%20NACIONAL%20DE%20PRECIOS%20DE%20MEDICAMENTOS%20Y%20DISPOSITIVOS%20M%C3%89DICOS.PDF",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 2 del texto capturado (hash 636303e01f6bc50d)."
+ },
+ {
+  "id": "rel-840ef621a5c4",
+  "origen_id": "circular-0024-2026-colombia-comision-nacional-de-precios",
+  "destino_id": "",
+  "destino_ref": "Circular 20 de 2026",
+  "parte": "",
+  "tipo": "Modifica",
+  "fragmento": "la Circular 17 de 2023, y la Circular 20 de 2026",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.minsalud.gov.co/Normatividad_Nuevo/Circular%20Externa%20No%200024%20de%202026%20COMISI%C3%93N%20NACIONAL%20DE%20PRECIOS%20DE%20MEDICAMENTOS%20Y%20DISPOSITIVOS%20M%C3%89DICOS.PDF",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 2 del texto capturado (hash 636303e01f6bc50d)."
+ }
+]

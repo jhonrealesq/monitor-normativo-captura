@@ -1,0 +1,38 @@
+[
+ {
+  "id": "an-48d3afac47a1",
+  "doc_id": "decreto-legislativo-1418-2026-colombia",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 5o",
+  "fragmento": "RIGEN E IMPUTACIÓN DE LOS RECURSOS",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://normativa.colpensiones.gov.co/colpensiones/compilacion/docs/decreto_1418_2026.htm",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ },
+ {
+  "id": "an-c4f9bed75126",
+  "doc_id": "decreto-legislativo-1418-2026-colombia",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 17",
+  "fragmento": "rige a partir de su publicación",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://normativa.colpensiones.gov.co/colpensiones/compilacion/docs/decreto_1418_2026.htm",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ },
+ {
+  "id": "an-73ad8ebf2e83",
+  "doc_id": "decreto-legislativo-1418-2026-colombia",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 17",
+  "fragmento": "regirán por el término de un (1) año contado a partir de la declaratoria del Estado de Emergencia; las previstas en los Capítulos III y IV se sujetarán a los términos",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://normativa.colpensiones.gov.co/colpensiones/compilacion/docs/decreto_1418_2026.htm",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ }
+]

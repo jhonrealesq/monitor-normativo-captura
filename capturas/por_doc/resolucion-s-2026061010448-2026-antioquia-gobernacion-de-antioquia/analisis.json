@@ -1,0 +1,26 @@
+[
+ {
+  "id": "an-86bf6fe62a50",
+  "doc_id": "resolucion-s-2026061010448-2026-antioquia-gobernacion-de-antioquia",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 1",
+  "fragmento": "RIGEÑO'- ~4~~ J~Jl'-11 llU ; 0M1~fooool~ 11 I\\ JI_R",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.antioquia.gov.co/images/gaceta/2026/11/GACETA%2026.003%20-%20R.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ },
+ {
+  "id": "an-56f19c5e84c3",
+  "doc_id": "resolucion-s-2026061010448-2026-antioquia-gobernacion-de-antioquia",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 10",
+  "fragmento": "rige a partir de la fecha de su publicación y surte efectos fiscales desde el inicio del calendario académico 2027, fijado por la Secretaría de Educación Departamen",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.antioquia.gov.co/images/gaceta/2026/11/GACETA%2026.003%20-%20R.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ }
+]

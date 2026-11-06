@@ -1,0 +1,38 @@
+[
+ {
+  "id": "an-b37f5439ca67",
+  "doc_id": "decreto-legislativo-1379-2026-colombia",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 1o",
+  "fragmento": "regirá por el derecho privado, observando en todo caso, los principios de objetividad, moralidad, razonabilidad, transparencia, eficiencia, economía y publicidad, y s",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://normativa.colpensiones.gov.co/colpensiones/compilacion/docs/decreto_1379_2026.htm",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ },
+ {
+  "id": "an-0c6825f3d8e4",
+  "doc_id": "decreto-legislativo-1379-2026-colombia",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 11",
+  "fragmento": "rigen en el Presupuesto General de la Nación se restituirán a la Dirección General de Crédito Público y Tesoro Nacional del Ministerio de Hacienda y Crédito Público",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://normativa.colpensiones.gov.co/colpensiones/compilacion/docs/decreto_1379_2026.htm",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ },
+ {
+  "id": "an-4131f68b0afc",
+  "doc_id": "decreto-legislativo-1379-2026-colombia",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 12",
+  "fragmento": "rige a partir de su publicación",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://normativa.colpensiones.gov.co/colpensiones/compilacion/docs/decreto_1379_2026.htm",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ }
+]

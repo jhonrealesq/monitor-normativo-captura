@@ -1,0 +1,14 @@
+[
+ {
+  "id": "an-677723a26a31",
+  "doc_id": "decreto-legislativo-1419-2026-colombia",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 15",
+  "fragmento": "rige a partir de su publicación",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://normograma.mintic.gov.co/mintic/compilacion/docs/decreto_1419_2026.htm",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ }
+]

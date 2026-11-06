@@ -1,0 +1,26 @@
+[
+ {
+  "id": "an-a51732a535a3",
+  "doc_id": "circular-0024-2026-colombia-comision-nacional-de-precios",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 2",
+  "fragmento": "rige a partir de su publicación y surte efecto respecto de las transacciones efectuadas a partir del 1 de enero de 2027, sin perjuicio de lo previsto en el artículo",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.minsalud.gov.co/Normatividad_Nuevo/Circular%20Externa%20No%200024%20de%202026%20COMISI%C3%93N%20NACIONAL%20DE%20PRECIOS%20DE%20MEDICAMENTOS%20Y%20DISPOSITIVOS%20M%C3%89DICOS.PDF",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ },
+ {
+  "id": "an-51cc7fb36adb",
+  "doc_id": "circular-0024-2026-colombia-comision-nacional-de-precios",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 3",
+  "fragmento": "rige a partir de su publicación en el Diario Oficial",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.minsalud.gov.co/Normatividad_Nuevo/Circular%20Externa%20No%200024%20de%202026%20COMISI%C3%93N%20NACIONAL%20DE%20PRECIOS%20DE%20MEDICAMENTOS%20Y%20DISPOSITIVOS%20M%C3%89DICOS.PDF",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ }
+]

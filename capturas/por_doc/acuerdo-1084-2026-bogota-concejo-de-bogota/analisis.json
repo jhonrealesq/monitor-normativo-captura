@@ -1,0 +1,38 @@
+[
+ {
+  "id": "an-49b6b012f9f5",
+  "doc_id": "acuerdo-1084-2026-bogota-concejo-de-bogota",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 10",
+  "fragmento": "regirá desde el 1° de enero de 2027",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?dt=S&i=194513",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ },
+ {
+  "id": "an-4e719bfcf050",
+  "doc_id": "acuerdo-1084-2026-bogota-concejo-de-bogota",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 21",
+  "fragmento": "rigen vegetal y animal 1030 4 Elaboración de productos de molinería 1051 4 Elaboración de almidones y productos derivados del almidón 1052 4 Trilla de café 1061 10",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?dt=S&i=194513",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ },
+ {
+  "id": "an-d1c958c653d2",
+  "doc_id": "acuerdo-1084-2026-bogota-concejo-de-bogota",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 52",
+  "fragmento": "rige a partir de su publicación, y deroga las normas que le sean contrarias, especialmente los artículos 7 y 8 del Decreto Distrital 807 de 1993, el artículo 27 del",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?dt=S&i=194513",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ }
+]
