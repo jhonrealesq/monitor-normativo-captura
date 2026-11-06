@@ -1,0 +1,41 @@
+# Monitor Normativo — captura de documentos oficiales (v1.11)
+# Flujo: la corrida del monitor (6:15 a. m. y p. m.) escribe pendientes.json y lo sube a este repositorio;
+# este flujo descarga cada original respetando robots.txt, extrae el texto, lo segmenta por artículos y guarda todo
+# en capturas/. La corrida siguiente lee capturas/ con corpus.py y publica los textos en el tablero.
+# También corre a las 5:20 a. m. y 5:20 p. m. de Bogotá por si no hubo push, y a demanda.
+name: captura
+on:
+  push:
+    paths: ["pendientes.json"]
+  schedule:
+    - cron: "20 10,22 * * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: captura
+  cancel-in-progress: false
+jobs:
+  captura:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Herramientas
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+      - name: Pruebas
+        run: cd tests && python3 -m unittest -v test_captura test_grafo test_integridad
+      - name: Captura
+        run: python3 scripts/captura.py --pendientes pendientes.json --dir capturas --max 25
+      - name: Corpus
+        run: python3 scripts/corpus.py --capturas capturas --salida-dir capturas/corpus
+      - name: Guardar
+        run: |
+          git config user.name "monitor-normativo-captura"
+          git config user.email "actions@users.noreply.github.com"
+          git add capturas
+          git diff --cached --quiet || git commit -m "Captura $(date -u +%F_%H%M)"
+          git push
