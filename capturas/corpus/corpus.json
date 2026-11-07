@@ -150,6 +150,21 @@
   "clave": "providencia-sp1317-2026-2026-colombia-corte-suprema-de-justicia"
  },
  {
+  "doc_id": "proyecto-de-decreto-3fc3c631-2026-colombia-ministerio-de-hacienda-y",
+  "sha256": "77603c4d2d8f199cf4f36e5fe22040c728036ac11c403b3e45c855c5ac938cf6",
+  "fecha_captura": "2026-11-07",
+  "metodo": "pdftotext -layout",
+  "unidades": 37,
+  "articulos": 18,
+  "caracteres": 66241,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.minhacienda.gov.co/documents/20119/2873514/PD+normas+del+Sistema+General+de+Pensiones.pdf/1aa5ca68-d9bc-9115-7fcf-d0867e973322?t=1792207785553",
+  "archivo": "originales/77603c4d2d8f199cf4f36e5fe22040c728036ac11c403b3e45c855c5ac938cf6.pdf",
+  "clave": "proyecto-de-decreto-3fc3c631-2026-colombia-ministerio-de-hacienda-y"
+ },
+ {
   "doc_id": "proyecto-de-ley-f62ff120-2026-colombia-congreso-de-la-republica",
   "sha256": "4a7e52938b91a30da837c41e3e6ad4a28e667d546aafac4add16892f5a6ef6cf",
   "fecha_captura": "2026-11-07",

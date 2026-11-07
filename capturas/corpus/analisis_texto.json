@@ -168,6 +168,18 @@
   "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
  },
  {
+  "id": "an-3ffbcffc5325",
+  "doc_id": "proyecto-de-decreto-3fc3c631-2026-colombia-ministerio-de-hacienda-y",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 2",
+  "fragmento": "rige a partir del día siguiente a su publicación y sustituye el Título 17 del Libro 2 de la Parte 2 del Decreto 1833 de 2016",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.minhacienda.gov.co/documents/20119/2873514/PD+normas+del+Sistema+General+de+Pensiones.pdf/1aa5ca68-d9bc-9115-7fcf-d0867e973322?t=1792207785553",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ },
+ {
   "id": "an-8b238d6b01af",
   "doc_id": "proyecto-de-ley-f62ff120-2026-colombia-congreso-de-la-republica",
   "tipo": "Regla de vigencia",
