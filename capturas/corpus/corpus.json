@@ -226,17 +226,17 @@
  },
  {
   "doc_id": "sentencia-t-t-315-26-2026-colombia-corte-constitucional",
-  "sha256": "312253c5629902faa73f6a159106474fb88269b8359e70539c427d1f66a7b705",
+  "sha256": "e13bc1433bb4f7499d9fe2e952490313234ef73c092783f0c18df8e37eb18ff3",
   "fecha_captura": "2026-11-11",
   "metodo": "html.parser",
   "unidades": 3,
   "articulos": 0,
-  "caracteres": 101256,
+  "caracteres": 104862,
   "notas_vigencia": 0,
   "estado": "capturado",
-  "aviso": "sin cambios desde la captura anterior",
+  "aviso": "",
   "url": "https://www.corteconstitucional.gov.co/relatoria/2026/T-315-26.htm",
-  "archivo": "originales/312253c5629902faa73f6a159106474fb88269b8359e70539c427d1f66a7b705.html",
+  "archivo": "originales/e13bc1433bb4f7499d9fe2e952490313234ef73c092783f0c18df8e37eb18ff3.html",
   "clave": "sentencia-t-t-315-26-2026-colombia-corte-constitucional"
  },
  {
