@@ -40,6 +40,9 @@ ANOTABLES = {"grafo", "integridad", "version_anterior", "captura"}
 MANUAL = {"Bloqueada para lectura automática", "Sin fuente oficial localizada"}
 
 
+MANUALES = ("Bloqueada para lectura automática", "Sin fuente oficial localizada")
+
+
 def frecuencia(f):
     if f.get("estado") in MANUAL:
         return "manual"
@@ -96,6 +99,7 @@ def main():
     # De la más antigua a la más reciente.
     for c in sorted(K, key=lambda c: c["id"]):
         res = []
+        motivos = []
         peor = False
         for f in F:
             fid = f["id"]
@@ -114,9 +118,15 @@ def main():
                 h["fallas_consecutivas"] = 0
             if r != "no revisada":
                 res.append(f"{fid}: {r}")
-            if fid in alta and r in ("fallida", "parcial"):
+            # v1.12: «parcial» solo cuando falla algo que sí debería leerse. No cuentan las fuentes de consulta
+            # manual (bloqueadas o sin sitio oficial) ni el resultado «parcial» de una fuente cuyo estado conocido
+            # ya es «Parcial» (ese es su techo habitual, p. ej. un índice que solo se alcanza por buscador).
+            if fid in alta and f.get("estado") not in MANUALES and (
+                    r == "fallida" or (r == "parcial" and f.get("estado") == "Operativa")):
                 peor = True
+                motivos.append(f"{fid}: {r}")
         c["resultado_fuentes"] = "; ".join(res)
+        c["estado_motivo"] = "; ".join(motivos)
         if c.get("estado") != "fallida":
             c["estado"] = "parcial" if peor else "completada"
         c["tipo"] = tipo_de(c)

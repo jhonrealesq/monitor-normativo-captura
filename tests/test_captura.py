@@ -60,6 +60,45 @@ class Bloqueos(unittest.TestCase):
                                                    "https://www.corteconstitucional.gov.co/relatoria/2026/T-246-26.htm"), "")
 
 
+class Incremental(unittest.TestCase):
+    """v1.12: la captura no repite lo ya capturado y el estado «parcial» solo refleja fallas reales."""
+
+    def _correr(self, script, *args):
+        import subprocess
+        sc = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "scripts", script)
+        return subprocess.run([sys.executable, sc, *args], capture_output=True, text=True, check=True).stdout
+
+    def test_no_recaptura_ni_engorda_el_manifiesto(self):
+        with tempfile.TemporaryDirectory() as d:
+            man = [{"doc_id": "a", "url": "https://x.gov.co/a.pdf", "fecha_captura": "2026-11-10", "estado": "capturado", "sha256": "s"},
+                   {"doc_id": "b", "url": "https://x.gov.co/b.pdf", "fecha_captura": "2026-11-12", "estado": "bloqueado por robots.txt", "sha256": ""}]
+            os.makedirs(os.path.join(d, "cap"))
+            json.dump(man, open(os.path.join(d, "cap", "manifiesto.json"), "w"))
+            json.dump([{"doc_id": "a", "url": "https://x.gov.co/a.pdf"}, {"doc_id": "b", "url": "https://x.gov.co/b.pdf"},
+                       {"doc_id": "c", "url": "https://prensa.example.com/c"}], open(os.path.join(d, "p.json"), "w"))
+            out = self._correr("captura.py", "--pendientes", os.path.join(d, "p.json"), "--dir", os.path.join(d, "cap"), "--fecha", "2026-11-13")
+            despues = json.load(open(os.path.join(d, "cap", "manifiesto.json")))
+        self.assertIn("2 al día", out)
+        self.assertEqual([m["doc_id"] for m in despues], ["a", "b", "c"])  # solo se agregó la fila del documento nuevo
+        self.assertEqual(despues[-1]["estado"], "omitido")
+
+    def test_parcial_solo_por_fallas_reales(self):
+        fu = [{"id": "senado-orden-dia", "fuente": "Senado", "frecuencia": "alta", "estado": "Bloqueada para lectura automática"},
+              {"id": "dapre-decretos", "fuente": "DAPRE", "frecuencia": "alta", "estado": "Parcial"},
+              {"id": "cc-relatoria", "fuente": "Corte", "frecuencia": "alta", "estado": "Operativa"}]
+        base = {"fecha": "2026-11-13", "nota": "Mañana", "nuevos": 1, "actualizados": 0}
+        co = [dict(base, id="2026-11-13-1", fuentes_ok="cc-relatoria; dapre-decretos", fuentes_fallidas="senado-orden-dia (ROBOTS); dapre-decretos (solo buscador)"),
+              dict(base, id="2026-11-13-2", fuentes_ok="dapre-decretos", fuentes_fallidas="cc-relatoria (error del servidor)")]
+        with tempfile.TemporaryDirectory() as d:
+            json.dump(co, open(os.path.join(d, "c.json"), "w")); json.dump(fu, open(os.path.join(d, "f.json"), "w"))
+            self._correr("bitacora.py", "--corridas", os.path.join(d, "c.json"), "--fuentes", os.path.join(d, "f.json"),
+                         "--salida-corridas", os.path.join(d, "c2.json"), "--salida-fuentes", os.path.join(d, "f2.json"))
+            r = {c["id"]: c for c in json.load(open(os.path.join(d, "c2.json")))}
+        self.assertEqual(r["2026-11-13-1"]["estado"], "completada")
+        self.assertEqual(r["2026-11-13-2"]["estado"], "parcial")
+        self.assertIn("cc-relatoria", r["2026-11-13-2"]["estado_motivo"])
+
+
 class Textos(unittest.TestCase):
     def test_notas_vigencia_solo_en_compilaciones(self):
         filas, rel, an = textos.procesar("ley-9", LEY, "http://www.secretariasenado.gov.co/senado/basedoc/ley_0009_2026.html")

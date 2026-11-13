@@ -1,4 +1,4 @@
-# Monitor Normativo — captura de documentos oficiales (v1.11)
+# Monitor Normativo — captura de documentos oficiales (v1.12, incremental)
 # Flujo: la corrida del monitor (6:15 a. m. y p. m.) escribe pendientes.json y lo sube a este repositorio;
 # este flujo descarga cada original respetando robots.txt, extrae el texto, lo segmenta por artículos y guarda todo
 # en capturas/. La corrida siguiente lee capturas/ con corpus.py y publica los textos en el tablero.

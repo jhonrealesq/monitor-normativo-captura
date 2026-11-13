@@ -181,12 +181,33 @@ def main():
     a.add_argument("--dir", required=True)
     a.add_argument("--fecha", default=datetime.date.today().isoformat())
     a.add_argument("--max", type=int, default=20)
+    a.add_argument("--revalidar-dias", type=int, default=30)
+    a.add_argument("--reintento-dias", type=int, default=7)
     x = a.parse_args()
     os.makedirs(x.dir, exist_ok=True)
     man_p = os.path.join(x.dir, "manifiesto.json")
     manif = json.load(open(man_p, encoding="utf-8")) if os.path.exists(man_p) else []
     hechos = {(m["doc_id"], m["sha256"]) for m in manif if m.get("sha256")}
-    pend = json.load(open(x.pendientes, encoding="utf-8"))[: x.max]
+    # v1.12, captura incremental: un documento ya capturado no se vuelve a descargar hasta --revalidar-dias; uno
+    # bloqueado o fallido se reintenta como mucho cada --reintento-dias. Lo que se salta no agrega filas al manifiesto.
+    ultimo = {}
+    for m in manif:
+        if m["doc_id"] not in ultimo or m.get("fecha_captura", "") >= ultimo[m["doc_id"]].get("fecha_captura", ""):
+            ultimo[m["doc_id"]] = m
+    hoy = datetime.date.fromisoformat(x.fecha)
+
+    def toca(p):
+        u = ultimo.get(p["doc_id"])
+        if not u or not u.get("fecha_captura"):
+            return True
+        dias = (hoy - datetime.date.fromisoformat(u["fecha_captura"])).days
+        if str(u.get("estado", "")).startswith("capturado"):
+            return u.get("url") != p["url"] or dias >= x.revalidar_dias
+        return dias >= x.reintento_dias
+
+    todos = json.load(open(x.pendientes, encoding="utf-8"))
+    pend = [p for p in todos if toca(p)][: x.max]
+    print(f"{len(todos)} en la lista · {len(todos) - len([p for p in todos if toca(p)])} al día · {len(pend)} por capturar ahora")
     nuevas = []
     for p in pend:
         f = capturar(p, x.dir, x.fecha)
