@@ -1,0 +1,26 @@
+[
+ {
+  "id": "an-d386396f4de1",
+  "doc_id": "resolucion-2708-2026-colombia-ministerio-del-trabajo",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 1",
+  "fragmento": "regirán por las disposiciones constitucionales, legales y reglamentarias que resulten aplicables",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=193993",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ },
+ {
+  "id": "an-ff02982fc5e9",
+  "doc_id": "resolucion-2708-2026-colombia-ministerio-del-trabajo",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 10",
+  "fragmento": "rige a partir de la fecha de su publicación en el Diario Oficial y deroga o deja sin efectos, según su naturaleza material, las circulares expresamente relacionadas",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=193993",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ }
+]

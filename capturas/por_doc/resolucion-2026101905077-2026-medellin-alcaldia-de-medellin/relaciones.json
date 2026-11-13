@@ -1,0 +1,30 @@
+[
+ {
+  "id": "rel-3245f2a571ad",
+  "origen_id": "resolucion-2026101905077-2026-medellin-alcaldia-de-medellin",
+  "destino_id": "",
+  "destino_ref": "Ley 488 de 1998",
+  "parte": "el numeral 14 del artículo 530 del Estatuto Tributario, modificado por el artículo 8",
+  "tipo": "Modifica",
+  "fragmento": "interpretará y ejecutará de conformidad con las leyes de Colombia y a la jurisdicción de los jueces de la República de Colombia. VIGÉSIMA PRIMERA. Impuesto de timbre. Este Contrato de Empréstito y los pagarés que se suscriban en desarrollo del mismo están exentos del impuesto de timbre nacional por constituir una operación de crédito público, de conformidad con el numeral 14 del artículo 530 del E",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.medellin.gov.co/statements/innovaciondigital/gacetas/consulta-publica/58/descargar/pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo TERCERO del texto capturado (hash f42ec3a81556100b)."
+ },
+ {
+  "id": "rel-6fb0ad3e6e07",
+  "origen_id": "resolucion-2026101905077-2026-medellin-alcaldia-de-medellin",
+  "destino_id": "",
+  "destino_ref": "Resolución 1104 de 2025",
+  "parte": "el artículo 13",
+  "tipo": "Modifica",
+  "fragmento": "raloria General de la República y remitir copia del mencionado registro a la Contraloría Distrital de Medellín, conforme a lo dispuesto en el artículo 13 de la Resolución No. 1104 del 28 de noviembre de 2025",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.medellin.gov.co/statements/innovaciondigital/gacetas/consulta-publica/58/descargar/pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo TERCERO del texto capturado (hash f42ec3a81556100b)."
+ }
+]

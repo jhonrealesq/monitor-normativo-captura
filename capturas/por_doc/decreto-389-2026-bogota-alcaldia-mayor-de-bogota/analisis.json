@@ -1,0 +1,14 @@
+[
+ {
+  "id": "an-0d55f48d82f7",
+  "doc_id": "decreto-389-2026-bogota-alcaldia-mayor-de-bogota",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 8",
+  "fragmento": "rige a partir del día siguiente de la fecha de su publicación en el Registro Distrital",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.alcaldiabogota.gov.co/sisjur//normas/Norma1.jsp?i=194344",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ }
+]

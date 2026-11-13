@@ -1,0 +1,3750 @@
+  T-288-26 
+
+REPÚBLICA DE COLOMBIA
+
+CORTE CONSTITUCIONAL
+
+Sala Primera de Revisión
+
+SENTENCIA T-288 DE 2026
+
+Referencia:
+Expediente T-11.903.838.
+
+Acción
+de tutela presentada por Andrea y Martín contra la Fiscalía
+General de la Nación.
+
+Tema: Vulneración de los derechos a la unidad
+familiar, al trabajo en condiciones dignas y justas y a la salud por el
+traslado de una servidora pública, afectando también los derechos a la salud,
+cuidado y educación inclusiva de su hijo.
+
+Magistrada
+ponente:
+
+Natalia
+Ángel Cabo.
+
+Bogotá
+D.C., 8 de septiembre de 2026.
+
+Aclaración preliminar. La Corte dispuso anonimizar esta
+providencia debido a que (i) para resolver el caso la Sala se refirió a
+detalles de la historia clínica de la accionante y de su hijo, y (ii) en el
+texto de la providencia se hace referencia a un niño. Por lo tanto, se
+expedirán dos versiones de la providencia, de conformidad con la Circular 10 de
+2022 de esta Corporación. La primera versión, que contiene el nombre real de la
+accionante, de su pareja, de su hijo y de terceros con interés, así como de los
+municipios, instituciones educativas y detalles de la historia clínica, se
+notificará a las partes. La segunda versión, anonimizada, se publicará en la
+página web.
+
+***
+
+La Sala Primera de Revisión de la Corte Constitucional, integrada
+por la magistrada Natalia Ángel Cabo, quien la preside, y los magistrados
+Carlos Camargo Assis y Héctor Alfonso Carvajal Londoño[1], en ejercicio de sus competencias
+constitucionales y legales, específicamente las previstas en los artículos 86 y
+241.9 de la Constitución Política y en los artículos 32 y siguientes del
+Decreto 2591 de 1991, ha proferido la siguiente
+
+SENTENCIA
+
+Esta decisión se adopta en el trámite de
+revisión del fallo de primera instancia, proferido el 29 de septiembre de 2025
+por el Juzgado 001 Penal del Circuito para Adolescentes con Función de
+Conocimiento de Municipio A (Departamento X), y de la decisión de
+segunda instancia, proferida el 13 de noviembre de 2025 por la Sala de Decisión
+Penal del Tribunal Superior de Departamento X, dentro de la acción de
+tutela interpuesta por Andrea en contra de la Fiscalía General de la
+Nación.
+
+Síntesis de la decisión
+
+En esta sentencia, la Corte Constitucional
+estudió el caso de una servidora pública nombrada en provisionalidad en la
+Fiscalía General de la Nación, quien fue trasladada de Municipio A a Municipio
+B. Según la accionante, esta decisión vulnera sus derechos fundamentales y
+los de su hijo (un niño en el espectro autista) porque (i) en Municipio B
+su Entidad Promotora de Salud (EPS) no tiene la red de prestadores necesarios
+para tratar su epicondilitis y realizar las terapias al niño; (ii) ella es la
+cuidadora principal, y (iii) el traslado afectó las medidas que le permitían
+atender a su hijo mientras trabajaba e interrumpió la implementación de apoyos
+y ajustes razonables en su proceso educativo.
+
+En sus consideraciones, la Corte abordó:
+(i) la línea jurisprudencial de esta Corporación sobre el derecho a la unidad
+familiar; (ii) los derechos de los trabajadores con responsabilidades
+familiares frente al cuidado; (iii) el derecho de los niños, las niñas y los
+adolescentes neurodivergentes a una educación inclusiva, y (iv) la relación que
+existe entre el derecho a la salud mental y al trabajo en condiciones dignas y
+justas.
+
+Al estudiar el caso concreto, la Corte
+concluyó que la Fiscalía General de la Nación vulneró los derechos al cuidado y
+a la unidad familiar de la accionante y de su hijo. La entidad no reevaluó su
+reubicación luego de conocer sus afecciones de salud y su carga de cuidado.
+Esta decisión fue arbitraria e impuso una carga desproporcionada para la
+accionante y para su hijo. Por otra parte, la Sala determinó que la Fiscalía y
+la Administradora de Riesgos Laborales (ARL) Positiva Compañía de Seguros
+vulneraron los derechos fundamentales de la accionante a la salud y al trabajo
+en condiciones dignas y justas, debido a la ausencia de mecanismos eficaces
+para prevenir los riesgos psicosociales que, en el caso de la accionante, han
+afectado su salud mental.
+
+En consecuencia, esta Corporación protegió
+de forma transitoria los derechos fundamentales al cuidado y a la unidad
+familiar de la accionante y de su hijo, y suspendió los efectos del traslado a Municipio
+B. Para el efecto, le ordenó a la Fiscalía acordar con ella los tiempos y
+las condiciones para su retorno a Municipio A o a un municipio cercano,
+sin imponerle una mayor sobrecarga de trabajo. También amparó de forma
+definitiva el derecho fundamental a la salud de la accionante y su hijo, y le
+ordenó a la EPS continuar con la prestación de los servicios requeridos,
+asegurando que estos puedan ser prestados en otro municipio de ser necesario.
+Asimismo, la entidad deberá informar de manera clara sobre la red de
+prestadores que pueden atender dichos servicios en Municipio B. Por
+último, protegió de forma definitiva el derecho al trabajo en condiciones
+dignas y justas, por lo que le ordenó a la Fiscalía que, con apoyo de la ARL,
+establezca los ajustes necesarios para implementar las recomendaciones médicas
+que ha recibido la accionante. En ese sentido, le ordenó a la ARL diseñar un
+plan para mitigar los riesgos psicosociales que podrían afectar la salud mental
+de los servidores de la Fiscalía General de la Nación.
+
+I.                 
+ANTECEDENTES
+
+1.                
+El 11 de
+septiembre de 2025, Andrea interpuso una acción de tutela en contra de
+la Fiscalía General de la Nación, en la que pidió el amparo de sus derechos
+fundamentales a la unidad familiar, a la salud y al trabajo[2].
+
+1.           
+Hechos y pretensiones
+
+2.                
+La
+accionante manifestó que ejercía el cargo de fiscal 02 delegada ante la URI
+(Unidad de Reacción Inmediata) en Municipio A, hasta que, mediante la
+Resolución XXXXXX del 4 de agosto de 2025, la Fiscalía decidió reubicarla en el
+cargo de fiscal 01 delegada ante el CAVIF (Centro de Atención e Investigación
+Integral contra la Violencia Intrafamiliar) de Municipio B. A su vez, se
+ordenó reubicar al señor Pedro, quien se desempeñaba como fiscal en Municipio
+B, en el cargo que la señora Andrea ocupaba en la URI de Municipio
+A[3].
+
+3.                
+La
+accionante manifestó su desacuerdo con esa decisión mediante un recurso de
+reposición, y en subsidio de apelación. A su juicio, la resolución carecía de
+motivación y era arbitraria[4]. En particular, la señora Andrea
+presentó tres argumentos.
+
+4.                
+En primer
+lugar, la accionante señaló que su hijo, Martín, de siete años de edad, presenta
+una condición de salud que requiere atención especializada y continuidad en su
+tratamiento[5]. En particular, indicó que Martín
+ha presentado síntomas que se relacionan con Trastorno del Espectro Autista
+(TEA) de alto funcionamiento[6]. A su juicio, estas características
+causan que Martín requiera un proceso educativo extremadamente complejo
+y especializado que no puede ser interrumpido sin causar un grave daño a su
+desarrollo integral[7]. Señaló que el Colegio 1,
+institución donde estudiaba Martín al momento de interponer la acción de
+tutela, le brindaba los ajustes razonables necesarios para su proceso de
+aprendizaje.
+
+5.                
+En segundo
+lugar, la accionante aseguró que a ella le diagnosticaron epicondilitis medial,
+por lo que inició un trámite para que calificaran la enfermedad como laboral.
+Además, su médico tratante le formuló una serie de recomendaciones médicas[8]. En tercer lugar, la señora Andrea
+argumentó que la decisión de reubicación fue resultado de un ambiente laboral
+hostil y un acto constitutivo de acoso laboral, porque la entidad la consultó con
+otros funcionarios involucrados, y no con ella[9].
+
+6.                
+La Fiscalía
+General de la Nación, a través de la Resolución No. XXXXXX del 29 de agosto de
+2025, resolvió no reponer la decisión de reubicación y negar por improcedente
+el recurso subsidiario de apelación. En primer lugar, según la accionada, la
+reubicación se dio por necesidades del servicio, porque la planta de
+funcionarios de la Fiscalía es global y flexible. En segundo lugar, la entidad señaló
+que en el momento de proferirse la Resolución cuestionada no reposaba
+documento alguno que acreditara [sus] circunstancias personales y familiares[10]. En tercer
+lugar, agregó que las recomendaciones médicas podrían ser gestionadas en su
+nuevo cargo en Municipio B. Finalmente, sostuvo que la apelación era
+improcedente, ya que el acto se profirió mediante una delegación de la fiscal
+general de la Nación. Por tanto, en virtud del artículo 12 de la Ley 489 de
+1998 y el artículo 74 de la Ley 1437 de 2011, se entiende proferido por la
+autoridad máxima de la entidad y no admite la interposición de ese recurso[11]. 
+
+7.                
+En la tutela, la señora
+Andrea indicó que EPS Sanitas, a la que se encuentran afiliados ella y
+su hijo, no presta sus servicios en el municipio de Municipio B, lo cual
+pone en riesgo la continuidad de los tratamientos ambos requieren. También
+aseguró que ella es la principal cuidadora de su
+hijo, ya que su esposo, Camilo, padre de Martín, es el
+subcomandante de la Estación de Policía de Municipio C, y en virtud de
+ese cargo, tiene una disponibilidad de 24 horas al día[12]. Adicionalmente, afirmó que los
+funcionarios Rodrigo y Victoria tenían conocimiento del esquema
+de cuidado alrededor de su hijo[13].
+
+8.                
+En
+consecuencia, la accionante solicitó revocar la decisión de reubicación o que,
+en su defecto, se le reubique en alguno de los cargos disponibles en Municipio
+A. Como medida provisional, pidió suspender los términos para ejecutar la
+reubicación hasta que se profiriera sentencia en el proceso de tutela[14].
+
+2.           
+Contestación de la accionada
+
+9.                
+En primer
+lugar, la Fiscalía General de la Nación señaló que motivó debidamente su
+decisión, ya que la accionante forma parte de una planta global y flexible.
+Además, la reubicación se ejecutó porque la URI de Municipio A tiene
+necesidades respecto a la investigación y el juzgamiento del delito de hurto,
+mientras que la accionante tiene más experiencia en casos de violencia
+intrafamiliar[15].
+
+10.           
+En
+segundo lugar, la accionada argumentó que no se vulneró el derecho a la unidad
+familiar, ya que el esposo de la demandante tiene dos días de permiso por cada
+quince laborados, razón por la cual el núcleo familiar estaba desintegrado
+antes de la reubicación[16].
+
+11.           
+En tercer
+lugar, la Fiscalía señaló que no existe documentación alguna que acreditara
+las circunstancias familiares y personales que la accionante invocó para
+argumentar que la reubicación vulnera sus derechos fundamentales. Además,
+agregó que no se evidencia la existencia de enfermedad, discapacidad o
+condición alguna [de su hijo] que impida su atención o que requiera un
+tratamiento que no pueda mantenerse con ocasión de la reubicación de su madre
+al Municipio B [17].
+
+12.           
+Finalmente,
+la accionada señaló que, si la accionante consideraba que el acto
+administrativo que ordenó su reubicación carecía de motivación, podía
+controvertirlo en ejercicio del medio de control de nulidad y restablecimiento
+del derecho. Por ende, solicitó declarar improcedente la acción de tutela[18].
+
+3.           
+Decisiones objeto de revisión
+
+Primera
+instancia
+
+13.           
+El 29 de
+septiembre de 2025, el Juzgado Primero Penal del Circuito para Adolescentes con
+Función de Conocimiento de Municipio A concedió un amparo transitorio y
+ordenó a la Fiscalía General suspender la reubicación. Señaló que la suspensión
+estaría vigente hasta que la jurisdicción de lo contencioso administrativo se
+pronunciara sobre el caso, siempre que la accionante presentara una demanda
+dentro de los cuatro meses siguientes a la notificación del fallo[19].
+
+14.           
+El
+juzgado indicó que, conforme a la Sentencia T-001 de 2024, en casos de traslado
+de funcionarios públicos, la tutela procede como mecanismo transitorio para
+evitar perjuicios irremediables en situaciones donde se evidencie una
+imposición de cargas desproporcionadas e irrazonables para el accionante y su
+familia[20].
+Asimismo, indicó que, conforme a la Sentencia T-075 de 2017, en los casos en
+que se toman decisiones de traslados, deben ponderarse especialmente las
+condiciones familiares y de salud de los hijos, donde se le garanticen su
+estabilidad emocional, educativa y médica[21]. Con base en estos precedentes,
+señaló que Martín requería culminar su año escolar en la institución
+especializada que atienda sus necesidades especiales[22].
+
+Impugnación
+
+15.           
+El 1º de
+octubre de 2025, la Fiscalía General impugnó la sentencia de primera instancia.
+En su memorial, argumentó que no existía un perjuicio irremediable, ya que la
+situación de su hijo () no es grave ni de alta complejidad por lo cual puede
+continuarse con esa educación especial y con los tratamientos psicológicos en
+el municipio de Municipio B[23].
+También aseguró que la entidad ha ofrecido alternativas para garantizar la
+continuidad de la atención en salud y terapias en la nueva sede o en municipios
+cercanos, lo cual descarta la inminencia o incluso existencia de un daño a los
+derechos a la salud y a la educación[24].
+
+Segunda instancia
+
+16.           
+El 13 de
+noviembre de 2025, la Sala de Decisión Penal del Tribunal Superior de Departamento
+X revocó la sentencia de primera instancia y, en su lugar, la declaró
+improcedente. El tribunal señaló que el medio de control ante la jurisdicción
+de lo contencioso administrativo era eficaz, porque tiene un régimen de medidas
+cautelares, incluida la suspensión provisional[25].
+
+17.           
+De otra
+parte, el tribunal agregó que en el expediente no existía material probatorio
+que indique que los quebrantos de salud que padece la [accionante] [...] y que
+los síntomas relacionados con el trastorno del espectro autista (TEA) de alto
+funcionamiento que presenta su hijo [...] no puedan ser atendidos en el Municipio
+B o la existencia de una circunstancia que impida que el [niño] [...] culmine
+sus estudios en esa institución hasta tanto se adecúe y habitúe en Municipio
+B[26].
+
+4.           
+Actuaciones ante la Corte Constitucional
+
+18.           
+El 30 de
+abril de 2026[27],
+la Sala de Selección de Tutelas No. 4 de la Corte Constitucional seleccionó el
+expediente de la referencia para su revisión y, en la misma sesión, lo asignó
+por sorteo a la magistrada Natalia Ángel Cabo[28].
+
+19.           
+El 12 de
+junio de 2026, la magistrada sustanciadora profirió un auto[29] en el que resolvió: (i)
+ordenar la vinculación de Pedro, la EPS Sanitas y Positiva Compañía de
+Seguros; (ii) indagar por la situación actual de los miembros del núcleo
+familiar de la accionante, sus condiciones de salud y laborales, y la precisión
+de varios de los hechos, e (iii) invitar a intervenir a diversas
+organizaciones, dadas las características del caso. Por una parte, invitó a
+entidades con experiencia sobre los ajustes razonables que requieren las niñas,
+los niños y los adolescentes neurodivergentes (en particular, quienes se
+encuentran en el espectro autista) para continuar sus procesos de aprendizaje
+en ambientes seguros y en condiciones de igualdad. Por otra parte, convocó a
+organizaciones expertas en el derecho al cuidado, para que se pronunciaran
+sobre el rol de las cuidadoras y las dificultades para asumir tanto trabajo
+productivo como el trabajo reproductivo[30].
+
+20.           
+La
+siguiente tabla sintetiza las respuestas de la parte accionada, de los
+vinculados, de las entidades y de los particulares a quienes se les ordenó
+remitir un informe, así como de las organizaciones invitadas. En lo pertinente,
+estas se desarrollarán con mayor detalle en las consideraciones de la
+sentencia.
+
+Tabla 1. Intervenciones en sede de revisión
+
+Accionante
+
+Andrea[31]
+
+La accionante señaló que actualmente se desempeña como fiscal 01
+  de la Unidad CAVIF de la Fiscalía de Municipio B (Departamento X).
+  Añadió que su hijo está bajo su cuidado, toda vez que su pareja, desde que
+  fue llamado a calificar servicios, es el cuidador de sus padres en el
+  municipio de Municipio D (Departamento Y).
+
+Respecto de Martín, señaló que el niño fue diagnosticado
+  con autismo de alto funcionamiento[32]
+  y le fueron ordenadas varias terapias a la semana: dos de fonoaudiología, dos
+  de terapia ocupacional, dos de rehabilitación cognitiva, dos de psicología
+  individual y una de psicología familiar (esta última una vez cada dos semanas),
+  así como controles con neurología. Adjuntó certificados y órdenes médicas que
+  soportan estas afirmaciones. Su neuropediatra indicó que el niño presenta un
+  Trastorno del Espectro Autista de Compromiso Leve (Nivel 1) por lo que
+  requiere un proceso de inclusión escolar en aula regular con Plan Individual
+  de Ajustes Razonables (PIAR)[33].
+  Adjuntó, además, su certificado de discapacidad.
+
+Indicó que Martín ahora estudia en el Colegio 2 del
+  Municipio B. Agregó que en esa institución el niño recibe ajustes
+  razonables, pero resaltó que en el Colegio 1 (en Municipio A,
+  en el que estudiaba antes) tiene grupos más pequeños y un programa de
+  inclusión más robusto.
+
+De otra parte, actualizó la información sobre su propio diagnóstico.
+  Explicó que se le diagnosticó epicondilitis medial, epicondilitis lateral y
+  [...] un túnel de carpo leve, todo en el brazo derecho[34], cuyo origen no ha sido
+  calificado. Adjuntó el examen médico del túnel del carpo. También advirtió
+  que, como consecuencia de la reubicación, su salud mental se ha visto
+  afectada, por lo que ha recibido recomendaciones médicas adicionales por
+  parte de su psiquiatra tratante.
+
+Según el certificado médico que adjuntó, la psiquiatra
+  diagnosticó trastorno adaptativo secundario a estresores laborales y
+  familiares[35],
+  le formuló la ingesta diaria de 30 mg de mirtazapina (un antidepresivo) y
+  emitió, entre otras, las siguientes recomendaciones médicas[36]:
+
+·        
+  Mantener
+  jornada laboral sin exceder el horario estipulado en su contrato.
+
+·        
+  No
+  agendar turnos nocturnos.
+
+·        
+  Realizar
+  pausas de recuperación por cada media jornada de tiempo.
+
+·        
+  Permitir
+  los permisos para asistir a las citas médicas por psicología y psiquiatría.
+
+·        
+  En lo posible
+  no trasladar de municipio para favorecer asistencia a citas e intervenciones
+  terapéuticas.
+
+·        
+  Se
+  sugiere a su jefe directo evaluar la carga laboral, tanto cuantitativa como
+  cualitativa, teniendo en cuenta la condición de salud de la paciente. De modo
+  tal, que su carga laboral pueda desarrollarse durante su jornada laboral.
+
+·        
+  Conforme
+  a la normatividad vigente, el funcionario debe ser valorado por salud
+  ocupacional de su empleador (Decreto 2346 de 2007) para determinar las
+  recomendaciones laborales que consideren pertinentes.
+
+Al respecto, adjuntó el acta de una reunión realizada el 24 de
+  marzo de 2026 por el Grupo de Seguridad y Salud en el Trabajo de la Fiscalía.
+  En ella, se socializaron las medidas preventivas y se determinó que [l]a
+  solución de fondo requiere una decisión de nivel directivo, se concluye que
+  es pertinente el envío de solicitudes formales, soportes médicos y actas por
+  parte de Seguridad y Salud en el Trabajo, así como la eventual articulación
+  con instancias administrativas superiores, para lograr una solución efectiva[37].
+
+De otra parte, afirmó que ella y su hijo están afiliados a la
+  EPS Sanitas y que cuentan con un plan complementario premium. Indicó que en Municipio
+  B, a diferencia de Municipio A, no cuentan con la red de
+  instituciones prestadoras de salud (IPS) que requieren, pues en dicho
+  municipio la EPS solo presta servicios de urgencias.
+
+Finalmente, señaló que el 12 de marzo de 2026 interpuso una demanda
+  de nulidad y restablecimiento del derecho en contra de la decisión de
+  reubicación, de la cual conoce el Juzgado XXX Administrativo de Municipio
+  G, sin que a la fecha haya sido admitida la demanda o se hayan decretado
+  medidas cautelares[38].
+
+Posteriormente, el 15 de julio de 2026, la accionante radicó un
+  segundo memorial en el que explicó los cargos que ha desempeñado en la
+  Fiscalía en calidad de encargo. Señaló que el 13 de julio, al reintegrarse de
+  sus vacaciones, su hijo presentó un cuadro de gastroenteritis y debió
+  llevarlo de urgencias al hospital. Como no contaba con una red de apoyo,
+  solicitó calamidad doméstica[39].
+
+Accionada
+
+Fiscalía General de la Nación
+
+A través de la Secretaría General de esta Corporación, se
+  recibieron tres respuestas a los requerimientos indicados en el auto señalado
+  en el párrafo 19.
+
+En primer lugar, en un memorial remitido por el director (e.) de
+  la Dirección Seccional de Departamento X[40], se indicó que[41]:
+
+i.       
+  Desde el
+  1 de enero de 2025, se han proveído en los municipios de Municipio A, Municipio
+  E y Municipio F un total de 40 nombramientos en cargos con el
+  mismo nivel jerárquico. De estos, 22 han sido realizados en provisionalidad.
+  Adicionalmente, en ese lapso se nombraron siete fiscales adscritos al CAVIF
+  de Municipio A, de los cuales tres están en provisionalidad y tres en
+  encargo.
+
+ii.     
+  Aclaró
+  que la alternativa de reubicación temporal a la que se refirieron en la
+  impugnación de la tutela consistía en trasladar a la accionante a otro cargo
+  en municipios aledaños a Municipio A, medida que no ha sido ordenada
+  por ninguna autoridad judicial.
+
+iii.   
+  Remitió
+  estadísticas sobre las noticias criminales relacionadas con los delitos de
+  hurto y de violencia intrafamiliar, que comparan la comisión de estas
+  conductas en Municipio A y Municipio B entre 2023 y 2026. En
+  estas cifras se observa que las noticias criminales por violencia
+  intrafamiliar han disminuido en Municipio B hasta 2025, mientras que
+  en Municipio A han aumentado de forma sostenida año tras año. En
+  paralelo, las noticias criminales por hurto se han incrementado en ambos
+  municipios.
+
+iv.   
+  También
+  indicó que consultó a la Subdirección Regional de Apoyo Central si existía
+  constancia en la hoja de vida de la accionante sobre recomendaciones médicas
+  o responsabilidades de cuidado, y señaló que solo hay una novedad respecto de
+  las recomendaciones médicas con vigencia desde el 1º de octubre de 2025.
+
+v.      Finalmente, agregó que la
+  Fiscalía ha adoptado medidas administrativas razonables y proporcionales
+  orientadas a atender su condición actual y a garantizar el adecuado ejercicio
+  de sus funciones[42].
+  Como ejemplos, precisó que a la accionante no se le agendan turnos nocturnos
+  y que han adoptado medidas concretas, razonables y pertinentes encaminadas a
+  garantizar condiciones adecuadas para el ejercicio de sus funciones[43].
+
+En segundo lugar, la Subdirección Regional de Apoyo Central[44] remitió un memorial con la
+  siguiente información[45]:
+
+i.     
+  Señaló
+  que la accionante y el señor Pedro están vinculados en
+  provisionalidad, y remitió sus hojas de vida y constancias de servicios. La
+  constancia de la accionante indica que entre el 1º de enero de 2014 y el 30
+  de junio de 2017 se desempeñó como asistente de fiscal adscrita a la
+  Subdirección Seccional de Fiscalías y de Seguridad Ciudadana. Por su parte,
+  la hoja de vida y la constancia de servicios del señor Pedro no
+  detallan que tenga alguna especialidad en la investigación de cierto tipo de
+  delitos.
+
+ii.   
+  Las
+  recomendaciones médicas, formuladas el 1º de octubre de 2025 por la
+  especialista en salud ocupacional Pedro y señaladas por los
+  profesionales de la salud que tratan a la accionante, fueron socializadas con
+  sus superiores jerárquicos el 6 de octubre y el 16 de diciembre en su antiguo
+  y nuevo sitio de trabajo, respectivamente.
+
+iii.  El 15 de abril del presente
+  año, la accionante interpuso una queja de acoso laboral en contra de otra
+  servidora de la Fiscalía[46].
+
+iv.  En virtud de la Resolución
+  0312 de 2019 del Ministerio del Trabajo, la Fiscalía cuenta con la Resolución
+  2-0889 del 15 de marzo de 2010, que estableció el Programa de Promoción de la
+  Salud Mental y el Protocolo de Intervención y Manejo Personal de Factores de
+  Riesgo Psicosocial. En desarrollo de este programa, se han impartido varios
+  talleres y jornadas en la Dirección Seccional de Departamento X, y se
+  ha dispuesto de servicios de consultoría psicológica, las intervenciones
+  individuales y grupales, el acompañamiento por parte de Seguridad y Salud en
+  el Trabajo y las actuaciones del Comité de Convivencia Laboral[47].
+
+v.    La quejas de acoso laboral están
+  siendo tramitadas por el Comité de Convivencia Laboral[48].
+
+En tercer lugar, la Subdirección de Talento Humano[49] señaló que el cargo que ocupan la
+  accionante y el señor Pedro no fue ofertado en ningún concurso de
+  méritos. Ambos participaron en el Concurso de Méritos FGN 2024 y ocupan las
+  posiciones XXX y XXXX, respectivamente, en la lista de elegibles; pero solo
+  podrán ser nombrados cuando se cubran primero las 448 vacantes disponibles[50].
+
+Vinculados
+
+Pedro[51]
+
+Señaló que la reubicación, mediante la cual él y la accionante
+  fueron intercambiados de cargo, se hizo efectiva el 18 de noviembre de 2025 y
+  que, desde entonces, ejerce el cargo de fiscal 02 adscrito a la URI (Unidad
+  de Reacción Inmediata) de Municipio A.
+
+EPS Sanitas[52]
+
+En primer lugar, la EPS señaló que tanto la accionante como su
+  hijo están afiliados al régimen contributivo en esa institución y cuentan con
+  un plan complementario premium. En segundo lugar, desde 2024 la accionante ha
+  utilizado 22 servicios, entre citas médicas, exámenes diagnósticos y entrega
+  de medicamentos, todos en Bogotá o en Municipio A. En tercer lugar, Martín
+  ha recibido en el mismo periodo más de 50 atenciones, incluidas terapias de
+  rehabilitación. En cuarto lugar, señaló que el origen de la epicondilitis no
+  ha sido determinado. Finalmente, indicó que la accionante no ha utilizado
+  ninguna prestación de la EPS para tratar esta enfermedad.
+
+No obstante, la EPS no respondió, entre otras, la pregunta del
+  despacho sustanciador acerca de cuáles IPS en Municipio B podrían
+  cubrir esos servicios.
+
+ARL - Compañía de Seguros Positiva[53]
+
+La administradora de riesgos laborales señaló que, aunque tiene
+  reportados dos accidentes de trabajo previos, no tenía noticia de la
+  epicondilitis de la accionante. Por lo tanto, solicitó declarar improcedente
+  la acción de tutela. No obstante, no respondió los interrogantes (d), (g) e
+  (i) formulados en el auto de pruebas.
+
+Personas o entidades a las que se le
+  ordenó remitir informes
+
+IPS 1[54]
+
+Señaló que Martín ha acudido al Instituto a dos
+  atenciones médicas por servicio ambulatorio en las especialidades de
+  Neuropsicología[55],
+  en dos entrevistas: una en mayo de 2024 y otra en febrero de 2026. Agregó
+  que, según sus registros, no es posible determinar de forma afirmativa o
+  concluyente un perfil específico de neurodivergencia con un grado de certeza
+  absoluto[56],
+  por lo que [l]a caracterización actual del paciente [...] cuenta un carácter
+  estrictamente preliminar[57].
+
+IPS 2
+
+No se pronunció.
+
+IPS 3
+
+Indicó que Martín ha sido atendido en el servicio de
+  psiquiatría en dos ocasiones. Explicó que, conforme a sus registros, todavía
+  es preliminar determinar que el niño está en el espectro autista. Agregó que Martín
+  requiere un proceso terapéutico integral e interdisciplinario, el cual
+  comprende acompañamiento y manejo por las áreas de terapia ocupacional,
+  psicología y terapia de lenguaje, con el propósito de favorecer su desarrollo
+  funcional, cognitivo, conductual y comunicativo.
+
+Colegio 1
+
+No se pronunció.
+
+Policía Nacional[58]
+
+La entidad señaló que Camilo, padre de Martín,
+  fue retirado del servicio activo de la Policía Nacional el 22 de septiembre
+  de 2025[59].
+
+Rodrigo
+
+Director (e) Seccional de Departamento X
+
+Señaló que la accionante solo informó a la Fiscalía acerca de la
+  neurodivergencia de su hijo con el recurso de reposición contra el acto
+  administrativo de reubicación.
+
+Adicionó que la accionante, así como otros tres servidores,
+  interpusieron una queja de acoso laboral en su contra tras la reubicación.
+  Aseguró que las reubicaciones se fundamentaron en las necesidades del
+  servicio, sin la finalidad de menoscabar la dignidad, integridad o
+  condiciones laborales de los servidores [denunciantes].
+
+Victoria[60]
+
+Asesora de la Dirección Seccional de Departamento X
+
+Señaló que no tenía conocimiento detallado de las
+  circunstancias personales, médicas y familiares invocadas[61] por la accionante en la tutela.
+  Añadió que [ú]nicamente tenía conocimiento de manera general, a partir de
+  manifestaciones realizadas por la misma funcionaria en espacios laborales y
+  en presencia de otros servidores, de que era madre de un [niño] y que el
+  padre del mismo es servidor de la Policía Nacional [62].
+
+Invitados
+
+Clínica Jurídica Grupo de Acciones Públicas (GAP) de la
+  Universidad del Rosario[63]
+
+La clínica jurídica argumentó que la tutela es procedente porque
+  se configura un perjuicio irremediable. Explicó que la reubicación podría
+  causar daños inminentes debido a la interrupción de tratamientos médicos y a
+  la ruptura en la red de cuidado. Además, indicó que la medida es urgente, ya
+  que las afectaciones suceden inmediatamente después de la reubicación, e
+  impostergable, puesto que la espera al medio procesal ordinario generaría una
+  lesión consumada en los derechos fundamentales de la accionante y de su hijo.
+  A su juicio, la procedibilidad debe analizarse partiendo de que el riesgo
+  constitucional consiste en la posible ruptura de una combinación específica
+  de condiciones que, según lo alegado, venían garantizando el bienestar del
+  niño: continuidad terapéutica, ajustes razonables escolares, acompañamiento
+  cotidiano de su madre y estabilidad familiar[64].
+
+De otra parte, advirtió que la Fiscalía tenía el deber
+  constitucional de analizar si la [r]egla general de movilidad laboral
+  propia de las plantas globales y flexibles produce efectos específicos sobre
+  personas que requieren protección reforzada[65].
+  Este examen, a juicio de la Clínica, [s]e debe realizar desde un enfoque
+  interseccional [66],
+  teniendo en cuenta que la Constitución establece que los derechos de los
+  niños y las niñas prevalecen sobre los demás, así como la neurodivergencia
+  del hijo de la accionante. Sobre este punto, agregó que se debe considerar
+  la interacción entre las características de la persona y las barreras
+  existentes en su entorno[67],
+  de forma que la intervención estatal se dirija a garantizar apoyos y adoptar
+  ajustes razonables en los ámbitos educativo, médico, familiar y social [68]. Asimismo, la organización indicó
+  que, conforme a la jurisprudencia de la Corte Constitucional, la atención
+  requerida no puede condicionarse a un diagnóstico certero, sino a la
+  necesidad misma del cuidado.
+
+Adicionalmente, señaló que la reubicación dificulta la
+  aplicación de ajustes razonables, pues el niño depende de una red de cuidado
+  organizada principalmente alrededor de su madre; y la reubicación puede
+  incidir en la continuidad de servicios de salud, terapias y educación
+  inclusiva[69].
+  Por ende, afirmó que la Fiscalía debió reponer el acto administrativo y no
+  podía limitarse a afirmar la existencia de una planta global y flexible,
+  pues una vez conoció las circunstancias familiares alegadas, tenía el deber
+  de verificar si la reubicación podía afectar de manera desproporcionada la
+  estabilidad y el desarrollo integr[al][70]
+  de Martín.
+
+Por lo tanto, solicitó revocar los fallos de instancia y tutelar
+  los derechos de la accionante.
+
+Asociación de personas con autismo (APA)[71]
+
+Respecto del niño, señaló que los cambios de rutina en
+  cualquier contexto (hogar, institución educativa, cambios de ciudad, espacios
+  terapéuticos u otros entornos sociales) [...] pueden generar un impacto
+  significativo en niños con TEA (trastorno del espectro autista),
+  especialmente cuando ocurren de manera abrupta o sin procesos previos de
+  preparación y acompañamiento[72].
+  Por ende, recomendó implementar procesos de transición gradual mediante
+  anticipación del cambio, uso de apoyos visuales, mantenimiento de referentes
+  conocidos, acompañamiento emocional y articulación entre familia, institución
+  educativa y equipo terapéutico[73].
+
+Respecto de la accionante, afirmó que el hecho de ser la
+  principal cuidadora [genera] una elevada carga física, emocional y cognitiva
+  que modifica sustancialmente las rutinas y los roles de la cuidadora[74]. Por esa razón, las madres
+  cuidadoras requieren apoyos integrales que incluyan programas de respiro
+  familiar, redes de apoyo formales e informales, intervenciones
+  psicoeducativas, acceso a servicios de salud mental, políticas laborales
+  flexibles y acompañamiento desde terapia ocupacional [75].
+
+Facultad de Derecho de la Universidad Militar Nueva Granada[76]
+
+Respecto del caso concreto, indicó que es necesario asumir que
+  como sociedad también somos corresponsables de brindar el cuidado y hacer una
+  apuesta significativa por la redistribución de estos trabajos[77]. Adicionó que el simple traslado
+  del lugar de trabajo implica por sí solo la pérdida de las redes de cuidado y
+  afecta las decisiones que sobre el mismo ya había tomado la mujer, como lo es
+  la inclusión en un programa educativo adecuado[78].
+
+Finalmente, añadió que la Corte debería evitar asumir una teoría
+  del caso según la cual un niño con autismo es solamente sujeto de cuidados,
+  puesto que esta es una visión individualista de la discapacidad que le quita
+  agencia a él como sujeto y que contribuye a desvalorizar los aportes que
+  hacen estas personas en la construcción de una sociedad más diversa, amplia y
+  compleja[79].
+
+Clínica Jurídica Grupo de Acciones Públicas (GAPI) de la
+  Universidad ICESI[80]
+
+En primer lugar, señaló que [la]
+  identificación del perfil de neurodivergencia no exige un diagnóstico médico
+  definitivo para activar las obligaciones constitucionales de protección en el
+  ámbito educativo. Basta con que existan indicadores funcionales que permitan
+  advertir barreras para el aprendizaje, la participación o la interacción
+  escolar, de manera que la institución educativa esté en capacidad de
+  implementar apoyos pedagógicos provisionales y ajustes razonables mientras
+  avanza el proceso de caracterización interdisciplinaria[81]. Esto porque desde el punto de
+  vista médico resulta contrario a la buena práctica clínica exigir que el niño
+  espere la conclusión del proceso diagnóstico para recibir apoyos educativos[82]. Por el contrario, [l]os ajustes
+  razonables constituyen medidas dinámicas, susceptibles de modificarse
+  conforme evoluciona el conocimiento del perfil del estudiante[83].
+
+Desde esa perspectiva, [e]l cambio de
+  ciudad no implica únicamente cambiar de colegio. Implica reconstruir un
+  proceso que tomó meses e incluso años consolidar, la familia deberá,
+  nuevamente identificar una institución con capacidad real para desarrollar
+  procesos de educación inclusiva; sensibilizar a directivos y docentes sobre
+  el perfil funcional del niño; aportar informes médicos, psicológicos y
+  pedagógicos; gestionar reuniones interdisciplinarias; promover la
+  articulación entre el sector educativo y el sector salud; participar en una
+  nueva caracterización pedagógica; construir un nuevo PIAR ajustado al
+  contexto institucional; acompañar emocionalmente al niño durante el proceso
+  de adaptación y verificar permanentemente que los ajustes razonables
+  realmente se implemente[n][84].
+  Para la madre, [r]epresenta una carga extraordinaria que, conforme lo
+  evidencia la literatura nacional e internacional sobre organización social
+  del cuidado, suele recaer de manera desproporcionada sobre la madre
+  cuidadora[85].
+  Para el niño, [implica] la preservación de un conjunto de condiciones
+  pedagógicas, relacionales e institucionales que son funcionales para ese niño
+  particular[86].
+
+Proyecto Digna de la Universidad de los Andes[87]
+
+Indicó que, conforme al Convenio 156 de
+  la Organización Internacional del Trabajo, el Estado tiene el deber de
+  adoptar medidas dirigidas a garantizar que las personas con
+  responsabilidades familiares puedan acceder, permanecer y progresar en el
+  empleo sin ser objeto de discriminación por razón de dichas
+  responsabilidades[88].
+
+Respecto del caso concreto, afirmó que
+  [l]a decisión de reubicar a la accionante no solo incidía sobre sus
+  condiciones de empleo, sino también sobre una organización de cuidado
+  previamente consolidada alrededor de un niño que requiere atención médica,
+  terapéutica y educativa especializada[89].
+  Por lo tanto, a su juicio, en este caso, la Fiscalía incumplió su obligación,
+  pues [t]iene el deber de valorar el impacto que la decisión puede generar
+  sobre esa red, explorar alternativas menos gravosas cuando estas existan y
+  motivar de manera suficiente las razones por las cuales la medida adoptada
+  resulta[90].
+
+Fundación Saldarriaga Concha[91]
+
+Indicó que la ausencia de un
+  diagnóstico definitivo o de la certificación de discapacidad no puede
+  constituirse en un requisito restrictivo para que las instituciones
+  educativas implementen los apoyos que requiera un estudiante[92]. En cambio, precisó que las
+  instituciones educativas tienen el deber de identificar las barreras para el
+  aprendizaje y la participación mediante la valoración pedagógica y de adoptar
+  oportunamente las medidas de apoyo que resulten necesarias para garantizar el
+  acceso, la permanencia, la participación y el aprendizaje de todos los
+  estudiantes[93].
+
+Asdown Colombia[94]
+
+A juicio de la asociación, el debate en
+  este caso trasciende a si se podía ordenar el traslado o no. Por el
+  contrario, se centra en si la accionada ejerció dicha facultad con
+  observancia de los derechos fundamentales del niño involucrado[95]. Al respecto, recordó que la
+  jurisprudencia de la Corte establece que las decisiones de traslado deben
+  considerar la situación concreta del servidor y de su núcleo familiar,
+  especialmente cuando están comprometidos derechos fundamentales de terceros
+  pertenecientes a grupos constitucionalmente protegidos[96].
+
+Para los niños en el espectro autista,
+  [l]as barreras existentes en el entorno y [...] la ausencia de apoyos
+  adecuados[97]
+  requieren medidas particulares. Se precisa la existencia de rutinas
+  estables, la continuidad de los procesos educativos, la continuidad de apoyos
+  terapéuticos, las redes familiares disponibles, la presencia de cuidadores
+  principales[,] y las condiciones de inclusión social y comunitaria[98]. Lo anterior, con el fin de [g]arantizar
+  el bienestar y la participación efectiva del niño en igualdad de condiciones[99]. Por lo que, a su juicio, una
+  decisión administrativa que altere significativamente dichos apoyos no puede
+  justificarse únicamente mediante consideraciones generales relacionadas con
+  las necesidades del servicio[100].
+
+Por eso, indicó que antes de decidir
+  sobre un traslado, se debe analizar la existencia de alternativas menos
+  gravosas, la posibilidad de reubicaciones distintas, [los] mecanismos de
+  flexibilización administrativa[,] y [las] soluciones que permitan armonizar
+  las necesidades del servicio con los derechos del niño[101].
+
+Clínica Jurídica Programa de Acción por la Igualdad y la
+  Inclusión Social (Paiis)[102]
+  de la Universidad de los Andes
+
+La clínica jurídica argumentó que la
+  neurodivergencia del niño [s]e expresa como una discapacidad que requiere de
+  ajustes razonables y apoyos activos en su entorno académico[103]. En consecuencia, las
+  herramientas desarrolladas para la atención de las personas con discapacidad,
+  en relación con la educación inclusiva, le aplican plenamente[104].
+
+Además, la interviniente distinguió
+  [entre] la valoración médica, que busca identificar la existencia y el tipo
+  de discapacidad, y la valoración pedagógica, que busca identificar las
+  barreras visibles e invisibles del entorno educativo[105]. Señaló que los ajustes
+  razonables son el resultado del trabajo colaborativo entre el estudiante, la
+  institución educativa y sus cuidadores. En Colombia, estos se manifiestan a
+  través del Plan Individual de Ajustes Razonables (PIAR). Este instrumento
+  debe incluir la descripción del contexto en que se desenvuelve el estudiante
+  dentro y fuera del aula, objetivos y metas de aprendizaje que se pretenden
+  reforzar, y los ajustes curriculares, didácticos, evaluativos y metodológicos
+  para el año lectivo[106].
+
+Para el caso de Martín, advirtió
+  que sin claridad sobre la disponibilidad de herramientas equivalentes y que
+  atiendan a la misma calidad de la educación [...] en Municipio B,
+  dejar el [c]olegio en el que se encuentra actualmente podría significar un
+  retroceso en [] sus metas de aprendizaje y constituir, precisamente, una
+  barrera más que debería prevenirse[107].
+  Por esa razón, la Fiscalía no solo [debía] verificar la existencia de un
+  cupo escolar en el municipio de destino, sino también que la nueva
+  institución estuviera en capacidad de garantizar la continuidad de los apoyos
+  pedagógicos previamente identificados mediante un PIAR o un instrumento
+  equivalente[108].
+
+Finalmente, concluyó que la sola
+  existencia de instituciones educativas en Municipio B [...] no
+  satisface por sí sola el derecho a la educación [del niño][109]. Esto ocurre porque el acceso
+  formal a una institución dista del aprendizaje efectivo, de la garantía de
+  una educación de calidad, o aceptable, y de la real permanencia educativa
+  para el estudiante con discapacidad[110].
+  Por tanto, no basta con que exista un cupo disponible en una institución del
+  municipio de destino, ya que dicha institución debe ofrecer condiciones
+  pedagógicas y de acompañamiento pertinentes para sus necesidades[111].
+
+Liga Colombiana de Autismo[112]
+
+Señala que existen profundas asimetrías
+  institucionales en la implementación práctica del Decreto 1421 de 2017[113]. Relató que, en la experiencia de
+  su organización, los municipios periféricos o fuera de las grandes áreas
+  metropolitanas [...] presentan importantes barreras en materia de
+  accesibilidad cognitiva y en la capacitación docente sobre los ajustes
+  razonables del entorno[114].
+
+Afirmó que, desde la perspectiva de una
+  persona autista, el procesamiento del entorno [...] está intrínsecamente
+  ligado a la predictibilidad, las rutinas estructuradas y la estabilidad de
+  sus redes de apoyo[115].
+  Señaló que [l]a ruptura de este ecosistema adaptativo puede generar un
+  impacto regresivo en el desarrollo cognitivo y emocional del [niño][116]. Indicó que cualquier medida de
+  reubicación laboral de la cuidadora principal debe estar condicionada a un
+  proceso de transición planificado, progresivo y previamente concertado[117], así como a un término
+  prudencial y mediado para estructurar programas de anticipación visual y
+  social que le permitan al niño procesar la mudanza residencial, así como el
+  cambio de su entorno comunitario, sin menoscabar su calidad de vida, su
+  estabilidad emocional y la salud mental de su núcleo familiar[118].
+
+II.              
+CONSIDERACIONES
+
+1.           
+Competencia
+
+21.           
+La Sala
+Primera de Revisión de Tutelas de la Corte Constitucional es competente para
+revisar las decisiones adoptadas en el marco del proceso de tutela de la
+referencia, de conformidad con el numeral 9 del artículo 241 de la Constitución
+Política y los artículos 33 a 36 del Decreto 2591 de 1991.
+
+2.    
+Procedencia de la acción de tutela
+
+22.           
+El
+artículo 86 de la Constitución Política y los artículos 5 y 6 del Decreto Ley
+2591 de 1991 señalan que la acción de tutela solo es procedente cuando las
+partes tienen legitimación, y se satisfacen los principios de inmediatez y
+subsidiariedad.
+
+Legitimación en la causa por activa
+
+23.           
+El
+artículo 10 del Decreto Ley 2591 de 1991 señala que la acción de tutela podrá
+ser presentada por quien sea titular de los derechos fundamentales
+presuntamente vulnerados. En este caso, se cumple la legitimación en la causa
+por activa porque la acción fue interpuesta a nombre propio por Andrea,
+la servidora pública afectada por la decisión de reubicación.
+
+24.           
+Adicionalmente,
+en la demanda, la accionante señaló que el traslado afectaba los derechos
+fundamentales de su hijo y pidió amparar los derechos de ambos. En este
+sentido, aunque la señora Andrea no incluyó expresamente a su hijo como
+parte accionante, a la Sala le corresponde interpretar la demanda para fijar
+adecuadamente el objeto del litigio[119].
+En este caso, la interpretación conjunta de los hechos y las pretensiones
+muestra que la tutela también fue presentada a nombre de Martín, quien está
+legitimado en la causa por pasiva porque, como su representante legal, su madre
+está legitimada para reclamar la protección de sus derechos fundamentales[120].
+
+Legitimación en la causa por pasiva
+
+25.           
+Este
+requisito hace referencia a la capacidad legal del destinatario de la acción
+de tutela para ser demandado, al estar llamado a responder por la vulneración o
+amenaza del derecho fundamental, en el evento en que esta se acredite en el
+proceso [121].
+El artículo 86 de la Constitución Política y el artículo 42 del Decreto Ley
+2591 de 1991 indican que la acción de tutela podrá ser interpuesta, por regla
+general, en contra de autoridades públicas que vulneren o amenacen derechos
+fundamentales, y en contra de particulares cuando estos presten un servicio
+público, el accionante se encuentre en estado de indefensión o subordinación
+respecto de ellos, o afecten directamente un interés colectivo.
+
+26.           
+En este
+caso, la accionada, la Fiscalía General de la Nación, tiene legitimación en la
+causa por pasiva porque es la autoridad pública que emitió y ejecutó el acto
+administrativo de traslado, el cual generó la presunta vulneración de los
+derechos fundamentales de la accionante y de su hijo. Los vinculados Sanitas
+EPS, la ARL Compañía de Seguros Positivos y Pedro también tienen
+legitimación en la causa por pasiva.
+
+27.           
+Por una parte,
+Sanitas EPS tiene legitimación en la causa porque es un particular que presta
+un servicio público. Según el artículo 49 de la Constitución Política, el
+servicio público de salud se encuentra en cabeza del Estado, quien tiene la
+responsabilidad de organizar, dirigir y reglamentar la prestación de los
+servicios de salud a los habitantes, así como de establecer las políticas para
+la prestación del servicio por las entidades privadas, y ejercer su vigilancia
+y control [122].
+Conforme a lo dispuesto en el literal e) del artículo 156 de la Ley 100 de 1993
+y al artículo 15 de la Ley 1751 de 2015, esta entidad tiene a su cargo el
+aseguramiento de las contingencias derivadas de las enfermedades de la
+accionante, mientras que estas no sean calificadas como de origen laboral[123].
+La accionante se encuentra afiliada a Sanitas EPS y en la demanda de tutela
+aseguró que en su actual lugar de residencia experimenta barreras para acceder
+a instituciones prestadoras de servicios de salud que le presten servicios a
+ella y a su familia, por lo que esta entidad [podría] estar [llamada] a
+responder por la presunta vulneración del derecho a la salud de la accionante
+y de su hijo[124].
+
+28.           
+Por otra parte, Positiva
+Compañía de Seguros es una administradora de riesgos laborales, por lo que, en
+virtud del artículo 8 de la Ley 100 de 1993, pertenece al sistema de seguridad
+social integral. Como tal, tiene tres responsabilidades. En primer lugar, conforme
+a la Ley 1616 de 2013, las administradoras tienen el deber de promover la salud
+mental en espacios laborales y de identificar riesgos psicosociales, lo que
+incluye el monitoreo permanente de la exposición a factores de riesgo
+psicosocial en el trabajo para proteger, mejorar y recuperar la salud mental de
+los trabajadores[125]. En segundo lugar, conforme al
+parágrafo de esa disposición, adicionado por el artículo 9 de la Ley 2460 de
+2025, esa entidad tiene el deber de acciones de prevención, sensibilización,
+orientación y control de factores de esta clase de riesgos.
+
+29.           
+Finalmente,
+Pedro tiene legitimación en la causa por pasiva, pues se trata de un
+tercero con interés. Según la jurisprudencia[126], cualquier persona que pueda verse
+afectada por las órdenes proferidas en la sentencia debe poder intervenir en la
+tutela con el fin de que se [le] asegure la protección de sus derechos[127]. Como se
+explicó en el párrafo 2, Pedro ocupaba el cargo que ahora
+ejerce la accionante, y ella se desempeña en el puesto que él tenía antes.
+
+Inmediatez
+
+30.           
+Este
+principio le impone al tutelante el deber de formular la acción de tutela en
+un término prudente y razonable respecto del hecho o la conducta que causa la
+vulneración de derechos fundamentales que permita la protección inmediata del
+derecho fundamental presuntamente transgredido y/o amenazado[128].
+En este caso, entre la presentación de la acción de tutela (11 de septiembre de
+2025) y la fecha de expedición del acto administrativo que, según la
+accionante, generó la vulneración de derechos fundamentales (4 de agosto de
+2025), transcurrieron 37 días. A juicio de la Sala Primera de Revisión, este
+plazo es razonable para interponer una tutela, por lo que se satisface el requisito
+de inmediatez.
+
+Subsidiariedad
+
+31.           
+El
+artículo 86 de la Constitución y el numeral 1 del artículo 6 del Decreto Ley
+2591 de 1991 sostienen que la tutela solo es procedente cuando no exista otro
+mecanismo judicial idóneo para la defensa de los derechos fundamentales, salvo
+que de forma excepcional se acredite la existencia de un perjuicio
+irremediable.
+
+32.           
+Basándose
+en esta normativa, la jurisprudencia de la Corte ha señalado que existen dos
+supuestos. En primer lugar, la tutela podría proceder como mecanismo definitivo
+cuando no existen mecanismos judiciales ordinarios a través de los cuales la
+parte accionante pueda exigir la protección de sus derechos fundamentales[129]
+o, por alguna razón, estos no son idóneos (apto[s] para producir el efecto
+protector de tales derecho[s][130])
+o eficaces (diseñado[s] para protegerlos de manera oportuna[131])
+para lograr la protección de esos derechos.
+
+33.           
+En
+segundo lugar, podría ser procedente como un mecanismo transitorio, cuando se
+presente un perjuicio irremediable. La jurisprudencia ha definido que esto
+sucede cuando el (i) el perjuicio es inminente, lo que implica que el daño
+está por suceder en un tiempo cercano; (ii) las medidas para evitar la
+afectación de los derechos fundamentales son urgentes; (iii) se puede
+configurar un perjuicio grave; y (iv) las órdenes por proferir tienen carácter
+impostergable. En los casos en los que la tutela proceda como mecanismo transitorio,
+la protección se extenderá hasta que se profiera una decisión definitiva por
+el juez ordinario[132].
+
+34.           
+Tratándose
+de las decisiones de traslado o reubicación de servidores públicos, la
+jurisprudencia de la Corte ha señalado que, en principio, el medio de control
+de nulidad y restablecimiento del derecho es idóneo para controvertir actos
+administrativos de carácter particular que tomen esta clase de decisiones[133], por lo que, por regla
+general, las tutelas que pretendan cuestionar dichos actos son improcedentes[134]. No obstante, esta Corporación ha aceptado
+que en aquellos casos en los que existan situaciones excepcionales que
+amenacen de forma grave los derechos del trabajador o de su núcleo familiar,
+la tutela procede de forma excepcional[135]. La Corte ha señalado que esas
+situaciones excepcionales son las siguientes:
+
+Tabla 2. Supuestos
+en los que procede la acción de tutela ante un acto de traslado[136]
+
+Regla
+
+Particularidades
+
+(i)               
+  Es
+  ostensiblemente arbitrario.
+
+Es decir, se adoptó sin consultar en
+  forma adecuada y coherente las circunstancias particulares del trabajador e
+  implique una desmejora de sus condiciones de trabajo.
+
+(ii) Afecta de una forma clara, grave y directa los derechos
+  fundamentales del actor o de su núcleo familiar.
+
+a.                 
+  La
+  decisión sobre traslado laboral genera serios problemas de salud,
+  especialmente porque en la localidad de destino no existan las condiciones
+  para brindar el cuidado médico requerido. No basta con la simple afirmación,
+  sino que esta circunstancia debe estar acreditada en el expediente. Además,
+  en el expediente debe estar probado que el lugar de traslado no cuenta con
+  los medios necesarios para atender las necesidades de salud.
+
+b.                
+  La
+  decisión sobre traslado pone en peligro la vida o la integridad del servidor
+  o de su familia. Esta causal hace referencia a que la reubicación o la
+  negativa de otorgarlo ponga en peligro la vida o la integridad del trabajador
+  y su familia.
+
+c.                 
+  Las
+  condiciones de salud de los familiares del trabajador pueden incidir, dada su
+  gravedad e implicaciones, en la decisión acerca de la procedencia de la
+  reubicación. Sobre este, es necesario que exista un nexo causal entre la
+  reubicación o su negativa y el deterioro de las condiciones de salud del
+  familiar del trabajador.
+
+d.                
+   La ruptura del núcleo familiar va más allá de la mera
+  separación transitoria y
+  deriva en el rompimiento de los vínculos entre la familia o impone una carga
+  desproporcionada para la familia.
+
+35.           
+La Sala
+Primera de Revisión considera que la tutela de la referencia, a diferencia de
+lo señalado en segunda instancia, sí cumple con el principio de subsidiariedad.
+En el presente caso, la acción de tutela sirve como un mecanismo transitorio para
+evitar la ocurrencia de un perjuicio irremediable. Aunque la accionante
+interpuso una demanda de nulidad y restablecimiento del derecho, el juzgado aún
+no la ha admitido ni ha decretado medidas cautelares.
+
+36.           
+A primera
+vista, mantener los efectos del traslado puede generar un perjuicio
+irremediable para la accionante y su hijo, lo que hace procedente la acción de
+tutela como mecanismo transitorio. Esto se debe a que: en primer lugar, (i) existe
+una posibilidad inminente de daño a la salud de la accionante, derivado de las
+afectaciones actuales a su salud mental por el traslado y el aumento de sus
+cargas de cuidado. Como se relató en la Tabla 1, la accionante fue diagnosticada con trastorno adaptativo
+secundario a estresores laborales y familiares, por lo que su médico
+psiquiatra le formuló un antidepresivo diario y le recomendó no ser trasladada
+de municipio. Además, su superiora jerárquica indicó que su estado de ánimo no
+ha mejorado, y la accionante detalló que la permanencia en Municipio B
+la dejó sin red de apoyo en situaciones complejas, como la reciente
+hospitalización de Martín el 13 de julio.
+
+37.           
+En
+segundo lugar, (ii) como lo señaló uno de los intervinientes en el trámite[137],
+trasladar a un niño en el espectro autista podría causar afectaciones graves a
+en su derecho fundamental a la educación inclusiva. El cambio de ciudad obliga
+a reconstruir desde cero el proceso de inclusión, la caracterización pedagógica
+y el plan de ajustes razonables. En tercer lugar, (iii) aunque las medidas
+cautelares del proceso contencioso-administrativo podrían ser idóneas para
+evitar un perjuicio irremediable, en este caso no han sido eficaces. Como
+también se relató en la Tabla 1, a pesar de que la demanda se interpuso a
+principios de marzo, a la fecha el juzgado a cargo no se ha pronunciado sobre
+las medidas cautelares solicitadas. (iv) Por estas razones, la intervención
+judicial es impostergable para evitar la consolidación de daños irreparables en
+los derechos fundamentales de la accionante y de su hijo.
+
+3.    
+Planteamiento de los problemas jurídicos y estructura de la
+decisión
+
+38.           
+En esta
+oportunidad, le corresponde a la Corte examinar el caso de una servidora
+pública que se desempeñaba como fiscal y fue reubicada de Municipio A a Municipio
+B. La Fiscalía alega que se trató de una decisión basada en que la planta
+era global y flexible, y en necesidades del servicio. Por su parte, la
+accionante asegura que la reubicación vulnera sus derechos fundamentales y los
+de su hijo, en particular a la unidad familiar, al trabajo, al cuidado, a la
+educación inclusiva y a la salud. Señala que (i) a causa de la reubicación
+perdió toda la estructura de apoyo y cuidados, así como los procesos de
+consolidación de los ajustes razonables que requiere para cumplir sus funciones
+como fiscal, mientras apoya a su hijo, una persona en el espectro autista; (ii)
+tiene recomendaciones médicas que no han sido implementadas, tanto por una
+epicondilitis como por una crisis adaptativa causados a raíz de la reubicación,
+y (iii) la EPS Sanitas, a la cual están afiliados ella y su hijo, no cuenta con
+una red de IPS suficiente en el municipio de Municipio B para prestar
+los servicios que requieren.
+
+39.           
+En ese
+contexto, se resolverán los siguientes problemas jurídicos:
+
+(i)              
+¿La
+Fiscalía General de la Nación vulneró los derechos a la unidad familiar, a la
+salud, al cuidado y al trabajo digno de la accionante, así como la salud y la
+educación inclusiva de su hijo, al no reconsiderar su decisión de trasladarla
+de ciudad aun después de conocer sus responsabilidades de cuidado y los riesgos
+que ello podría suponer para el proceso de inclusión pedagógica del menor de
+edad?
+
+(ii)            
+¿Vulneraron
+las entidades accionadas los derechos fundamentales a la salud y al trabajo de
+la accionante al no contar con mecanismos de prevención de riesgos
+psicosociales eficaces para evitar afectaciones a la salud mental derivadas del
+ambiente laboral?
+
+40.           
+Para
+resolver estos problemas, la Sala Primera de Revisión adoptará la siguiente
+metodología. En primer lugar, en la Sección 4, presentará unas consideraciones
+generales en las que reiterará la jurisprudencia constitucional sobre (i) los
+límites al facultad del empleador de modificar de forma unilateral las
+condiciones de trabajo que
+tienen las entidades públicas respecto de sus servidores, aun cuando se trata
+de plantas globales y flexibles, (ii) los derechos de los trabajadores con
+responsabilidades familiares, (iii) la neurodivergencia desde la perspectiva
+del modelo social de discapacidad, (iv) el derecho de las niñas, niños y
+adolescentes neurodivergentes a una educación inclusiva y (v) el deber de los
+empleadores de adoptar recomendaciones médicas. Posteriormente, en la Sección 5, la Sala analizará el caso concreto. Allí
+explicará que la Fiscalía General de la Nación vulneró los derechos
+fundamentales al cuidado, a la unidad familiar, al trabajo en condiciones
+dignas y justas, y a la salud de la accionante y de su hijo. Por lo tanto, la
+Corte adoptará medidas para protegerlos hasta que la jurisdicción de lo
+contencioso-administrativo se pronuncie sobre la legalidad del traslado.
+
+4.    
+Consideraciones generales
+
+El derecho a la unidad familiar es un
+límite a la facultad del empleador de modificar de forma unilateral las
+condiciones de trabajo, incluso en entidades públicas que, como la Fiscalía
+General de la Nación, tienen plantas globales y flexibles (reiteración de
+jurisprudencia constitucional)[138]
+
+41.           
+Los
+empleadores tienen la facultad de modificar de forma unilateral las condiciones
+de trabajo, ya sea en cuanto al reparto de funciones o al lugar para desempeñar
+sus labores[139].
+La jurisprudencia constitucional lo ha descrito como una de las
+manifestaciones del poder subordinante que ejerce el empleador público o
+privado sobre sus trabajadores. Se concreta cuando el primero (empleador)
+modifica respecto del segundo (trabajador) la prestación personal del servicio
+en lo atinente al lugar, tiempo o modo del trabajo[140].
+Esta potestad la tiene tanto el sector público como el privado. Sin embargo,
+cuando se trata de un empleado público, como en el caso que se estudia en este
+expediente, la facultad del empleador de modificar de forma unilateral las
+condiciones de trabajo encuentra su fundamento en las facultades
+constitucionales de que dispone la administración para satisfacer el interés
+general[141].
+
+42.           
+Por esto,
+la administración cuenta con esta facultad discrecional para efectuar los
+traslados que considere necesarios[142].
+Sin embargo, si bien hay entidades que cuentan con plantas de carácter global y
+flexible como la Fiscalía General de la Nación, la Dirección de Impuestos y
+Aduanas Nacionales (DIAN), la Registraduría Nacional del Estado Civil, la Rama Judicial
+y el Instituto Nacional Penitenciario y Carcelario (Inpec)[143],
+la discrecionalidad para realizar cambios no es absoluta. Esto se debe a que
+los actos administrativos que ordenen o nieguen el traslado deben sujetarse a
+la Constitución y a su catálogo de derechos fundamentales[144].
+Por lo tanto, esta potestad debe ejercerse dentro de los criterios de
+razonabilidad, sin dejar de lado los objetivos de la entidad empleadora[145].
+La Corte ha desarrollado una línea jurisprudencial respecto de los límites de
+la facultad del facultad de las entidades públicas y sus límites de modificar
+de forma unilateral las condiciones de trabajo[146].
+
+43.           
+Uno de
+dichos límites es la unidad familiar, como una manifestación del derecho a
+tener una familia y a no ser separado de ella[147].
+Este derecho permite, especialmente a los niños, niñas y adolescentes, tener un
+crecimiento armónico y un desarrollo integral. Por esta razón, todas las
+actuaciones privadas y públicas deben tener en cuenta el interés superior de
+los niños y las niñas, ya que sus derechos prevalecen sobre los demás. Esto se
+fundamenta en el artículo 44 de la Constitución Política, el preámbulo de la
+Convención sobre los Derechos del Niño y la Declaración de las Naciones Unidas
+sobre los Derechos del Niño. Lo anterior implica que las autoridades deben
+abstenerse de adoptar medidas administrativas que puedan impedir la unidad
+familiar, ya que la protección a la familia debe ser integral. Teniendo en
+cuenta esto, la Corte ha resuelto casos en los cuales concede o impide
+traslados de funcionarios cuando se alega el derecho a la unidad familiar[148].
+
+44.           
+En
+algunas de esas oportunidades, la Corte se ha pronunciado específicamente en
+varios casos en los que servidores adscritos a la Fiscalía General de la Nación
+han interpuesto acciones de tutela en contra de esa entidad por traslados que,
+a su juicio, vulneran el derecho a la unidad familiar. Como lo muestran las
+providencias que se resumen a continuación, la Corte ha realizado una
+valoración caso a caso de las circunstancias que rodean el traslado y de los
+efectos que puede tener en la unidad familiar. La siguiente tabla sintetiza
+esas decisiones.
+
+Tabla 3. Sentencias proferidas por la Corte Constitucional que
+estudiaron tutelas interpuestas por funcionarios de la Fiscalía General de la
+Nación, tras ser trasladados
+
+Sentencia
+
+Particularidades
+
+T-1498 de 2000
+
+Traslado de fiscal delegado
+  de Armenia a Riohacha
+
+La Corte señaló que la tutela era
+  improcedente, toda vez que el argumento planteado en esa demanda era que el
+  traslado implicaba incurrir en gastos adicionales que debe sufragar al ser
+  trasladado a una ciudad distinta de aquella en la cual habitaba y, además, no
+  aportó siquiera un indicio de que su reubicación territorial causaría
+  necesariamente la ruptura grave de la unidad familiar, pues no se conocen las
+  condiciones reales familiares o si es viable el desplazamiento de toda la
+  familia a la nueva localidad.
+
+T-825 de 2003
+
+Traslado de arquitecto de Bogotá a
+  Barranquilla
+
+El accionante señaló que el traslado
+  afectaba gravemente a su núcleo familiar. Explicó que su esposa estudiaba
+  enfermería y que su hijo tenía diagnósticos cardíacos y respiratorios.
+  Además, de acuerdo con el colegio, el niño había disminuido notablemente su
+  desempeño escolar y debió iniciar un tratamiento terapéutico.
+
+En esa oportunidad, la Corte indicó que
+  estos aspectos en su conjunto permitían ver de manera dramática las
+  repercusiones de la decisión. Por lo tanto, concedió la protección de los derechos
+  y ordenó a la Fiscalía trasladarlo nuevamente a Bogotá en 48 horas.
+
+T-264 de 2005
+
+Traslado de fiscal delegado de Florencia
+  a Tumaco
+
+El fiscal alegó que el traslado a Tumaco
+  no se basaba en necesidades del servicio, sino en un patrón de persecución;
+  que su hija presentaba hiperactividad con tendencia a la agresividad y, por
+  tanto, requería de la orientación y acompañamiento de su padre. Señaló que
+  era imposible trasladarse con su familia a Tumaco, para lo cual utilizó
+  argumentos racistas.
+
+La Corte decidió negar el amparo, no
+  solo porque estas afirmaciones discriminatorias no son de recibo, sino porque
+  no probó que era imposible trasladar a su familia a Tumaco.
+
+T-420 de 2005
+
+Traslado de fiscal delegada de Neiva a
+  Quibdó
+
+La accionante señaló que el traslado
+  interrumpía el tratamiento médico de su hijo que tenía alergia respiratoria
+  nasal y pulmonar, un diagnóstico que podría ser superado en un ambiente
+  adecuado que evite el polvo, los cambios climáticos y la humedad. En sede de
+  revisión, añadió que la cobertura de salud en Quibdó no era óptima, y que
+  cuando le fue diagnosticada fiebre tifoidea tuvo que viajar a Bogotá, por lo
+  que su hijo había quedado al cuidado de su expareja. Sin embargo, a su
+  cuidado el niño empezó a tener cambios en su comportamiento y que ha entrado
+  en una grave crisis emocional que lo ha hecho más introvertido y además llore
+  constantemente.
+
+La Corte consideró que (i) el traslado a
+  Quibdó había sido intempestivo y no fue motivado, y (ii) como consecuencia de
+  este se generó una ruptura del núcleo familiar, causando graves
+  consecuencias emocionales para su hijo. Por ende, la Corte concedió la
+  protección de los derechos fundamentales y ordenó trasladar a la accionante a
+  Neiva apenas se produjera la primera vacante.
+
+T-770 de 2005
+
+Traslado de una secretaria jurídica de Fusagasugá
+  a Leticia
+
+La accionante era madre cabeza de
+  familia y la responsable de sus hijas y de su madre, quien se encontraba
+  enferma.
+
+La Corte negó el amparo, toda vez que no
+  se allegaron pruebas de la enfermedad de su madre, no se demostró que en
+  Leticia no tuviera el suficiente acceso a servicios de salud, no se comprobó
+  la afectación a su salud emocional como resultado del traslado, no se
+  justificó por qué sus hijas y su madre no se podían trasladar con ella a
+  Leticia, y se evidenció que se les dio un tratamiento similar a funcionarios
+  en las mismas condiciones.
+
+T-524 de 2010
+
+Traslado de fiscal local de Montería a
+  Valledupar
+
+Al llegar a Valledupar, la accionante no
+  pudo tomar posesión del cargo, toda vez que este aún no existía, e interpuso
+  una tutela argumentando que en su ciudad de destino no contaba con
+  familiares que habita[ran] en dicha localidad, los cuales, ante una
+  determinada eventualidad, [pudieran] hacerse cargo de sus hijos.
+
+La Corte decidió declarar improcedente
+  la acción, toda vez que no exist[ía], en principio, ninguna razón válida que
+  le imposibilite trasladar a sus hijos a la ciudad de Valledupar y evitar con
+  ello la ruptura de su núcleo familiar.
+
+T-338 de 2013
+
+  Traslado de fiscal delegada de Bogotá a Quibdó
+
+La accionante contaba con dos hijos
+  cursando estudios universitarios y estaba a cargo de su madre, a quien se le
+  había diagnosticado alzhéimer y se encontraba recluida en un hogar
+  geriátrico.
+
+La Corte encontró que, debido a ese diagnóstico,
+  la accionante requería darle constante apoyo a su madre, frente a su
+  tratamiento y acompañamiento emocional. Además, señaló que esto no fue
+  evaluado en la resolución de traslado, por lo que no se cumplió con las
+  exigencias jurisprudenciales para el desarrollo del ius variandi y de
+  ahí que se evidencie la omisión de un deber por parte del fiscal general de
+  la Nación. En consecuencia, protegió los derechos fundamentales y ordenó que
+  fuera trasladada a Bogotá.
+
+T-565 de 2014
+
+Negativa de traslado de Chiquinquirá a
+  Santa Rosa de Viterbo (Boyacá), de una asistente judicial
+
+La Fiscalía negó la solicitud, alegando
+  que se trataba de una planta global y flexible, y refiriéndose a las
+  necesidades del servicio. La accionante señaló que, de ser trasladada, podría
+  cubrir mejor sus gastos familiares y continuar estudiando. 
+
+En esa oportunidad, la Corte decidió
+  declarar improcedente la tutela, señalando que no se probó que el traslado
+  realmente amenaza o pone en riesgo la estabilidad de la familia, ya que [e]lla
+  ya se encontraba trabajando en un lugar distinto a aqu[e]l en el que
+  resid[ía] su familia.
+
+T-528 de 2017
+
+Expediente acumulado. El resumen
+  corresponde al exp. T-6107521.
+
+Traslado de profesional de gestión de
+  Bucaramanga a Arauca 
+
+La accionante, esposa del servidor,
+  explicó que no pudo mudarse a Arauca y debió permanecer en Bucaramanga. Esto
+  debido a que a su hija le fue diagnosticada toxoplasmosis congénita, que le
+  ocasionó microcefalia, epilepsia focal sintomática, [diferencias] de
+  aprendizaje, hipotonía muscular generalizada que ha originado [alteraciones]
+  de postura; razón por la cual requiere constantes controles médicos por
+  especialistas y un colegio que le brinde enseñanza especializada con apoyo
+  psicopedagógico y terapias física, ocupacional y psicológica.
+
+Agregó que la niña requería una red de
+  IPS para acceder a ciertos servicios y una institución educativa que hiciera
+  ajustes razonables. Sin embargo, la Fiscalía ha negado varias veces el
+  traslado de su esposo a Bucaramanga. Además, afirmó que no podía seguir
+  cuidando a su hija sola, pues le diagnosticaron una extrusión del contenido
+  discal que le genera fuertes dolores, pérdida de la fuerza en los miembros
+  superiores y la necesidad de observar ciertos cuidados especiales.
+
+La Corte encontró que la decisión de la
+  Fiscalía se sustentó en las estrictas necesidades del servicio, dejando de
+  lado las circunstancias personales que rodean al accionante y a su familia,
+  las cuales resultaban fundamentales para adoptar la decisión del traslado. Por
+  lo tanto, concluyó que la entidad vulneró los derechos fundamentales a la
+  unidad familiar y a la igualdad, y le ordenó efectuar el traslado a un cargo
+  en Santander.
+
+T-290 de 2021
+
+Traslado de agente de protección de
+  Pereira a Putumayo, pese a recomendaciones médicas
+
+El accionante señaló que en Pereira
+  estaban disponibles siete cargos que podría ocupar, y que el traslado a
+  Putumayo interrumpía el tratamiento médico que estaba recibiendo y afectaba a
+  su núcleo familiar.
+
+En esa ocasión, la Corte consideró que
+  la acción era improcedente, toda vez que se había demandado el acto
+  administrativo de traslado, en el que fue decretada como medida cautelar la
+  suspensión provisional de sus efectos, obteniendo así la protección inmediata
+  que exigía su situación médica y laboral.
+
+T-119 de 2022
+
+Traslado de fiscal delegado de Montería
+  a Bucaramanga
+
+El accionante señaló que uno de sus
+  hijos era usuario de marihuana, lo cual, según él, había sido causado porque
+  su esposa había sido trasladada a otra ciudad. 
+
+De manera similar al fallo anterior, en
+  este proceso se declaró improcedente la tutela, toda vez que dentro del medio
+  de control de nulidad y restablecimiento del derecho se decretaron medidas
+  cautelares que suspendieron los efectos del acto que ordenó el traslado.
+
+T-192 de 2024
+
+Expediente acumulado. El resumen
+  corresponde al exp. T-9792211.
+
+Traslado de funcionaria de Cartagena a
+  Magangué
+
+La accionante estaba a cargo de su madre
+  y de dos de sus sobrinas, hijas de su hermano fallecido. Una de ellas, era una
+  persona con discapacidad psicosocial que requiere apoyos extensos para la
+  interacción social, la autonomía y la regulación emocional. Durante el
+  trámite de la revisión, la accionante fue trasladada nuevamente a Cartagena,
+  por lo que la Corte declaró la carencia actual de objeto.
+
+45.           
+En
+síntesis, la jurisprudencia constitucional sobre traslados de funcionarios de
+la Fiscalía que está en línea con la jurisprudencia de la Corte sobre
+traslados de servidores públicos ha señalado que: (i) si bien los empleadores
+públicos y privados tienen la facultad para cambiar las condiciones de sus
+trabajadores, su ejercicio debe ser proporcional y, para ser admisible
+constitucionalmente, debe respetar el derecho a la unidad familiar; (ii) debe
+responder a las necesidades del servicio, y (iii) las entidades públicas deben
+analizar las condiciones particulares del empleado y su familia para no
+vulnerar sus derechos.
+
+46.           
+De otra parte, tras
+la revisión de la
+jurisprudencia constitucional sobre traslados en la Fiscalía General de la Nación, la
+Corte ha protegido los derechos de los accionantes
+siempre que: (i) las medidas
+cautelares en el marco del
+proceso contencioso-administrativo no hayan sido idóneas o eficaces para
+proteger al accionante de la vulneración de derechos fundamentales en el caso
+concreto[149]; y (ii) se pruebe que hubo una separación
+efectiva del núcleo familiar (ante la imposibilidad de alguno de sus miembros para trasladarse) o la interrupción de tratamientos médicos que
+no puedan prestarse en el municipio de destino. 
+
+Las entidades públicas deben tener en cuenta las
+responsabilidades familiares cuando están evaluando si es necesario realizar traslados
+o reubicaciones, desde una perspectiva del derecho al cuidado
+
+Las facetas del derecho fundamental al cuidado (reiteración
+de jurisprudencia)[150]
+
+47.           
+En Colombia, el
+ordenamiento jurídico ha avanzado progresivamente en el reconocimiento del
+cuidado como un derecho fundamental. En el ámbito legislativo, se expidieron las leyes 1413
+de 2010, 1996 de 2019 y 2297 de 2023. La primera incorporó la economía del
+cuidado al sistema de cuentas nacionales. La segunda reconoció la presunción de
+capacidad legal de las personas mayores de edad en situación de discapacidad y
+estableció un sistema de apoyos para el ejercicio de su capacidad jurídica. La
+tercera creó el Sistema Nacional de Cuidado y fijó los lineamientos para su
+organización y funcionamiento.
+
+48.           
+Por otra parte, la
+Corte Constitucional ha reconocido el cuidado como un derecho fundamental
+autónomo y exigible, por diferentes razones[151].
+En primer lugar, porque incide directamente en la posibilidad de que las
+personas cuenten con las condiciones materiales, emocionales y sociales para
+cuidar, ser cuidadas y cuidarse, sin que ello comprometa de manera
+desproporcionada su dignidad humana y la garantía de sus derechos fundamentales[152]. En segundo
+lugar, porque constituye una condición indispensable para sostener la vida
+humana en sociedad, pues todas las personas requerirán asistencia y asumirán
+labores de atención en algún momento de su existencia[153]. En tercer
+lugar, porque contribuye a corregir desigualdades estructurales en la
+distribución de las cargas de cuidado, las cuales han recaído históricamente de
+forma desproporcionada en las mujeres, especialmente bajo esquemas de trabajo
+no remunerado[154].
+
+49.           
+La jurisprudencia ha
+identificado las siguientes reglas para comprender el estándar de protección
+del derecho al cuidado[155]:
+
+(i)              
+El Estado debe
+promover sistemas de cuidado que garanticen su disfrute y ejercicio y que
+evalúen su desarrollo progresivo.
+
+(ii)            
+El cuidado como
+derecho fundamental promueve en el trabajo políticas de conciliación de la vida
+personal, con las responsabilidades familiares y el bienestar cotidiano.
+
+(iii)         
+Quienes cuidan deben
+tener alguna formación y capacitación para hacerlo, tanto desde el ámbito
+físico como psicosocial.
+
+(iv)          
+Los cuidadores deban
+contar con los elementos necesarios para llevar a cabo sus labores de cuidado;
+sean estos, elementos de tipo médico, sanitario, de infraestructura, transporte
+y movilidad, y demás.
+
+(v)            
+El cuidado debe tener
+como propósito no sólo la subsistencia de la persona a quien se cuida, sino la
+realización de la persona y la consecución de su propio proyecto de vida.
+
+(vi)          
+El cuidado debe
+valorarse socialmente, esto fortalece los lazos esenciales del afecto, la
+dignidad, y la interdependencia humana.
+
+(vii)       
+El cuidado debe ser
+asumido socialmente, a través de la corresponsabilidad entre familia, Estado y
+particulares. Esto conduce a que las políticas que desarrolle deban contar con
+enfoques diferenciales y de género, entendiendo que ha sido realizado
+mayoritariamente por mujeres.
+
+50.           
+A nivel
+internacional, el derecho al cuidado se ha incorporado de forma implícita y
+expresa en ciertos instrumentos internacionales, tales como la Declaración
+Universal de los Derechos Humanos (art. 25), la Convención sobre los Derechos
+del Niño, la Convención sobre los Derechos de las Personas con Discapacidad, la
+Convención Interamericana sobre la Protección de los Derechos Humanos de las
+Personas Mayores, el Convenio 156 de la OIT (Organización Internacional del
+Trabajo), y la Recomendación 165 de la OIT.
+
+51.           
+Ahora bien, el
+artículo 44 de la Constitución Política reconoce expresamente el derecho al
+cuidado de las niñas, los niños y los adolescentes. Este derecho se reitera a
+nivel internacional en el artículo 19 de la Convención Americana sobre Derechos
+Humanos y en el artículo 3 de la Convención sobre los Derechos del Niño. En
+sintonía con estos mandatos, la Opinión Consultiva n.° 31 de la Corte IDH señala
+que el contenido de este derecho se refuerza respecto de esta población, pues
+son unos de los principales destinatarios del componente de recibir cuidados[156].
+
+52.           
+Sin embargo, como
+bien lo recordó uno de los intervinientes en este proceso[157], la
+jurisprudencia de la Corte ha establecido que, al hablar de cuidado, se debe
+resignificar el término de manera que se supere una connotación paternalista
+que invisibilice la agencia y valía de las personas con discapacidad[158]. Siguiendo
+los lineamientos de la sentencia C-269 de 2025, tratándose de esta población,
+la Corte entiende el cuidado como una referencia a las tareas de asistencia y
+apoyo que, ante todo, se orientan a maximizar la autonomía y vida independiente
+de las personas con discapacidad.
+
+53.           
+Por otra parte, esta Corporación
+también ha precisado que el derecho al cuidado no solo protege a quienes
+reciben los cuidados, sino que también cobija a las personas cuidadoras. En ese
+sentido, la jurisprudencia constitucional ha señalado que, en el análisis y garantía
+de este derecho, se deben evaluar los impactos que dichas labores tienen en la
+salud, el bienestar, el proyecto de vida y la vida en condiciones dignas de los
+cuidadores[159].
+Ellos adquieren relevancia constitucional, toda vez que pueden afectar de manera
+significativa sus derechos fundamentales. Por ejemplo, la Corte se ha
+pronunciado sobre el fenómeno identificado como el síndrome del cuidador
+quemado[160],
+el cual se caracteriza por el agotamiento emocional, la despersonalización y la
+disminución de la realización personal, derivado de la exposición prolongada a
+las demandas del cuidado[161],
+especialmente en contextos de alta dependencia funcional[162]. Estos
+efectos se amplifican en un escenario social donde las cargas domésticas y de
+atención están distribuidas de forma inequitativa.
+
+54.           
+Como lo señaló el
+Proyecto Digna en su intervención en este proceso[163], la
+evidencia empírica señala que el cuidado no es una actividad marginal u
+ocasional [sino] una carga cotidiana, intensiva en tiempo y profundamente feminizada.
+Utilizando datos de la Encuesta Nacional de Uso del Tiempo, el Proyecto
+confirmó la magnitud de esta carga. Entre septiembre de 2024 y agosto de 2025,
+el DANE encontró que el 89,8% de las mujeres de 10 años o más en Colombia
+participó en actividades de trabajo no remunerado. En contraste, el 65,2% de
+los hombres realizó estas labores. Además, las mujeres dedicaron un promedio
+diario de siete horas y 35 minutos a estas tareas. Los hombres, por su parte,
+invirtieron tres horas y 14 minutos al día.
+
+55.           
+De otra parte, el
+Proyecto remitió un informe previo en el que se realizaron 100 entrevistas
+semiestructuradas a varios grupos de mujeres, 19 de ellas cuidadoras no
+remuneradas de personas con discapacidad. De este grupo, 14 participaban
+activamente en el mercado laboral y cinco estaban inactivas[164]. En ese
+documento, se evidenció que [l]as entrevistadas reportaron dificultades para
+acceder a determinados empleos, limitaciones para aceptar horarios extensos o
+inflexibles, interrupciones en sus trayectorias laborales y obstáculos para
+permanecer en el mercado de trabajo[165].
+Dos de esos testimonios corresponden a mujeres cuidadoras de personas con
+discapacidad. Ellas relataron las dificultades para acceder y permanecer en el
+mercado laboral debido a su carga de cuidado y a la inflexibilidad de sus
+empleos[166].
+
+56.           
+Debido a la
+distribución inequitativa del cuidado, la jurisprudencia ha sostenido que el
+derecho al cuidado se estructura a partir de los principios de
+corresponsabilidad y solidaridad, los cuales deben entenderse de manera
+complementaria[167].
+Por una parte, en virtud del principio de corresponsabilidad, el cuidado no
+puede recaer exclusivamente en las familias, sino que se trata de una
+responsabilidad compartida entre el Estado, la sociedad y el núcleo familiar[168]. Esto
+responde a que el derecho al cuidado también comprende las facetas de
+autocuidado y del derecho a cuidar sin que esto implique una afectación
+desproporcionada para quien asume dicha labor. 
+
+Los derechos de los trabajadores con responsabilidades
+familiares
+
+57.           
+El artículo 25 de la
+Constitución consagra que toda persona tiene derecho a un trabajo en condiciones
+dignas y justas. Por su parte, el artículo 53 de la Carta Política establece
+que la [i]gualdad de oportunidades para los trabajadores es un principio
+fundamental de la regulación laboral. Asimismo, indica que [l]os convenios
+internacionales del trabajo debidamente ratificados, hacen parte de la
+legislación interna. Entre ellos se encuentra el Convenio 156 sobre
+Trabajadores con Responsabilidades Familiares, ratificado por la Ley 2305 de
+2023.
+
+58.           
+El Convenio señala que
+los trabajadores que tienen responsabilidades familiares son aquellos que sean
+padres o tengan a cargo responsabilidades de cuidado con miembros de su
+familia, cuando tales responsabilidades limiten sus posibilidades de
+prepararse para la actividad económica y de ingresar, participar y progresar en
+ella[169].
+Para la Organización Internacional del Trabajo, la promesa de la igualdad en el
+ámbito del trabajo sin que se repartiera de forma más equitativa el trabajo de
+cuidado, que históricamente ha recaído sobre las mujeres, era una promesa vacía[170].
+
+59.           
+Por esa razón, el
+Convenio se enfoca en establecer medidas que garanticen que las personas con
+responsabilidades de cuidado puedan desempeñar un trabajo sin discriminación,
+en los términos del Convenio 111 sobre la Discriminación en materia de empleo y
+ocupación, ratificado en Colombia por la Ley 22 de 1967. Para ello, establece
+que se deben adoptar todas las medidas para (a) permitir a los trabajadores
+con responsabilidades familiares el ejercicio de su derecho a elegir libremente
+su empleo, [y] (b) tener en cuenta sus necesidades en lo que concierne a las
+condiciones de empleo y a la seguridad social[171].
+
+60.           
+Aunque históricamente
+la OIT había aislado las facetas de trabajo productivo y trabajo
+reproductivo, recientemente ha abandonado esa división y, en su lugar, ha
+sostenido que existen notables conexiones entre ambos, en la medida en que el
+segundo es el que permite que sea desarrollado el primero. También señaló que
+el problema no es solo de discriminación, sino de distribución. Los hombres, el
+Estado y la sociedad en su conjunto deben participar de una manera más justa en
+la adopción de cargas de cuidado[172].
+En otros términos, como lo señaló un interviniente[173], el centro de la
+discusión sobre el cuidado gira alrededor de encontrar la forma en que podemos
+construir una sociedad donde el trabajo reproductivo se ubique en el centro de
+la cadena productiva y así se consolide su valor y reconocimiento social[174].
+
+61.           
+La jurisprudencia
+constitucional también ha adoptado este enfoque. Al revisar la
+constitucionalidad del Convenio 156, la Corte consideró que este debía ser
+interpretado a la luz de la línea jurisprudencial trazada sobre la noción de
+familia. En particular, señaló que, conforme a los pronunciamientos de esta
+Corporación sobre el derecho al cuidado, el Convenio advierte las dificultades
+de continuar por la senda del modelo familiarista y plantea a los Estados la
+necesidad de avanzar a modelos secuenciales o de corresponsabilidad estatal y
+social[175].
+
+62.           
+Partiendo de esta
+premisa, la jurisprudencia constitucional ha señalado que el hecho de que los
+trabajadores puedan equilibrar sus responsabilidades profesionales con las
+derivadas de su entorno personal es una faceta del derecho al trabajo en
+condiciones dignas y justas. Por esa razón, la conciliación de trabajo y vida
+familiar debe ser entendida antes que nada como una materia de política de
+familia, desarrollada tanto en el marco del mercado de trabajo, como de la
+protección social[176].
+
+63.           
+Aunque en los casos de
+la unidad familiar no se había utilizado expresamente el término derecho al
+cuidado, la jurisprudencia constitucional ha protegido a las trabajadoras y
+los trabajadores con responsabilidades familiares. Así lo hizo, entre otros, en
+los casos reseñados en la Tabla 3. 
+
+64.           
+De otra parte, la Corte
+también se ha pronunciado en casos en los que los familiares de los accionantes
+trasladados eran personas con discapacidad intelectual y/o neurodivergentes que
+requerían de apoyos extensos. En esos casos, como se compila en la siguiente
+tabla, los accionantes señalaron que los traslados generaban rupturas en los arreglos
+de cuidado previamente establecidos, vulnerando su derecho a la unidad familiar.
+
+Tabla 4. Sentencias
+proferidas por la Corte Constitucional que estudiaron tutelas interpuestas por funcionarios
+públicos que fueron trasladados, y como consecuencia, se rompieron arreglos de
+cuidado
+
+Sentencia
+
+Particularidades
+
+T-447 de 1994
+
+Docente solicitó traslado
+  de Pacho (Cundinamarca) a Bogotá
+
+La hija de la accionante era una niña
+  con microcefalia que enfrentaba barreras para la comunicación oral y el
+  acceso a los métodos de aprendizaje tradicionales. Por ende, solicitó el
+  traslado a un colegio en Bogotá, de manera que tuviera acceso a ajustes razonables
+  en su proceso educativo, pero esta solicitud fue negada por la autoridad
+  competente. 
+
+La Corte encontró vulnerados los
+  derechos fundamentales de la accionante y ordenó que se evaluara si existían
+  vacantes disponibles, en cuyo caso, debía hacerse el traslado.
+
+T-815 de 2003
+
+Docente solicitó traslado de la jornada
+  de la mañana a la jornada de la tarde
+
+El hijo de 10 años de la accionante era
+  una persona con déficit de atención, a quien le habían sido ordenadas una
+  serie de sistemas de apoyo. 
+
+La Corte encontró vulnerados los
+  derechos del niño, y ordenó trasladarlo a la jornada de la tarde.
+
+T-922 de 2008
+
+Docente trasladado de
+  Quibdó a Atrato
+
+El hijo de la accionante requería de su
+  atención permanente debido a cuadros de convulsiones, pérdida auditiva
+  [neurosensorial], dificultades visuales [y requerimientos] en su desarrollo
+  motor, sumado a que se le había ordenado una cirugía coclear. El pediatra
+  del niño había indicado que este [r]equer[ía] cuidados especiales y
+  asistencia a terapias física y del lenguaje con refuerzos en casa, así como
+  el apoyo y cuidado de su madre[,] quien conoce todo el proceso
+  adecuadamente. 
+
+La Corte encontró que el traslado de la
+  docente afecta[ba] de manera directa la salud de su hijo y pone en riesgo el
+  derecho al trabajo de la accionante[,] en cuanto sería evidente la dificultad
+  para prestar sus servicios de manera oportuna y eficiente. En consecuencia,
+  ordenó tutelar sus derechos fundamentales a la vida y a la salud, así como su
+  traslado preferencial a Quibdó cuando fuera posible.
+
+T-325 de 2010
+
+Oficial del cuerpo
+  administrativo de la justicia penal militar fue trasladada de Santa Marta a
+  San Vicente del Caguán (Caquetá)
+
+El hijo de accionante se encontraba
+  recibiendo acompañamiento profesional para implementar estrategias de apoyo
+  debido a que tenía un perfil con déficit de atención. 
+
+En esa oportunidad, la Corte no encontró
+  que el traslado interrumpiera el proceso de aprendizaje del niño, toda vez
+  que, en ese caso, la accionada [había] asumido el compromiso de garantizar
+  la atención requerida por el niño. Por lo tanto, los remedios judiciales
+  proferidos en ese caso se concentraron en asegurar el cumplimiento de este.
+
+T-104 de 2013
+
+Docente trasladada de Medio
+  Atrato a Carmen del Darién (Chocó).
+
+En su solicitud de reconsideración del
+  traslado, la accionante señaló que era madre cabeza de familia de cuatro
+  hijos, uno de los cuales era una persona con discapacidad física derivada de
+  parálisis cerebral. 
+
+A juicio de esta Corporación, ese
+  traslado le imponía desplazamientos desproporcionados a la accionante,
+  haciendo del traslado una decisión irrazonable y desproporcionada teniendo
+  en cuenta su contexto familiar.
+
+T-772 de 2013
+
+Expediente
+  acumulado. El resumen corresponde al exp. T-3955420.
+
+Docente trasladada de
+  colegio dentro de un mismo municipio
+
+La docente interpuso una acción de
+  tutela en la que argumentó que su hijo era una persona con una condición
+  neurológica (atrofia cerebral frontal y bitemporal) que requería apoyos
+  significativos para el procesamiento cognitivo y la movilidad.
+
+La Corte concluyó que el traslado generó
+  inestabilidad en el proceso educativo y emocional del hijo de la docente,
+  [...] y se le dificulta adaptarse a nuevos entornos. Por lo tanto, protegió
+  su derecho a la unidad familiar y ordenó su reubicación en los siguientes 15
+  días.
+
+T-213 de 2015
+
+Docente que solicitó su
+  traslado de Tasco a Duitama
+
+El hijo de la accionante tenía un cuadro
+  clínico de fibrosis hepática congénita y gastritis crónica, y requería apoyos
+  pedagógicos debido a dificultades en su proceso de aprendizaje que estaban
+  siendo prestados en Duitama, lo que le impedía mudarse con su madre a Tasco
+  sin arriesgar la continuidad de los tratamientos médicos y del proceso
+  pedagógico con ajustes razonables.
+
+Al encontrar vulnerado el derecho a la
+  unidad familiar, la Corte ordenó que se iniciaran los trámites para lograr el
+  traslado en los siguientes 10 días, dando un máximo de tres meses para que se
+  concretara.
+
+T-308 de 2015
+
+Docente solicitó el
+  traslado de Puerto Libertador, Córdoba a Corozal, Sucre.
+
+La accionante señaló que su hija mayor,
+  con síndrome de Down y condiciones de salud concurrentes, requería un sistema
+  de apoyos integrales y acompañamiento médico continuo. 
+
+La Corte consideró que, al decidir sobre
+  el traslado, la autoridad había omitido incluir el análisis [de] los
+  parámetros insertos en la Carta Superior, relativos a la unidad familiar,
+  salud y protección especial de los niños y niñas para lo cual era necesario
+  disfrutar del acompañamiento y cuidado de sus parientes cercanos. Por lo tanto,
+  se tuteló el derecho a la unidad familiar y se ordenó su traslado de forma
+  preferencial en un máximo de tres meses.
+
+T-079 de 2017
+
+Docente que solicitó su
+  traslado de Puebloviejo (Magdalena) a Barranquilla
+
+La hija de la accionante hija era una
+  niña con microcefalia que requería acompañamiento y ajustes para su
+  desarrollo psicomotriz.
+
+En esa ocasión, la respectiva sala de
+  revisión consideró que el asunto era de [r]elevancia constitucional, por
+  cuanto se trata de asegurar el afecto y cuidado de una [niña] de [siete] años
+  de edad, sujeto de especial protección [con discapacidad,] que obligan a los
+  padres a dedicarle atenciones constantes que permitan conservar la salud de
+  la representada. Por lo tanto, consideró aplicables las subreglas de la
+  Corte respecto de los casos en los que es necesario autorizar traslados de
+  docentes a quienes por su situación personal o familiar [lo requieran], y
+  señaló que estas fueron ignoradas por la autoridad accionada. Por ende, le
+  ordenó trasladar a la accionante en no más de tres meses.
+
+T-363 de 2022
+
+Infante de marina que fue
+  trasladado de Tumaco a Bogotá
+
+La esposa de la accionante, además de un
+  cuadro clínico derivado de un lupus, atravesaba una crisis psicosocial severa
+  causada por ideaciones persecutorias que le imponía barreras para salir de su
+  domicilio y percibir su entorno como seguro. Esta situación, que según los
+  profesionales tratantes demanda apoyos intensivos para proteger su vida e
+  integridad emocional, fue desencadenada por la desestructuración de su red de
+  apoyo primario tras el traslado de su esposo. Los médicos tratantes, además,
+  habían señalado que debía residir en un lugar cálido.
+
+A juicio de la Corte, la condición de su
+  esposa era de tal gravedad que debía ser considerada como un factor
+  determinante para adoptar la decisión de traslado. Por ende, esta
+  Corporación decidió confirmar el fallo de segunda instancia, que había
+  tutelado el derecho a la unidad familiar del accionante y ordenado que se le
+  permitiera seguir desarrollando sus actividades en Tumaco o, en su defecto,
+  en un lugar que cumpliera las prescripciones formuladas por los médicos
+  tratantes.
+
+T-001 de 2024
+
+Expediente
+  acumulado. El resumen corresponde al exp. T-9511992.
+
+Suboficial del Ejército
+  solicitó traslado de Tunja a Santa Marta
+
+El accionante indicó que su hijo de
+  nueve años estaba en el espectro autista, mientras que su esposa contaba con
+  requerimientos de apoyo psicosocial debido a episodios depresivos, para los
+  cuales recibía acompañamiento e intervenciones por parte de la especialidad
+  en psiquiatría.
+
+Según la Corte, la negativa del
+  traslado (i) no tuvo en cuenta los diagnósticos de su familia y las
+  recomendaciones médicas para tratarlos y (ii) no dio ninguna explicación para
+  solicitar sus servicios en Tunja, Boyacá, y no poderlos prestar en alguna
+  unidad cerca de la ciudad de Santa Marta. Por ende, concedió la protección
+  de sus derechos y ordenó adelantar en los 15 días siguientes el traslado.
+
+T-192 de 2024
+
+Expediente
+  acumulado. El resumen corresponde al exp. T- 9848025.
+
+Docente solicitó el
+  traslado de Tinjacá a Tunja
+
+La accionante afirmó que residía en
+  Tunja con su hija, su madre y su hermana. Su madre padecía problemas de
+  salud, y su hermana es una persona con discapacidad psicosocial y visual, que
+  además tiene diabetes. Por esto, la accionante invertía gran parte de su
+  tiempo desplazándose entre ambos municipios para cumplir con sus obligaciones
+  laborales y de cuidado. En consecuencia, solicitó su traslado a Tunja.
+
+Como la accionante no respondió al
+  requerimiento en sede de revisión, la Corte ordenó a la entidad nominadora
+  resolver la solicitud de traslado teniendo en cuenta sus responsabilidades de
+  cuidado.
+
+T-302 de 2024
+
+Expediente
+  acumulado. El resumen corresponde al exp. T-9927033.
+
+Patrullero de la Policía solicitó
+  su traslado de Nariño a Sucre
+
+El hijo del accionante es una persona
+  con afasia y disfasia primaria que implica desafíos en la comunicación, por
+  lo que requería apoyos extensos para el neurodesarrollo.
+
+Se declaró la carencia actual de objeto
+  por hecho superado; en esta oportunidad, porque la Policía autorizó el
+  traslado solicitado en el término de la revisión.
+
+65.           
+En síntesis, el derecho
+al cuidado también se manifiesta al proteger a las y los trabajadores que
+desarrollan estas actividades. El Convenio 156, interpretado conforme a los
+estándares desarrollados por esta Corporación, va más allá de prohibir la
+discriminación en el ámbito del trabajo para quienes desarrollan estas
+actividades. Una lectura de las sentencias expuestas en esta subsección, en
+armonía con los desarrollos jurisprudenciales recientes sobre el derecho al
+cuidado, indica que, para determinar si una decisión de traslado es violatoria
+de los derechos fundamentales del trabajador o de otras personas, se deben
+tener en cuenta las modificaciones que pueda implicar a los esquemas de cuidado
+y su impacto sobre los derechos, tanto de quienes ejercen labores de cuidado,
+como de quienes lo reciben. 
+
+Los niños, las niñas y los adolescentes neurodivergentes
+frente al modelo social de discapacidad[177]
+
+66.           
+La jurisprudencia de
+este Tribunal ha señalado que la Convención sobre los Derechos de las Personas
+con Discapacidad, ratificada por Colombia mediante la Ley 1346 de 2009,
+introdujo un cambio de paradigma en la concepción de la discapacidad[178]. Se pasó de un modelo
+médico-rehabilitador, que entendía la discapacidad como un problema individual,
+a un modelo social y de derechos, en el que la discapacidad resulta de la
+interacción entre las personas con deficiencias físicas, mentales, intelectuales
+o sensoriales y las barreras del entorno que impiden el ejercicio pleno de sus
+derechos en igualdad de condiciones con las demás personas[179].
+
+67.           
+Desde este enfoque, la
+discapacidad no surge de las características del individuo, sino de la
+incapacidad de la sociedad para eliminar los obstáculos que restringen su
+participación[180]. En esa medida, el modelo social no es solo un cambio
+conceptual, sino un mandato de transformación que exige la reestructuración de
+políticas, prácticas, normas y condiciones de accesibilidad con el fin de
+remover dichas barreras[181]. Este mandato se concreta en obligaciones específicas
+para los Estados, entre ellas la eliminación de prácticas discriminatorias y la
+adopción de medidas que garanticen la efectividad de los derechos.
+
+68.           
+Tal como lo señaló un
+interviniente en este proceso[182], existen diferencias entre los conceptos
+de neurodiversidad, neurotipicidad y neurodivergencia. La siguiente tabla
+sintetiza esas diferencias:
+
+Tabla 5.
+Diferencias entre neurodiversidad, neurotipicidad y neurodivergencia
+
+Neurodiversidad
+
+Se
+  refiere a la diversidad existente dentro de la distribución normal de
+  perfiles cognitivos de una población[183]. Dentro de esa diversidad, se podría catalogar a
+  las personas como neurotípicas o neurodivergentes.
+
+Neurotipicidad
+
+Neurodivergencia
+
+Describe
+  a personas con un cerebro o desarrollo neurológico considerado típico o estándar
+  dentro de un grupo social dado[184].
+
+La
+  neurodivergencia es, precisamente, la manera en que un perfil individual se
+  aparta de esa media poblacional neurotípica en uno o varios de los dominios
+  cognitivos que componen dicha distribución. 
+
+No
+  se concibe como una categoría clínica estática ni como un simple conjunto de
+  clases naturales descubiertas por la ciencia, sino como un objetivo móvil
+  que responde tanto a la infinita variación neurológica humana como a las
+  necesidades de la cultura y la sociedad de cada momento[185].
+
+69.           
+Desde la perspectiva
+del modelo social de discapacidad, los términos neurodivergencia y
+discapacidad no son sinónimos. Una persona neurodivergente no es
+necesariamente una persona con discapacidad. Como se señaló en el párrafo 66, la discapacidad se da solo a partir de la conjunción de
+características diferenciadas a largo plazo o deficiencias y barreras externas
+a la participación en la sociedad[186].
+
+70.           
+Ahora bien, esto no
+quiere decir que no puedan ser concurrentes. Si una persona neurodivergente
+experimenta barreras del entorno físicas, actitudinales, normativas o
+culturales que impiden su participación plena y efectiva en igualdad de condiciones
+con las demás personas[187], también es una persona con discapacidad, por lo que la
+respuesta social debe orientarse a la eliminación de dichas barreras y a
+valorar la diferencia funcional como parte de la diversidad humana[188].
+
+El derecho de los niños, las niñas y los adolescentes
+neurodivergentes a una educación inclusiva[189]
+
+71.           
+La Constitución
+Política en el artículo 67 reconoce la educación en dos dimensiones, la
+primera, como un derecho fundamental y la segunda, como un servicio público.
+Esta doble concepción se adoptó con el fin de garantizar que todas las
+personas tengan acceso al conocimiento, la ciencia y la técnica, así como a los
+demás bienes y valores de la cultura, en consonancia con los fines y principios
+constitucionales del Estado Social y Democrático de Derecho[190].
+
+72.           
+La educación como
+derecho fundamental tiene cuatro componentes estructurales e interrelacionados,
+asociados a su dimensión prestacional: (i) disponibilidad, en el marco de la
+cual se exige que existan recursos y programas precisos y suficientes para el
+desarrollo de una oferta educativa que garantice el goce pleno del derecho;
+(ii) accesibilidad, donde se describen los supuestos necesarios para que la
+generalidad de la población alcance a gozar plenamente del servicio; (iii)
+adaptabilidad, a partir de lo cual se exige que el servicio pueda ser dúctil
+respecto de las necesidades de los alumnos en contextos de diversidad cultural
+y social, y (iv) aceptabilidad, relacionada con la prestación adecuada del
+servicio.
+
+73.           
+La jurisprudencia ha
+señalado que el derecho a la educación no puede limitarse a un aspecto de
+formación meramente académico, sino que también hacen parte de ella los
+procesos de crecimiento personal, social, cultural y deportivo[191]. Lo anterior cobra mayor relevancia cuando
+se trata de las niñas y los niños en los primeros años de formación que
+requieren que se les proporcionen los medios y las condiciones ideales para su
+desarrollo integral[192].
+
+74.           
+Con fundamento en el
+artículo 44 de la Constitución, la Convención sobre los Derechos del Niño y los
+pronunciamientos de esta Corporación, se ha determinado que, tratándose de las
+niñas, los niños y los adolescentes, la educación como derecho fundamental
+adquiere una especial relevancia, pues su aplicación es inmediata y toda
+interpretación en esta materia debe hacerse bajo el tamiz del interés superior
+de las niñas, los niños y los adolescentes. Lo anterior significa que su
+derecho a la educación ocupa un estatus prevalente en el ordenamiento jurídico
+y activa el deber del Estado de brindar especial importancia y preferencia en
+todas las medidas tendientes a protegerlos[193].
+
+75.           
+Esta Corte también ha
+desarrollado una sólida línea jurisprudencial sobre la educación inclusiva para
+las niñas, los niños y los adolescentes. Basándose en el artículo 24 de la
+Convención sobre los Derechos de las Personas con Discapacidad, las personas en
+situación de discapacidad tienen derecho a la educación sin discriminación y en
+igualdad de oportunidades con las demás. El principal objetivo de la educación
+inclusiva es, entonces, ofrecer respuestas adecuadas al amplio margen de
+necesidades de aprendizaje y a la diversidad de los estudiantes en entornos
+educativos formales o no formales[194].
+
+76.           
+Asimismo, la
+jurisprudencia constitucional se ha referido al derecho a la educación
+particularmente desde su componente de adaptabilidad tanto en escenarios en
+los que hay personas con neurodivergencia como en personas con discapacidad
+intelectual. En esos casos, esta Corporación ha resaltado que la falta de
+adopción de medidas específicas que reflejen las dificultades de los
+estudiantes y que sugieran mecanismos para la superación de obstáculos en su
+proceso educativo, además de resultar una conducta discriminatoria y poco
+inclusiva, puede tener serias influencias en la salud emocional de aquellos e
+incluso en el empeoramiento de su salud mental. Ante escenarios en los que
+situaciones de neurodivergencia hacen, en sí mismas, difíciles las
+interacciones con su entorno, las niñas, los niños y los adolescentes con este
+tipo de diagnósticos requieren la consolidación de una red de apoyo, soporte y acompañamiento
+en los escenarios educativos que contribuya a su proceso pedagógico[195].
+
+77.           
+Para lograrlo, el
+Decreto 1421 de 2017 estableció la creación de los Planes Individuales de
+Ajustes Razonables (PIAR). Este plan se constituye como la herramienta idónea para
+garantizar la pertinencia del proceso de enseñanza y aprendizaje del estudiante
+en situación de discapacidad dentro del aula, respetando sus estilos y ritmos
+de aprendizaje. Según el artículo 2.3.3.5.2.3.5 del decreto, el proyecto es
+liderado por la institución, los docentes de apoyo, la familia y el mismo
+estudiante, y debe contener como mínimo los siguientes aspectos: (i) la
+descripción del contexto en que se desenvuelve el estudiante, tanto dentro como
+fuera del aula; (ii) una valoración pedagógica, junto con las valoraciones de
+salud que aporten al diseño, y (iii) los ajustes curriculares, didácticos,
+evaluativos y metodológicos para el año lectivo, entre otros.
+
+78.           
+Inclusive, la
+jurisprudencia de la Corte se ha pronunciado sobre la importancia de la implementación
+de estos PIAR para las niñas, los niños y los adolescentes con condiciones del
+espectro autista (usualmente conocidos como trastornos del especto autista, TEA).
+Esta condición se caracteriza principalmente por diferencias en la comunicación
+social y por la presencia de intereses profundos y comportamientos repetitivos.
+Se trata de un espectro porque sus manifestaciones son muy heterogéneas[196].
+
+79.           
+En el ámbito escolar,
+las necesidades de apoyo de personas en condición del espectro autista para participar
+en igualdad con los demás estudiantes varían según el estilo de aprendizaje.
+Por esa razón, no procede una evaluación general, sino la asignación de ajustes
+específicos[197]. Como lo señaló uno de los intervinientes[198], los ajustes que se realicen [n]o son la
+consecuencia final de un diagnóstico, sino una respuesta progresiva a las
+necesidades que van siendo identificadas por docentes, familia y profesionales
+de apoyo[199].
+
+80.           
+No obstante, pese a lo
+consagrado en la reglamentación y en la jurisprudencia, la inclusión educativa
+de personas con discapacidad o neurodiversas experimenta notables barreras en
+la práctica. Como lo evidencia un informe realizado por el Laboratorio de
+Economía para la Educación de la Universidad Javeriana y la Fundación
+Saldarriaga Concha, que procesó los datos de la Encuesta Nacional de Calidad de
+Vida (ECV) de 2020 y microdatos del Sistema Nacional de Información de la
+Educación Superior (SNIES), el 41,9% de las niñas, niños y adolescentes en el
+espectro autista estudian en un colegio privado, como el hijo de la accionante
+antes del traslado. El informe encontró que la implementación de los ajustes en
+la práctica es baja, pues existen retos notables en la capacitación del
+personal docente y en el diseño e implementación del PIAR[200]. Hallazgos similares han sido reportados
+por miembros de la sociedad civil[201].
+
+El respeto las recomendaciones médicas es una faceta
+del derecho al trabajo en condiciones dignas y justas y del derecho a la salud[202]
+
+81.           
+Desde sus inicios, la
+jurisprudencia de la Corte Constitucional ha señalado que la protección
+constitucional del trabajo no se limita al acceso a un empleo y su permanencia
+en él, sino que este se debe desempeñar en condiciones dignas y justas[203]. Este
+derecho debe ser garantizado tanto por las autoridades públicas como por los
+particulares[204].
+
+82.           
+La Corte ha señalado
+que el trabajo en sí mismo () constituye [en sí mismo] un
+aspecto de la dignidad humana. No obstante, también ha indicado que las
+condiciones en que se ejerce el trabajo también contribuyen al reconocimiento o
+al desconocimiento de esta dignidad; ciertamente, para ser verdaderamente
+humano, el trabajo debe desarrollarse dentro de un ambiente, unas
+circunstancias y unas reglas que no signifique la simple utilización de quien
+pone a disposición del empleador su fuerza laboral[205]. Así, tanto
+la labor como la condición en la que se desarrolla el trabajo contribuyen a la
+realización de la persona, es decir, al reconocimiento del derecho a un trabajo
+digno.
+
+83.           
+La Corte ha precisado
+que existe una vulneración a los derechos fundamentales cuando se presentan
+traslados laborales que comprometen la seguridad y salud de los trabajadores
+(), situaciones de maltrato y acoso laboral () y condiciones laborales que
+contribuyen al estrés[206].
+
+84.           
+Además, ha indicado
+que existe una relación entre el derecho al trabajo y el derecho a la salud,
+pues una de las condiciones básicas para que un trabajador pueda ejercer con
+eficacia y eficiencia su labor se fundamenta en el cuidado de su estado de
+salud.
+
+85.           
+Por otra parte, el
+derecho a la salud está consagrado en el artículo 49 de la Constitución. A
+partir de la Ley 1751 de 2015 y de la jurisprudencia constitucional, es
+considerado como un derecho autónomo e irrenunciable, revestido del carácter de
+fundamental[207].
+En el desarrollo de ese derecho, la Corte ha sostenido en varias oportunidades
+que la salud constitucionalmente protegida no es únicamente la física, sino que
+comprende, necesariamente, componentes del bien psicológico, mental y
+psicosomático de una persona[208].
+Por lo cual, el derecho a la salud mental es una parte integrante del derecho
+fundamental a la salud y es exigible vía amparo constitucional[209].
+
+86.           
+De igual forma, el
+artículo 3° de la Ley 1616 de 2013 define la salud mental como un estado
+dinámico que se expresa en la vida cotidiana a través del comportamiento y la
+interacción de manera tal que permite a los sujetos individuales y colectivos
+desplegar sus recursos emocionales, cognitivos y mentales para transitar por la
+vida cotidiana, para trabajar, para establecer relaciones significativas y para
+contribuir a la comunidad. Asimismo, este artículo establece que la salud
+mental es de interés y prioridad nacional para la República de Colombia, es un
+derecho fundamental, es tema prioritario de salud pública, es un bien de
+interés público y es componente esencial del bienestar general y el
+mejoramiento de la calidad de vida de colombianos y colombianas.
+
+87.           
+En el ámbito laboral,
+la salud mental de los trabajadores puede verse afectada por riesgos
+psicosociales. Estos riesgos son definidos por la Organización Internacional
+del Trabajo (OIT) de la siguiente manera: interacciones entre el trabajo, su
+medio ambiente, la satisfacción en el trabajo y las condiciones de su
+organización, por una parte, y por la otra, las capacidades del trabajador, sus
+necesidades, su cultura y su situación personal fuera del trabajo, todo lo
+cual, a través de percepciones y experiencias, pueden influir en la salud y en
+el rendimiento en el trabajo[210].
+
+88.           
+En esta línea, la OIT
+ha reconocido que el trabajo puede contribuir a mejorar o afectar la salud de
+una persona, en el sentido de que una interacción negativa entre las
+condiciones de trabajo y los factores emocionales puede perturbar la salud del
+individuo, al ocasionar: episodios emocionales, problemas de comportamiento y
+cambios bioquímicos y neuro hormonales que suponen riesgos adicionales de
+enfermedades mentales o físicas. Por el contrario, cuando existe un equilibrio
+entre las condiciones de trabajo y los factores humanos, el trabajo crea una
+sensación de dominio y autoestima, aumenta la motivación, la capacidad de
+trabajo y la satisfacción, y mejora la salud[211].
+
+89.           
+Conforme a la
+Resolución 2646 de 2008[212]
+del entonces Ministerio de la Protección Social, existe un deber a cargo de
+diferentes actores sociales, tanto públicos como privados, de prevenir,
+identificar y atender los riesgos psicosociales. Según esta norma, los factores
+psicosociales comprenden aspectos intralaborales, extralaborales y condiciones
+individuales del trabajador, los cuales pueden afectar su salud y desempeño[213]. Asimismo,
+dispone algunos factores de riesgo que el empleador debe identificar y
+analizar.
+
+90.           
+En relación con los
+riesgos intralaborales que debe tener en cuenta el empleador, se destacan: (i)
+la gestión organizacional, (ii) las condiciones de la tarea, (iii) la carga
+física y (iv) la jornada de trabajo, entre otros. Respecto a los riesgos
+extralaborales, la norma indica: (i) la utilización del tiempo libre, (ii) el
+tiempo de desplazamiento y medio de transporte utilizado para ir al trabajo,
+(iii) la pertenencia a redes de apoyo social, (iv) las características de la
+vivienda y (v) el acceso a servicios de salud. Finalmente, en cuanto a algunos
+factores individuales, la citada resolución se refiere, por ejemplo, a (i) la
+información sociodemográfica, (ii) las características de personalidad y (iii)
+las condiciones de salud[214].
+
+91.           
+Desde esta
+perspectiva, al evaluar los factores psicosociales de los trabajadores, los
+empleadores deben incluir información actualizada sobre los siguientes
+aspectos: (i) las condiciones de salud de los trabajadores; (ii) la ocurrencia
+de accidentes de trabajo y enfermedades laborales; (iii) las estadísticas de
+morbilidad y mortalidad por accidente de trabajo, enfermedad profesional y
+enfermedad común; (iv) el ausentismo; (v) la rotación de personal, y (vi) el
+rendimiento laboral. Una vez identificados los factores de riesgo y sus
+posibles efectos, los empleadores deben hacer seguimiento a fin de establecer
+la carga física, mental y psíquica asociada a estos y la necesidad de
+intervenir en el corto, mediano o largo plazo. Igualmente, la información debe
+ser actualizada periódicamente[215].
+
+92.           
+Adicionalmente, la
+Ley 1616 de 2013 plantea obligaciones en cabeza de las Administradoras de
+Riesgos Laborales (ARL) para promover la salud mental en el ámbito laboral.
+Estas entidades deben formular estrategias, programas, acciones o servicios de
+promoción de la salud mental que incluyan el monitoreo permanente de la
+exposición a factores de riesgo psicosocial en el trabajo para proteger,
+mejorar y recuperar la salud mental de los trabajadores[216]. Por su
+parte, el Gobierno debe determinar y actualizar lineamientos técnicos para el
+diseño, formulación e implementación de estrategias, programas, acciones o
+servicios de promoción de salud mental y la prevención del trastorno mental en
+el ámbito laboral[217].
+
+93.           
+En el trabajo existen
+varios factores psicosociales que pueden afectar la salud mental del
+trabajador, entre otros: (i) la carga de trabajo excesiva, (ii) los horarios
+prolongados y extenuantes de trabajo que no permitan a la persona tener una
+vida fuera del ambiente laboral, (iii) la violencia y el acoso, (iv) el trabajo
+en aislamiento y (v) la inseguridad laboral. En ese sentido, es necesario que
+los empleadores identifiquen, prevengan y traten los riesgos psicosociales a
+los que se ven expuestos sus trabajadores, al ser susceptibles de desconocer el
+derecho a la salud mental y generar problemas como agotamiento o burnout,
+ansiedad, depresión e intenciones suicidas, entre otros. Más aún cuando los
+problemas de salud mental de un trabajador no solo comprometen sus derechos, sino
+el bienestar de sus allegados más próximos y compañeros[218].
+
+94.           
+En la Sentencia T-115
+de 2025 se identificaron una serie de factores psicosociales a los que se ven
+expuestos los servidores de la Fiscalía General de la Nación: (i) las altas
+demandas de trabajo relacionadas con un volumen elevado de investigaciones
+judiciales; (ii) las altas demandas emocionales por trato negativo por parte de
+ciudadanos, exposición a situaciones de violencia, contacto con personas
+heridas o fallecidas, o exposición constante a situaciones y personas que
+amenazan su vida; (iii) el manejo excesivo de responsabilidad del cargo por
+manejo de información confidencial; (iv) las jornadas de trabajo prolongadas, y
+(v) el manejo de información excesiva, compleja o detallada durante el proceso
+de investigación de delitos.
+
+95.           
+En este sentido, los
+factores psicosociales pueden afectar el derecho a la salud mental de los
+trabajadores, por lo que los empleadores están llamados a identificarlos,
+prevenirlos y tratarlos en cada caso particular a partir de un enfoque integral
+que los involucre. En el caso de la Fiscalía General de la Nación, si bien esta
+entidad tiene la responsabilidad de garantizar el derecho de acceso a la
+justicia de las víctimas, lo que implica asegurar la continuidad en la prestación
+del servicio público de administración de justicia, esta obligación no puede
+desconocer el derecho fundamental a la salud mental de sus trabajadores y, por
+ende, pasar por alto el deber de identificación, prevención y atención de los
+riesgos psicosociales a los que están expuestos sus servidores. Por lo tanto,
+es necesario encontrar alternativas equilibradas en aras de no perjudicar a
+quienes apoyan la administración de justicia[219].
+
+96.           
+En síntesis, la salud
+mental integra el derecho fundamental a la salud y su protección es exigible a
+través de la acción de tutela. Abarca una serie de aspectos emocionales y
+cognitivos que permiten el desarrollo de las personas a plenitud y con
+dignidad. Las afecciones a la salud mental pueden derivar en estados mentales asociados
+a un alto grado de angustia, discapacidad funcional e, incluso, el riesgo de
+conductas autolesivas.
+
+97.           
+En el ámbito laboral,
+la salud, tanto física como mental, puede verse expuesta a diversos factores
+que la pueden alterar y afectar. De este modo, la salud en el trabajo implica,
+al menos, la obligación del empleador de identificar y garantizar
+intervenciones que aseguren de forma efectiva el derecho a la salud física y
+mental del trabajador. Esto conlleva el deber de identificar, prevenir y atender
+los riesgos psicosociales en el entorno laboral, para proteger la integridad
+mental del trabajador frente a factores como la sobrecarga de trabajo, las
+prolongadas jornadas laborales, el acoso laboral y el estrés laboral, entre
+otros. En el caso de la Fiscalía General de la Nación, lo anterior debe
+armonizarse con la obligación de asegurar la continuidad en la prestación del
+servicio público de administración de justicia.
+
+5.     Caso
+concreto y remedios judiciales
+
+98.           
+Con fundamento en las
+consideraciones expuestas, la Sala concluye que se vulneraron los derechos
+fundamentales al cuidado, a la unidad familiar, a salud y al trabajo en
+condiciones dignas y justas de la accionante.
+
+La Fiscalía
+General de la Nación vulneró los derechos al cuidado y a la unidad familiar de Andrea.
+También vulneró los derechos fundamentales a la educación inclusiva, al cuidado
+y a la salud de Martín
+
+La Fiscalía actuó
+de manera arbitraria al no reevaluar la reubicación de la accionante, incluso
+después de conocer sus responsabilidades de cuidado y su condición de salud
+
+99.           
+La vulneración de
+derechos fundamentales en el caso concreto está ligada a la emisión de la
+Resolución XXXXXX de 2025, que ordenó la reubicación de la accionante de Municipio
+A a Municipio B. A la Sala no le compete pronunciarse sobre la
+legalidad de la resolución, pues este asunto corresponde a la jurisdicción de
+lo contencioso administrativo. Por ende, el análisis realizado por esta
+Corporación se centrará en los efectos, en términos de vulneración de los
+derechos fundamentales, de: (i) el traslado de la accionante ordenado por esa
+resolución y, posteriormente, (ii) la decisión de la Fiscalía de no reevaluar
+el traslado ni considerar otro curso de acción tras conocer, mediante el
+recurso de reposición, las responsabilidades de cuidado y las condiciones de
+salud de la accionante. Asimismo, se tendrán en cuenta los impactos de esta
+decisión en el derecho a la educación inclusiva de su hijo.
+
+100.       Como punto de partida, es importante
+señalar que, en principio, la Resolución XXXXXX de 2025, no establece de forma
+expresa cuáles eran las necesidades del servicio que justificaban el traslado
+de la accionante a Municipio B[220].
+La jurisprudencia de esta Corporación ha indicado que las decisiones sobre
+traslados de servidores públicos deben ser motivadas. Por lo tanto, se deben
+evaluar no solo las necesidades del servicio, sino también las circunstancias
+del trabajador y de su núcleo familiar[221].
+Incumplir esta carga denota una actitud arbitraria de la accionada. 
+
+101.       En el recurso de reposición contra la
+orden de traslado, la accionante informó a la Fiscalía General sobre su
+condición médica y sus responsabilidades de cuidado. Pese a ello, la entidad
+confirmó su decisión sin evaluar posibles ajustes en su planta global que
+atendieran las necesidades del servicio sin afectar los derechos fundamentales
+de la trabajadora.
+
+102.       Posteriormente, en el trámite del proceso
+de tutela, la Fiscalía detalló con más argumentos cuáles fueron las razones que
+motivaron la decisión de traslado. Como se relató en el párrafo 9, al contestar la acción de tutela la Fiscalía señaló
+que el motivo del traslado fue la experiencia de la accionante en la
+investigación de delitos de violencia intrafamiliar. Por lo tanto, su
+asignación a un CAVIF (Centro de Atención e Investigación Integral contra la
+Violencia Intrafamiliar) contribuiría a la misionalidad de la institución.
+
+103.      
+No obstante, en el
+expediente no existe evidencia que respalde dichas motivaciones. De hecho, las
+estadísticas remitidas por la Seccional de Departamento X, en respuesta
+al auto de pruebas decretado en sede de revisión, indican lo contrario[222]. Como lo
+ilustra el siguiente gráfico, las noticias criminales por violencia
+intrafamiliar han disminuido en Municipio B hasta 2025, mientras que en Municipio
+A han aumentado de forma sostenida año tras año. Por ende, bajo la lógica
+de la Fiscalía, la experiencia de la accionante resultaba más valiosa en Municipio
+A que en Municipio B. De hecho, los datos parciales de 2026, que ya
+superaron los de 2025, indican que las noticias criminales por el delito de
+violencia intrafamiliar han aumentado notablemente.
+
+Gráfico 1 - Noticias criminales por hurto y violencia intrafamiliar en
+Municipio A y Municipio B (20232026)
+
+104.       Además, la Fiscalía señaló que, antes de
+resolverse el recurso de reposición interpuesto contra el acto administrativo,
+desconocía que el hijo de la accionante requería apoyos en su proceso de
+aprendizaje[223].
+Para la Sala, este argumento resulta insuficiente para eximir a la Fiscalía
+General de las obligaciones que le asisten como empleadora de la señora Andrea
+en lo que respecta a la garantía del derecho a la unidad familiar, como se
+explica a continuación.
+
+105.       La jurisprudencia de esta Corporación no
+les ha exigido a los accionantes que solicitan la protección de su derecho a la
+unidad familiar la notificación previa a su empleador de las condiciones que
+activan dicha protección. En ese sentido, en ninguno de los casos en los que la
+Corte amparó los derechos (sintetizados en las tablas
+3 y 4), se les exigió a los accionantes haber
+notificado con antelación a la entidad el hecho generador de la protección
+como la situación familiar o de salud que les impedía o hacía excesivamente
+gravoso el traslado, a diferencia de lo que ocurre en otros escenarios
+constitucionales como la estabilidad laboral reforzada.
+
+106.       Además, la accionada debió aplicar el
+Convenio 156 sobre los trabajadores con responsabilidades familiares, que hace
+parte del bloque de constitucionalidad. Esta disposición, interpretada por esta
+Corporación desde la perspectiva del derecho al cuidado, exige tener en cuenta
+las responsabilidades de cuidado de la servidora pública para tomar decisiones
+sobre eventos que, como el traslado, podrían afectar el cumplimiento de dichas
+cargas. En consecuencia, al enterarse de ellas mediante el recurso de
+reposición, la Fiscalía debió valorar sus circunstancias particulares y
+encontrar una alternativa de reubicación que no vulnerara sus derechos
+fundamentales.
+
+107.       Según la información que la Fiscalía
+remitió al despacho sustanciador, en virtud de las pruebas decretadas en sede
+de revisión sobre la planta de la Seccional de Departamento X, existen
+indicios de traslados de personal que demuestran que la entidad tenía
+alternativas menos gravosas para los derechos fundamentales de la accionante y
+su hijo. De hecho, según esa información, desde el 1º de enero de 2025 hasta el
+24 de junio de 2026 se hicieron 21 nombramientos en Municipio A en
+provisionalidad y en encargo, y solo seis en el CAVIF de ese municipio[224].
+
+El traslado generó afectaciones en la salud mental de
+la accionante
+
+108.      
+Por otra parte, el
+traslado implicó un deterioro de las condiciones de trabajo de la accionante.
+Como lo relató en el memorial remitido durante la práctica de pruebas, su
+calidad de vida ha disminuido: invierte gran parte de su tiempo de descanso en desplazamientos
+y su salud mental se ha afectado. Además, al carecer de una red de apoyo en Municipio
+B, debe cuidar a su hijo en la oficina mientras trabaja durante las tardes[225].
+
+109.       Como se anticipó en la Tabla 1, el psiquiatra diagnosticó a la accionante con
+trastorno de adaptación y le prescribió 30 mg diarios de mirtazapina (un
+antidepresivo). Según la literatura médica, esta afección es causada por
+eventos estresantes y genera un nivel de angustia que deteriora la vida
+cotidiana de la persona[226].
+De hecho, los estudios han considerado que las mudanzas o reubicaciones en
+general, y el traslado causado por el trabajo en particular, suelen ser neuroestresores
+típicos causantes del trastorno de adaptación[227]. 
+
+110.       De otra parte, el deterioro en el
+bienestar de la accionante fue advertido por su superior jerárquica en Municipio
+B. Según consta en la reunión del Grupo de Seguridad y Salud en el Trabajo
+de la Fiscalía celebrada el 24 de marzo de 2026, su jefa inmediata dejó expresa
+constancia de su preocupación por el estado de ánimo de la servidora[228].
+
+111.       La sobrecarga en las responsabilidades de
+cuidado que ha asumido la accionante se explica por el traslado, las
+necesidades de acompañamiento profesional de Martín debido a su
+neurodivergencia y la falta de una red de apoyo. Al respecto, la Corte advierte
+que el padre del niño no vive en la ciudad porque cuida a sus propios padres[229]. Aunque
+esto no lo exime de su deber de corresponsabilidad familiar y de participar
+activamente en el cuidado de su hijo[230],
+para la Sala Primera de Revisión este aspecto no es relevante para determinar
+si es necesario proteger los derechos fundamentales de la accionante. Como ya
+se explicó, la jurisprudencia de la Corte ha establecido que, al evaluar la
+vulneración del derecho a la unidad familiar por un traslado, el criterio
+central es si la medida generó efectos desproporcionados sobre los derechos
+fundamentales.
+
+El traslado impuso una carga desproporcionada para la
+accionante y para su hijo
+
+112.       El traslado de la señora Andrea
+alteró la logística de cuidado de su hijo. Para continuar con sus propios
+tratamientos médicos y las terapias del niño, la accionante se ha visto
+obligada a aumentar las horas dedicadas al trabajo de cuidado no remunerado,
+desplazarse entre municipios y cuidar a su niño mientras trabaja. Como se
+expuso previamente, para garantizar la continuidad en los tratamientos, la
+accionante y su hijo se han desplazado constantemente hasta el municipio de Municipio
+A para recibir dichos servicios. La ciudadana asistió a 22 citas y su hijo
+a más de 50 desde 2024, todas ellas en Bogotá o en Municipio A[231].
+
+113.       Asimismo, la EPS Sanitas no respondió el
+requerimiento de la magistrada sustanciadora sobre la red que podría atender a
+la accionante y a su hijo en el municipio de Municipio B, a pesar de
+haber sido requerida[232].
+Por lo tanto, la Sala aplicará la presunción de veracidad del artículo 20 del
+Decreto 2591 de 1991 respecto de los hechos señalados en la demanda de tutela
+sobre los que la vinculada omitió pronunciarse en el auto de pruebas proferido
+por el despacho sustanciador. En concreto, dicha presunción recae sobre la
+afirmación de la accionante acerca de la inexistencia de una red de prestadores
+suficiente para cubrir los servicios requeridos ante sus circunstancias
+particulares de salud, tal como se expuso en el párrafo 7 de esta providencia.
+
+114.       La afectación para Martín también
+es significativa. A juicio de la Sala, en este caso se está tanto ante una
+discapacidad como ante una neurodivergencia, por las siguientes razones:
+
+(i)              
+Como lo indicaron
+unánimemente los intervinientes, los cambios súbitos de ambiente y de rutina
+resultan sumamente estresantes para las personas en el espectro autista[233].
+
+(ii)            
+El traslado impidió
+la implementación de los ajustes razonables definidos en su Plan Individual de
+Ajustes Razonables (PIAR) en el colegio en el que estudiaba en Municipio A.
+Trasladar al estudiante de un entorno adaptado a otro sin garantías para
+diseñar e implementar los apoyos necesarios constituye una barrera para la
+pertinencia y la calidad de su proceso pedagógico.
+
+(iii)         
+Como lo señaló uno de
+los intervinientes[234], el hecho de que la neurodivergencia
+específica de Martín no se hubiera identificado plenamente al momento de
+interponer la acción de tutela no puede ser excusa para condicionar los ajustes
+necesarios. Conforme al modelo social de discapacidad, y como se explicó en el
+párrafo 69, lo que determina dichos ajustes es la existencia de
+barreras.
+
+(iv)          
+Con posterioridad a
+la interposición de la tutela[235],
+el neuropediatra tratante del niño diagnosticó de manera concluyente que estaba
+en el espectro autista y, además, se fue expedido un certificado de
+discapacidad[236].
+
+115.      
+Por lo tanto, se
+cumplen los requisitos que la jurisprudencia ha considerado necesarios para
+ordenar la suspensión del traslado por motivos de salud, pues (i) en la
+localidad de destino no existen las condiciones para brindar el cuidado médico
+requerido, (ii) la afectación a la salud de la accionante fue importante, (iii)
+la mudanza interrumpe el tratamiento de Martín y ha deteriorado
+significativamente la salud mental de la actora, y (iv) la accionante tiene el
+cuidado exclusivo del niño. Adicionalmente, se encontró probado un nexo de
+causalidad entre la reubicación y la vulneración del derecho a la salud de la
+accionante y de su hijo[237].
+
+116.       En consecuencia, la Sala Primera de
+Revisión suspenderá los efectos del acto administrativo que reubicó a la
+accionante en Municipio B, hasta que la jurisdicción de lo
+contencioso-administrativo decida de fondo y en firme sobre su legalidad. La
+Corte otorgará el término de quince (15) días para que la accionante y la
+Fiscalía lleguen a un acuerdo sobre los términos de la suspensión del traslado,
+como se explica a continuación. 
+
+117.       El acuerdo debe incluir las condiciones
+de modo, tiempo y lugar del traslado a Municipio A o a un municipio
+cercano y constar en un acto administrativo. La Fiscalía deberá informar a la
+accionante sobre las vacantes disponibles en esos municipios para cargos
+similares o superiores al suyo y darle preferencia para el traslado. Durante el
+proceso de traslado, la entidad evaluará la posibilidad de que la accionante
+cumpla sus funciones mediante teletrabajo o trabajo en casa, si ella lo desea.
+Además, la Fiscalía remitirá los actos administrativos expedidos en virtud de
+estos acuerdos al juzgado de primera instancia, el cual velará por su
+cumplimiento. Hasta que las partes logren un acuerdo, la entidad no podrá
+modificar las condiciones de modo, tiempo y lugar de trabajo de la accionante. 
+
+118.       Como se indicó en las tablas 3 y 4, el
+remedio judicial habitual de la Corte es dejar sin efectos la orden de
+traslado. Sin embargo, por las particularidades de este caso, la Corte
+consideró más apropiado que las partes lleguen a un acuerdo, en los términos
+descritos anteriormente. La Sala aplicó una perspectiva de género y valoró el
+interés superior de las niñas, niños y adolescentes[238]. Así,
+determinó que esta medida evita una mayor afectación de los derechos de los
+accionantes y atiende de mejor forma sus necesidades. Un nuevo traslado
+repentino y ordenado automáticamente por este Tribunal aumentaría las
+responsabilidades de la trabajadora. Esta decisión implicaría mudarse en poco
+tiempo, entregar un despacho, recibir otro y asegurar un cupo escolar a mitad
+de año. Además, interrumpiría de manera abrupta el proceso educativo del niño.
+De otra parte, este remedio también permite que no se vean afectados los
+derechos de terceros interesados, como el señor Pedro, así como de los
+ciudadanos que participaron del concurso de méritos realizado por la Fiscalía
+General de la Nación durante 2024. No obstante, si no es posible llegar a un
+acuerdo en tres meses, la Fiscalía deberá realizar el traslado de forma
+automática dentro de los 15 días hábiles siguientes, conforme al remedio
+habitual.
+
+119.      
+Asimismo, la Corte
+ordenará a EPS Sanitas que: (i) informe a la accionante, de manera clara y por
+escrito, la red de instituciones prestadoras de salud disponible cerca de Municipio
+B para los servicios que ella y su hijo suelen requerir; (ii) garantice la
+continuidad y el acceso efectivo a dichos servicios médicos y terapéuticos; y
+(iii) adopte las medidas necesarias para que los servicios sean prestados en un
+municipio cercano, en caso de que no se cuente con instituciones en Municipio
+B. 
+
+La Fiscalía
+General de la Nación y la Compañía de Seguros Positiva vulneraron los derechos
+fundamentales a la salud y al trabajo en condiciones dignas y justas de la
+accionante por carecer de mecanismos eficaces de prevención de riesgos
+psicosociales
+
+120.       La Sala no se pronunciará sobre la
+presunta existencia de acoso laboral, sobre la cual la actora no formuló una
+petición específica al juez de tutela. Las quejas de la accionante fueron
+remitidas a la autoridad competente, según la Ley 1010 de 2006, y su trámite
+está en curso[239]. Por lo tanto, el análisis se centrará
+en las recomendaciones médicas y en la prevención de riesgos psicosociales.
+Esta prevención corresponde a la Fiscalía General, como empleadora, y a la
+Compañía Positiva de Seguros, como administradora de riesgos laborales.
+
+121.       La accionante ha recibido recomendaciones
+médicas tanto por el cuadro de la epicondilitis como por salud mental. Respecto
+de las primeras, en la resolución que resolvió negativamente el recurso de
+reposición contra el traslado, la Fiscalía señaló que las recomendaciones no
+eran vinculantes hasta que la ARL se pronunciara sobre ellas. Esta afirmación,
+que traslada la responsabilidad a la ARL, no es de recibo. El artículo 8 de la
+Ley 776 de 2002 señala que son empleadores quienes tienen el deber de reubicar
+a los trabajadores o de asignarles un trabajo compatible con sus capacidades y
+aptitudes. 
+
+122.       En un precedente reciente y relevante
+para este caso, la Sentencia T-115 de 2025, la Corte conoció un proceso en
+contra de la Fiscalía General de la Nación. El accionante era un fiscal
+especializado que, tras ser trasladado de Cali a Pasto y, luego, a Popayán,
+había perdido la posibilidad de compartir con su familia. Además, la intensa
+carga de trabajo le causó trastorno mixto de ansiedad y depresión, trastorno
+del sueño, trastorno de adaptación, trastorno de ansiedad generalizada [y]
+problemas relacionados con el estrés. La Corte consideró que la Fiscalía
+General de la Nación, al no valorar y efectuar ajustes a la carga laboral del
+actor conforme a las recomendaciones médicas y a su situación de salud
+plenamente diagnosticada, desconoció sus derechos fundamentales a la salud
+mental y al trabajo digno.
+
+123.       Las mismas afirmaciones se pueden hacer
+respecto de las segundas recomendaciones médicas emitidas recientemente tras el
+traslado. Como se señaló en la Sentencia T-115 de 2025, la Fiscalía General de
+la Nación tenía el deber de no solo identificar, sino atender y prevenir
+efectivamente los riesgos psicosociales a los que concretamente se ve expuesto el
+accionante, derivados de su [...] salud mental. Como se indicó en la reunión
+de seguimiento y socialización de medidas de salud, realizada virtualmente el
+24 de marzo de 2026, las recomendaciones de higiene postural o los permisos
+ocasionales no eran suficientes para atender los riesgos psicosociales de la
+accionante. En esa diligencia se concluyó que [l]a solución de fondo requiere
+una decisión de nivel directivo, se concluye que es pertinente el envío de
+solicitudes formales, soportes médicos y actas por parte de Seguridad y Salud
+en el Trabajo, así como la eventual articulación con instancias administrativas
+superiores, para lograr una solución efectiva[240]. Ante la
+falla de los mecanismos institucionales, la justicia debe intervenir.
+
+124.       Ahora bien, la Sala Primera de Revisión
+considera que el análisis de los riesgos psicosociales en el trabajo debe
+hacerse desde una perspectiva de género. La evidencia empírica señala que el
+género funciona como un determinante social e institucional clave. Este moldea
+la exposición, la experiencia y las consecuencias de estos riesgos en el
+entorno laboral[241].
+Las mujeres tienden a estar expuestas, en mayor medida que los hombres, a
+demandas emocionales, así como al acoso y a la discriminación[242]. Este
+efecto es particularmente notable en las mujeres activas en el mercado laboral
+que, al mismo tiempo, asumen responsabilidades de cuidado. En estos casos,
+experimentan un rápido agotamiento de sus recursos personales, como el tiempo y
+la energía, lo cual deteriora su salud mental[243]. Por esta
+razón, el parágrafo del artículo 9 de la Ley 1616 de 2013 establece que los
+lineamientos técnicos para prevenir y controlar los factores de riesgo
+psicosociales laborales que puedan afectar la salud mental de las mujeres deben
+actualizarse dando prioridad a las mujeres (en especial a las víctimas de
+violencia) y a las personas con discapacidad.
+
+125.       En consecuencia, la Corte también
+ordenará a la Fiscalía General de la Nación que (i) evalúe la carga de trabajo
+de la accionante y (ii) establezca los ajustes razonables que ella requiere
+para desempeñar sus funciones en condiciones dignas y justas. En particular, según
+lo formulado por su psiquiatra, la señora Andrea deberá tener, por lo
+menos, las siguientes garantías: (i) no prestar turnos nocturnos, (ii) asistir
+a sus citas de psicología y psiquiatría, y (iii) poder llevar a su hijo a las
+terapias y tratamientos necesarios.
+
+126.       Para el diseño e implementación de los
+ajustes razonables ordenados, la entidad accionada deberá aplicar un enfoque
+diferencial de género y observar, como mínimo, los siguientes criterios: (i)
+valorar el impacto de los riesgos psicosociales intrínsecos y extrínsecos a los
+que está expuesta la accionante en su calidad de cuidadora principal; (ii)
+considerar de manera particular las exigencias de cuidado que requiere Martín
+en virtud de su neurodivergencia; (iii) dimensionar el desgaste emocional que
+supone para la trabajadora asumir estas cargas con sin una red notable de apoyo;
+(iv) garantizar la participación activa y directa de la accionante en la
+definición de las medidas; y (v) permitir el acompañamiento de la organización
+sindical a la que pertenezca la trabajadora, siempre y cuando ella emita su
+autorización expresa para tal fin[244].
+También se instará a la Fiscalía para realizar un diálogo interno con sus
+funcionarios sobre la importancia de la prevención de riesgos psicosociales, en
+particular, respecto de aquellos trabajadores con responsabilidades de cuidado[245].
+
+127.       Como se señaló en el párrafo 28, las leyes 1616 de 2013 y 2460 de 2025 les atribuyen
+a las administradoras de riesgos laborales obligaciones de prevención y de
+monitoreo de los riesgos psicosociales, en general, y de la salud mental, en
+particular. Sin embargo, los hechos probados indican que estos mecanismos no
+han sido suficientes para prevenir importantes afectaciones a la salud mental
+de la accionante. Por lo tanto, para subsanar esas omisiones en su función
+preventiva, la Sala ordenará a la Compañía Positiva de Seguros (i) acompañar a
+la Fiscalía en el establecimiento de estas medidas con enfoque diferencial de
+género, y (ii) formular un plan para fortalecer las acciones de prevención,
+sensibilización, orientación y control de los factores de riesgos psicosociales
+en dicha entidad durante el año siguiente a la notificación de esta decisión.
+
+III.          
+DECISIÓN
+
+128.      
+En mérito de lo expuesto, la Sala Primera de Revisión de la
+Corte Constitucional, administrando justicia en nombre del pueblo y por
+mandato de la Constitución,
+
+RESUELVE
+
+Primero. REVOCAR el fallo proferido el 13 de noviembre de 2025 por la Sala de Decisión Penal del
+Tribunal Superior de Departamento X , que declaró improcedente la acción
+de tutela. En su lugar, MODIFICAR
+el fallo del 29 de septiembre de 2025 por el Juzgado 001 Penal del Circuito
+para Adolescentes con Función de Conocimiento de Municipio A (Departamento
+X), en los términos de las órdenes siguientes.
+
+Segundo. AMPARAR
+transitoriamente, para evitar un perjuicio irremediable, los derechos
+fundamentales al cuidado y a la unidad familiar de Andrea y de Martín,
+vulnerados por la Fiscalía General de la Nación. Esta protección regirá hasta
+que la Jurisdicción de lo Contencioso Administrativo resuelva de fondo el medio
+de control de nulidad y restablecimiento del derecho radicado bajo el número XXXXXXXXXXXXXXXXXXX,
+o hasta que ese proceso termine de manera anormal, de conformidad con el
+artículo 8 del Decreto 2591 de 1991.
+
+Tercero. AMPARAR de manera definitiva los derechos fundamentales a la salud, en su
+componente de salud mental, y al trabajo en condiciones dignas y justas de Andrea,
+vulnerados por la Fiscalía General de la Nación; así como el derecho a la salud
+de Andrea y Martín, vulnerado por la EPS Sanitas.
+
+Cuarto. DEJAR SIN EFECTOS, de manera transitoria y únicamente en lo que
+respecta a la accionante, la Resolución XXXXXX del 4 de agosto de 2025. En su
+lugar, ORDENAR a la Fiscalía General de la Nación que reubique a Andrea
+en un cargo de igual o superior denominación, jerarquía y remuneración en el
+municipio de Municipio A o en un municipio cercano, conforme a los
+siguientes lineamientos:
+
+(i)              
+Las condiciones de
+modo, trabajo y lugar de la accionante no podrán ser modificadas hasta que se
+llegue a un acuerdo con ella, salvo lo señalado en el literal (vi) de esta
+orden;
+
+(ii)            
+Dentro de los quince
+(15) días siguientes a la notificación de esta providencia, la entidad
+concertará con la accionante las condiciones de modo, tiempo y lugar del
+retorno, procurando que se materialice al término del periodo académico en
+curso del niño y sin que ello implique un incremento de su carga de trabajo o
+de sus responsabilidades cuidado;
+
+(iii)         
+Mientras el retorno se
+materializa, la entidad evaluará y, de ser compatible con las funciones del
+cargo, autorizará el trabajo remoto o el teletrabajo, si la accionante lo
+solicita;
+
+(iv)          
+La entidad informará a
+la accionante sobre las vacantes que se produzcan en Municipio A y
+municipios cercanos, y le dará preferencia para ocuparlas;
+
+(v)            
+Los acuerdos realizados
+deberán materializarse en la emisión de un acto administrativo.
+
+(vi)          
+Si transcurridos tres
+meses desde la notificación no se ha logrado el acuerdo o no se ha
+materializado la reubicación, la Fiscalía deberá efectuarla de oficio dentro de
+los quince días hábiles siguientes;
+
+(vii)       
+La Fiscalía General de
+la Nación deberá remitir copia de los actos administrativos que contengan el
+acuerdo o que ejecuten alguna de las medidas en ellos contenidas al Juzgado 001
+Penal del Circuito para Adolescentes con Función de Conocimiento de Municipio
+A (Departamento X). Ese despacho deberá verificar su cumplimiento de
+lo dispuesto en esta providencia, conforme a los artículos 27 y 52 del Decreto
+2591 de 1991.
+
+(viii)     
+Esta orden no altera la
+situación administrativa del señor Pedro y opera sin perjuicio de los
+derechos de quienes integran la lista de elegibles del Concurso de Méritos FGN
+2024.
+
+Quinto. COMUNICAR esta providencia al Juzgado XXX
+Administrativo de Municipio G, para lo de su competencia dentro del
+proceso XXXXXXXXXXXXXXXXXXXXXXX, y precisar que las órdenes aquí impartidas no
+prejuzgan sobre la legalidad de la Resolución XXXXXX del 4 de agosto de 2025.
+
+Sexto. ORDENAR a la Fiscalía General de la Nación que, en coordinación con la
+Administradora de Riesgos Laborales Positiva Compañía de Seguros y, dentro del
+mes siguiente a la notificación de esta providencia, valore la carga laboral de
+la accionante y concrete los ajustes necesarios para el cumplimiento de sus
+recomendaciones médicas. Como mínimo deberá garantizarse que (i) no preste
+turnos nocturnos, (ii) pueda asistir a sus citas de psicología y psiquiatría y
+(iii) pueda acompañar a su hijo a las terapias y tratamientos ordenados. La definición
+e implementación de los ajustes se hará con enfoque de género, con
+participación activa y directa de la accionante y, si ella lo autoriza, con
+acompañamiento de la organización sindical a la que pertenezca. La entidad y la
+ARL adelantarán acciones de monitoreo y seguimiento durante los seis meses
+siguientes a su adopción.
+
+Séptimo. ORDENAR a Positiva Compañía de Seguros S.A., que en los términos del artículo
+9.º de la Ley 1616 de 2013:
+
+(i)              
+Acompañar a la Fiscalía
+General de la Nación en el cumplimiento de lo dispuesto en la séptima orden de
+esta providencia, apoyando la valoración e implementación de dichas medidas.
+
+(ii)            
+Dentro del mes
+siguiente a la notificación de este fallo, presente un plan de acción para
+ejecutar en el término de un año, orientado a identificar las oportunidades de
+mejora y fortalecer la prevención, la sensibilización, la orientación y el
+control de factores de riesgo psicosocial de los servidores de la Fiscalía
+General de la Nación, haciendo énfasis en aquellos relacionados con la salud
+mental.
+
+Octavo. INSTAR a la
+Fiscalía General de la Nación para que adelante un diálogo interno orientado a
+sensibilizar a sus servidores sobre la importancia de prevenir, identificar y
+atender oportunamente los riesgos psicosociales, con particular atención a la
+situación de quienes tienen responsabilidades familiares de cuidado.
+
+Noveno. ORDENAR a EPS
+Sanitas que:
+
+(i)              
+Dentro de las 48 horas siguientes a la
+notificación de esta providencia, informe a la accionante, de forma clara y por escrito, sobre la red de instituciones prestadoras
+de salud disponibles en Municipio B y le precise a cuáles lugares pueden acudir ella y su hijo para
+obtener los servicios de urgencias y los demás requeridos
+durante los últimos dos años.
+
+(ii)            
+Garantice a la señora Andrea
+y a su hijo la continuidad y el acceso efectivo a dichos servicios médicos y
+terapéuticos.
+
+(iii)         
+Adopte las medidas
+necesarias para que los servicios sean prestados en un municipio cercano, en
+caso de que no se cuente con instituciones en Municipio B.
+
+Décimo. Por Secretaría General, LÍBRENSE las
+comunicaciones de que trata el artículo 36 del Decreto 2591 de 1991. 
+
+Notifíquese,
+comuníquese y cúmplase.
+
+NATALIA
+ÁNGEL CABO
+
+Magistrada
+
+CARLOS
+CAMARGO ASSIS
+
+Magistrado
+
+HECTOR
+ALFONSO CARVAJAL LONDOÑO
+
+Magistrado
+
+ANDREA
+LILIANA ROMERO LOPEZ
+
+Secretaria
+General
+
+[1]
+Corte Constitucional, Acuerdo 05 de 2025.
+
+[2] Expediente digital, archivo 002EscritoTutela (3).pdf, pp. 1-42. 
+
+[3] Expediente digital, archivo 003Anexo.pdf, pp. 1-3.
+
+[4] Expediente digital, archivo 004Anexo.pdf, p. 2.
+
+[5] Ibid., p. 4.
+
+[6] Ibid.
+
+[7] Ibid.
+
+[8] Ibid., pp. 12-15.
+
+[9] Ibid., pp. 2-4.
+
+[10] Ibid., p. 30.
+
+[11] Ibid., p. 40.
+
+[12] Ibid., p. 58.
+
+[13] Ibid.
+
+[14] Expediente digital, archivo 002EscritoTutela (3).pdf, p. 31.
+
+[15] Ibid.
+
+[16] Ibid., p. 11.
+
+[17] Ibid., p. 11.
+
+[18] Ibid., p. 14.
+
+[19] Expediente digital, archivo 020FalloTutela20250929.pdf.
+
+[20] Expediente digital, archivo 020FalloTutela20250929.pdf, p. 5.
+
+[21] Ibid., p. 6.
+
+[22] Ibid., p. 8.
+
+[23] Expediente digital, archivo 023ImpugnacionTutela20251001.pdf, p. 7.
+
+[24] Ibid., p. 7.
+
+[25] Expediente digital, archivo 12DecisionTutelaSegundaInstancia.pdf.
+
+[26] Ibid.
+
+[27] Expediente digital, archivo 001 SALA 4 - AUTO SALA DE SELECCION 30-ABRIL-2026
+NOTIFICADO 15-MAYO-2026.pdf.
+
+[28] Expediente digital, archivo 003_Informe_Reparto_Sala_de_Seleccion_Auto_30-Abr-2026.pdf.
+
+[29] Expediente digital, archivo 04Expediente_T-11903838_-_Auto_de_pruebas_-_VF.pdf.
+
+[30] Mediante auto del 6 de julio de 2026, la magistrada sustanciadora requirió
+a la Fiscalía General de la Nación, a la EPS Sanitas y a la ARL Positiva
+Compañía de Seguros que remitieran las pruebas solicitadas.
+
+[31] Expediente digital, 4.6Correo24Jun-26ANDREA.pdf.
+
+[32] Ibid., p. 9.
+
+[33] Ibid., p. 69.
+
+[34] Ibid., p. 7.
+
+[35] Ibid., p. 64.
+
+[36] Ibid., p. 62.
+
+[37] Ibid., pp. 60-61.
+
+[38] Número
+único de radicado del proceso: XXXXXXXXXXXXXXXXXXXXXX.
+
+[39] Expediente digital, 4.28Correo15Jul-26Andrea.pdf.
+
+[40] Suscrito por Rodrigo.
+
+[41] Expediente digital, 4.7Correo24Jun-26Fiscalia.pdf.
+
+[42] Ibid., p. 19.
+
+[43] Ibid., p. 20.
+
+[44] Escrito
+suscrito por Piedad.
+
+[45] Expediente digital, 4.20Correo10Jul-26Fiscalia_General_de_la_Nacion.pdf.
+
+[46] Expediente digital, 4.22Correo10Jul-26Fiscalia_General_de_la_Nacion.pdf,
+p. 6
+
+[47] Expediente digital, 4.21Correo10Jul-26Fiscalia_General_de_la_Nacion.pdf, p. 9.
+
+[48] Expediente digital, 4.22Correo10Jul-26Fiscalia_General_de_la_Nacion.pdf,
+p. 6
+
+[49] Escrito
+suscrito por José Ignacio Angulo Murillo.
+
+[50] Expediente digital, 4.22Correo10Jul-26Fiscalia_General_de_la_Nacion.pdf.
+
+[51] Expediente digital, 4.4Correo22Jun-26Fiscal_MunicipioA.pdf.
+
+[52] Expediente
+digital, 4.26Correo15Jul-26EPS Sanitas S.A.S.pdf. Escrito
+suscrito por Jerson Eduardo Flórez Ortega.
+
+[53] Expediente digital, 4.29Correo15Jul-26Positiva.pdf. 
+
+[54] Escrito suscrito por Carlos E. Mendoza Buitrago.
+
+[55] Expediente digital, 4.3IPS1.zip,
+archivo 4.3Correo18Jun-26IPS1.pdf, p. 10.62
+
+[56] Ibid.
+
+[57] Ibid.
+
+[58] Escrito suscrito por Alejandro Reyes Leguizamón.
+
+[59] Expediente digital, 4.2Correo18Jun-26Policia_MunicipioA.pdf, p. 4.
+
+[60] Expediente digital, 4.8Correo24Jun-26Victoria.pdf.
+
+[61] Ibid., p. 6.
+
+[62] Ibid., p. 6.
+
+[63] Escrito suscrito por María Lucía Torres Villareal, María Alejandra
+Vargas Corredor, María Mercedes Daza Velásquez, Isabella Castellanos Cifuentes
+y Camilo Quimbayo Bravo.
+
+[64] Expediente digital, 4.11Correo01Jul-26Grupo_Acciones_Publicas.pdf, p. 14.
+
+[65] Ibid., p. 7.
+
+[66] Ibid., p. 7.
+
+[67] Ibid., p. 9.
+
+[68] Ibid., p. 9.
+
+[69] Ibid., p. 11.
+
+[70] Ibid., p. 11.
+
+[71] Escrito
+suscrito por Irma Lozano Santiesteban.
+
+[72] Expediente digital, 4.10Correo30Jun-26-APA.pdf, p. 7.
+
+[73] Ibid., p. 8.
+
+[74] Ibid., p. 9.
+
+[75] Ibid., p. 9.
+
+[76] Escrito suscrito por Tary Cuyana Garzón Landínez.
+
+[77] Expediente digital, 4.13Correo02Jul-26Universidad_Militar.pdf, p. 6.
+
+[78] Ibid., p. 6.
+
+[79] Ibid., p. 8.
+
+[80] Escrito suscrito por Diana Ximena González Sánchez.
+
+[81] Expediente digital, 4.15Correo02Jul-26GAPI_ICESI.pdf, p. 4.
+
+[82] Ibid., p. 5.
+
+[83] Ibid., p. 6.
+
+[84] Ibid., p. 8.
+
+[85] Ibid., p. 8.
+
+[86] Ibid., p. 9.
+
+[87] Escrito suscrito por Natalia Ramírez Bustamante y Paola Andrea
+Camelo Urrego.
+
+[88] Expediente digital, 4.12Correo01Jul-26Natalia_Ramirez.pdf, p. 7.
+
+[89] Ibid.,
+p. 8.
+
+[90] Ibid.,
+p. 8.
+
+[91] Escrito suscrito por Norma Constanza Sánchez Camargo.
+
+[92] Expediente digital, 4.18Correo02Jul-26Fundacion_Saldarriaga_Concha.pdf, p. 5.
+
+[93] Ibid., p. 5.
+
+[94] Escrito suscrito por Mónica Alexandra Cortés Áviles.
+
+[95] Expediente digital, 4.16Correo02Jul-26Asdown_Colombia.pdf, p. 4.
+
+[96] Ibid., p. 7.
+
+[97] Ibid., p. 5.
+
+[98] Ibid., p. 5.
+
+[99] Ibid., p. 5.
+
+[100]
+Ibid., p. 5.
+
+[101]
+Ibid., p. 6.
+
+[102]
+Escrito suscrito por Federico Isaza Piedrahita, Nicole
+Daniela Meneses Márquez, Keidy Verónica Romaña Moreno y Leslie Milena Mindiola
+Contreras.
+
+[103]
+Expediente digital, 4.17Correo02Jul-26PAIIS_Uniandes.pdf, p. 7.
+
+[104]
+Ibid., p. 7.
+
+[105]
+Ibid., p. 8.
+
+[106]
+Ibid., p. 9.
+
+[107]
+Ibid., pp. 9-10.
+
+[108]
+Ibid., p. 10.
+
+[109]
+Ibid., p. 11.
+
+[110]
+Ibid., p. 11.
+
+[111]
+Ibid., p. 11.
+
+[112]
+Escrito suscrito por Edith Betty Roncancio Morales.
+
+[113]
+Expediente digital, 4.19Correo06Jul-26Liga_Colombiana_Autismo.pdf, p. 3.
+
+[114]
+Ibid., p. 4.
+
+[115]
+Ibid., p. 4.
+
+[116]
+Ibid., p. 4.
+
+[117]
+Ibid., p. 5.
+
+[118]
+Ibid., p. 5.
+
+[119]
+Sentencia SU-150 de 2021.
+
+[120]
+Decreto Ley 2591 de 1991, art. 10; Corte Constitucional, Sentencia T-027 de
+2019.
+
+[121]
+Corte Constitucional, Sentencia SU-424 de 2021.
+
+[122]
+Corte Constitucional, Sentencia T-490 de 2020.
+
+[123]
+Decreto Ley 1295 de 1994, artículo 12.
+
+[124]
+Corte Constitucional, Sentencia T-334 de 2025.
+
+[125]
+Ley 1616 de 2013 Ley de salud mental. Artículo 9.
+
+[126]
+Corte Constitucional, Sentencia SU-087 de 2025.
+
+[127]
+Corte Constitucional, Sentencia SU-116 de 2018.
+
+[128]
+Corte Constitucional, Sentencia SU-328 de 2025.
+
+[129]
+Corte Constitucional, Sentencia T-229 de 2025.
+
+[130]
+Corte Constitucional, Sentencia T-531 de 2019.
+
+[131]
+Ibid.
+
+[132]
+Corte Constitucional, Sentencia T-348 de 2018.
+
+[133]
+Corte Constitucional, Sentencia T-002 de 2025.
+
+[134]
+Corte Constitucional, sentencias T-149 de 2022, T-252 de 2021 y T-468 de 2020.
+
+[135]
+Corte Constitucional, Sentencia T-001 de 2024.
+
+[136]
+Fuente: Corte Constitucional, Sentencia T-001 de 2024. Estas subreglas
+han sido reiteradas en las sentencias T-192 de 2024, T-302 de 2024, T-403 de
+2024 y T-524 de 2025.
+
+[137] Expediente digital,
+4.15Correo02Jul-26GAPI_ICESI.pdf.
+
+[138]
+En el siguiente acápite se reiteran varias
+consideraciones de la Sentencia T-001 de 2024.
+
+[139]
+Corte Constitucional, Sentencia T-136 de 2023. En esta providencia se hace
+referencia a las sentencias T-095 de 2018 y T-543 de 2009.
+
+[140]
+Corte Constitucional, Sentencia T-682 de 2014, reiterada en las sentencias
+T-391 de 2021 y T-363 de 2022.
+
+[141]
+Corte Constitucional, Sentencia T-363 de 2022, que cita la Sentencia C-096 de
+2007.
+
+[142]
+Corte Constitucional, Sentencia T-363 de 2022.
+
+[143]
+Corte Constitucional, Sentencia T-136 de 2023, que hace referencia a la
+Sentencia T-468 de 2020.
+
+[144]
+Corte Constitucional, Sentencia C-443 de 1997, citada en la Sentencia T-363 de
+2022.
+
+[145]
+Corte Constitucional, Sentencia T-136 de 2023, que hace referencia a la
+Sentencia T-149 de 2022.
+
+[146]
+Por ejemplo, ha conocido tutelas interpuestas por empleados públicos para
+solicitar su traslado o impedirlo, como: (i) docentes (sentencias T-070 de
+2023, T-007 de 2019, T-308 de 2015, T-210 de 2014, T-561 de 2013, T-247 de 2012
+y T-653 de 2011); (ii) funcionarios del Inpec (sentencias T-136 de 2023, T-149
+de 2022, T-468 de 2020, T-425 de 2015, T-095 de 2013 y T-777 de 2012); (iii)
+personas vinculadas a las Fuerzas Armadas y a la Policía Nacional (sentencias
+T-363 de 2022, T-252 de 2021, T-175 de 2016 y T-060 de 2015); (iv) funcionarios
+de la rama judicial (sentencias T-302 de 2019, T-159 de 2017, T-081A de 2017,
+T-325 de 2010 y T-1010 de 2007); (v) funcionarios de la Fiscalía General de la
+Nación (sentencias T-565 de 2014 y T-338 de 2013); (vi) funcionarios de la
+Registraduría Nacional del Estado Civil (Sentencia T-572B de 2014), y (vii)
+funcionarios de la DIAN (Sentencia T-778 de 2012).
+
+[147]
+Algunas de las consideraciones sobre este derecho fueron tomadas de las
+sentencias T-070 de 2023 y T-308 de 2015.
+
+[148]
+Véanse, por ejemplo, las sentencias T-070 de 2023, T-308 de 2015, T-165 de 2014,
+T-561 de 2013 y T-247 de 2012.
+
+[149]
+Decreto 2591 de 1991, art. 6, num. 1.
+
+[150]
+Las consideraciones de esta subsección fueron tomadas principalmente de las
+sentencias T-088 de 2026 y T-090 de 2026.
+
+[151]
+Corte Constitucional, sentencias T-343 de 2025, C-400 de 2024, T-319 de 2025 y
+SU-466 de 2025.
+
+[152]
+El carácter fundamental del derecho al cuidado ha sido desarrollado por esta
+Corporación en las sentencias C-400 de 2024 (ff. jj. 121-146), T-498 de 2024
+(ff. jj. 186-191) y SU-466 de 2025 (f. j. 137).
+
+[153]
+Corte Constitucional, Sentencia SU-466 de 2025.
+
+[154]
+Corte Constitucional, sentencias T-583 de 2023, T-011 de 2025, T-319 de 2025 y
+SU-466 de 2025.
+
+[155]
+Corte Constitucional, sentencias T-583 de 2023 y C-400
+de 2024.
+
+[156]
+Corte IDH. Opinión Consultiva N.º 31, párr. 173.
+
+[157]
+Expediente digital, 4.13Correo02Jul-26Universidad_Militar.pdf.
+
+[158]
+Corte Constitucional, Sentencia C-269 de 2025.
+
+[159]
+Corte Constitucional, sentencias T-011 de 2025 y T-124 de 2025.
+
+[160]
+Corte Constitucional, Sentencia T-011 de 2025.
+
+[161]
+Pierre Gérain y Emmanuelle Zech, "Informal
+Caregiver Burnout? Development of a Theoretical Framework to Understand the
+Impact of Caregiving", National Library of Medicine, https://pubmed.ncbi.nlm.nih.gov/31428015/ (referenciado en: Corte Constitucional, Sentencia T-447 de 2023).
+
+[162]
+Corte Constitucional, Sentencia SU-466 de 2025.
+
+[163]
+Expediente digital, 4.12Correo01Jul-26Natalia_Ramirez.pdf.
+
+[164]
+Natalia Ramírez-Bustamante y Paola Camelo-Urrego, Ella es totalmente
+dependiente de mí. Experiencias de mujeres cuidadoras de personas con
+discapacidad en Bogotá (Quanta - Cuidado y Género, 2022). https://cuidadoygenero.org/wp-content/uploads/2022/07/Mujeres-cuidadoras-personas-discapacidad.pdf.
+
+[165]
+Ibid.
+
+[166]
+Ibid.
+
+[167]
+Corte Constitucional, Sentencia SU-466 de 2025.
+
+[168]
+Corte Constitucional, sentencias T-343 de 2025, T-319 de 2025 y SU-466 de 2025.
+
+[169]
+Convenio 156 sobre los trabajadores con responsabilidades familiares, artículo 1,
+aprobado por la Ley 2305 de 2023.
+
+[170]
+Eve C. Landau y Yves Beigbeder, From ILO Standards to EU Law: The Case of
+Equality between Men and Women at Work (Brill | Nijhoff, 2008), https://doi.org/10.1163/ej.9789004157187.i-340.
+
+[171]
+Ibíd., art. 4.
+
+[172]
+Eileen Boris, Indispensable to All Working Women and to Mothers in the Home. Global
+Labor Standards and the Quest for Social Justice, 1919-2019, en Revista
+Latinoamericana de Trabajo y Trabajadores, No. 2 (2025): 93-106. https://doi.org/10.48038/revlatt.n2.35.
+
+[173]
+Expediente digital, 4.13Correo02Jul-26Universidad_Militar.pdf.
+
+[174]
+Ibid.
+
+[175]
+Corte Constitucional, Sentencia C-187 de 2024.
+
+[176]
+Corte Constitucional, Sentencia C-331 de 2023.
+
+[177]
+Varias de las consideraciones de esta subsección
+fueron tomadas de la sentencia T-182 de 2026.
+
+[178]
+Convención sobre los Derechos de las Personas con Discapacidad, preámbulo,
+literal e, aprobada por la Ley 1346 de 2009. Declarada exequible en la Corte
+Constitucional, Sentencia C-293 de 2010. Sobre el cambio de paradigma del
+modelo médico-rehabilitador al modelo social, véase Corte Constitucional,
+Sentencia T-425 de 2022. Cfr. Corte Constitucional, sentencias T-487 de 2007,
+T-124 de 2020 y T-279 de 2023.
+
+[179]
+Convención sobre los Derechos de las Personas con Discapacidad, artículo 1,
+inciso 2. En el mismo sentido, Ley Estatutaria 1618 de 2013, artículo 2,
+numeral 1. Cfr. Corte Constitucional, sentencias T-425 de 2022 y T-279 de 2023.
+
+[180]
+Corte Constitucional, sentencias T-425 de 2022 y T-279 de 2023, en las que se
+reitera que no son las limitaciones individuales las raíces del problema, sino
+las limitaciones de la propia sociedad para prestar servicios apropiados y para
+asegurar adecuadamente que las necesidades de las personas en condición de
+discapacidad sean tenidas en cuenta dentro de la organización social. Cfr.
+Corte Constitucional, Sentencia C-052 de 2021.
+
+[181]
+Corte Constitucional, Sentencia C-458 de 2015. Cfr. Corte Constitucional,
+sentencias C-043 de 2017, C-042 de 2017 y T-432 de 2021. En el plano
+convencional, Convención sobre los Derechos de las Personas con Discapacidad,
+artículo 4.1, literales a, b y f.
+
+[182]
+Expediente digital, 4.17Correo02Jul-26PAIIS_Uniandes.pdf.
+
+[183]
+Melissa Stefania Cruz Puerto y María Sandín Vázquez, Neurodiversidad, discapacidad
+y enfoque social. En Revista Española de Discapacidad, Vol. 12, No. 1
+(2024): 213-222. https://doi.org/10.5569/2340-5104.12.01.11.
+
+[184]
+Henry Angulo, Michelle Chan y Laura DeThorne, Life Is a Stage: Autistic
+Perspectives on Neurotypicality, Autism in Adulthood 1, n.º 4
+(diciembre de 2019): 276-285, https://doi.org/10.1089/aut.2019.0024.
+
+[185]
+Anna Stenning y Hanna Bertilsdotter Rosqvist, Neurodiversity Studies: Mapping
+out Possibilities of a New Critical Paradigm, Disability & Society 36,
+n.º 9 (octubre de 2021): 1532-1537, https://doi.org/10.1080/09687599.2021.1919503.
+
+[186]
+Intervención del Programa de Acción por la Igualdad y la Inclusión Social
+(Paiis) de la Universidad de los Andes, 4.
+
+[187]
+Corte Constitucional, Sentencia SU-512 de 2024.
+
+[188]
+Ibid.
+
+[189]
+Varias de las consideraciones de esta subsección
+fueron tomadas de las sentencias T-070 de 2024, T-261 de 2024 y T-494 de 2024.
+
+[190]
+Corte Constitucional, Sentencia T-207 de 2018.
+
+[191]
+Corte Constitucional, Sentencia C-547 de 1994.
+
+[192]
+Corte Constitucional, Sentencia T-085 de 2023.
+
+[193]
+Corte Constitucional, Sentencia T-009 de 2024.
+
+[194]
+Organización de las Naciones Unidas para la Educación, la Ciencia y la
+Cultura (Unesco). Guidelines for Inclusion: Ensuring
+Access to Education for All, p. 15.
+
+[195]
+Corte Constitucional, sentencias T-390 de 2011, T-120 de 2019 y T-287 de 2020.
+
+[196]
+Tomoya Hirota y Bryan H. King, Autism Spectrum Disorder: A
+Review, JAMA 329, n.º 2 (enero de 2023): 157, https://doi.org/10.1001/jama.2022.23661.
+
+[197]
+Corte Constitucional, sentencias T-021 de 2024 y T-070 de 2024.
+
+[198]
+Expediente digital, 4.15Correo02Jul-26GAPI_ICESI.pdf.
+
+[199]
+Ibid., 4.
+
+[200]
+Fundación Saldarriaga Concha y Laboratorio para la Economía de la
+Educación, La educación en Colombia para población con discapacidad:
+realidades y retos (Bogotá D.C., 2023), https://www.saldarriagaconcha.org/wp-content/uploads/2023/03/2023-03-Marzo-EducacionCOParaPersonasConDiscapacidad_RealidadesyRetos.pdf.
+
+[201]
+Coalición Colombiana por la Implementación de la Convención sobre los
+Derechos de las Personas con Discapacidad. Informe sobre la situación
+de los derechos de los niños, niñas y adolescentes con discapacidad en Colombia.
+2025, https://sites.google.com/site/coalicionconvencion/informes-elaborados-por-la-coalición/informe-alterno-comité-derechos-del-niño-2025?authuser=0.
+
+[202]
+Este acápite reitera las consideraciones de la
+Sentencia T-115 de 2025.
+
+[203]
+Corte Constitucional, sentencias T-084 de 1994, T-882 de 2006 y T-007 de 2019,
+entre otras.
+
+[204]
+Corte Constitucional, Sentencia T-265 de 2024.
+
+[205]
+Corte Constitucional, Sentencia C-930 de 2009, reiterada por la Sentencia C-212
+de 2022.
+
+[206]
+Corte Constitucional, Sentencia T-265 de 2024.
+
+[207]
+Corte Constitucional, Sentencia T-760 de 2008.
+
+[208]
+Corte Constitucional, sentencias T-409 de 2000, T-1005 de 2004, T-1019 de 2004,
+T-464A de 2006, T-760 de 2007, T-001 de 2021, T-291 de 2021 y T-135 de 2023,
+entre otras.
+
+[209]
+Corte Constitucional, Sentencia T-065 de 2024, reiterada por la Sentencia T-236
+de 2024.
+
+[210]
+Organización Internacional del Trabajo (OIT). Factores psicosociales en el
+trabajo: Naturaleza, incidencia y prevención. Informe del comité mixto OIT-OMS
+sobre medicina del trabajo, 1986. Disponible en: https://ilo.primo.exlibrisgroup.com/discovery/fulldisplay/alma992485103402676/41ILO_INST:41ILO_V2.
+
+[211]
+Organización Internacional del Trabajo  OIT. (2016) Boletín
+Internacional de Investigación Sindical: Riesgos psicosociales, estrés y
+violencia en el mundo del trabajo. Vol. 8, núm. 1-2, pág. 13. Disponible
+en: https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@ed_dialogue/@actrav/documents/publication/wcms_553931.pdf.
+
+[212]
+Ministerio de la Protección Social. Resolución 2646 de 2008 Por la cual
+se establecen disposiciones y se definen responsabilidades para la
+identificación, evaluación, prevención, intervención y monitoreo permanente de
+la exposición a factores de riesgo psicosocial en el trabajo y para la
+determinación del origen de las patologías causadas por el estrés ocupacional.
+
+[213]
+Ibid., art. 5.
+
+[214]
+Ibid., arts. 6-12.
+
+[215]
+Ibid., arts. 6-12.
+
+[216]
+Ley 1616 de 2013 Ley de salud mental, artículo 9.
+
+[217]
+Ibid.
+
+[218]
+Corte Constitucional, sentencias T-248 de 1998, T-1019 de 2004 y T-760
+de 2007, entre otras.
+
+[219]
+Corte Constitucional, Sentencia SU-296 de 2023.
+
+[220]
+Expediente digital, archivo 003Anexo.pdf, pp. 1-3.
+
+[221] Corte Constitucional, Sentencia T-075 de
+2017.
+
+[222]
+Expediente digital, archivo 4.7Correo24Jun-26Fiscalia.pdf, pp. 11-16.
+
+[223]
+Ibid.
+
+[224]
+Ibid., pp. 12-13.
+
+[225]
+Expediente digital, 4.6Correo24Jun-26ANDREA.pdf.
+
+[226]
+Rahel Bachem y Patricia Casey, Adjustment Disorder: A Diagnosis
+Whose Time Has Come. En Journal of Affective Disorders, Vol. 227
+(2018): 243-253. https://doi.org/10.1016/j.jad.2017.10.034.
+
+[227]
+Andreas Maercker et al., Adjustment Disorders: Prevalence in a Representative
+Nationwide Survey in Germany, Social Psychiatry and Psychiatric
+Epidemiology 47, núm. 11 (noviembre de 2012): 174552, https://doi.org/10.1007/s00127-012-0493-x; Ricci Yue y Bobo H. P. Lau, The Pains amidst Starting a New Life:
+Investigating Adjustment Disorder in Hong Kong Migrants Transition to the
+UK, Scientific Reports 15, núm. 1 (noviembre de 2025):
+40545, https://doi.org/10.1038/s41598-025-24311-1; Tarık Sağlam, Early maladaptive schemas, coping
+strategies, and functional impairments in individuals with adjustment disorder
+during compulsory military service: a comparison with healthy controls, Frontiers
+in Psychiatry 16 (julio de 2025): 1619638, https://doi.org/10.3389/fpsyt.2025.1619638.
+
+[228]
+Expediente digital, 4.6Correo24Jun-26ANDREA.pdf, pp. 54-61.
+
+[229] Tabla 1. Intervenciones en sede de revisión.
+
+[230] Corte Constitucional, Sentencia T-090 de 2026.
+
+[231]
+Véase Tabla 1. Intervenciones en sede de revisión.
+
+[232]
+Ibid.
+
+[233]
+Garrett Cardon y Mollie Bradley, Uncertainty, Sensory Processing, and Stress
+in Autistic Children during the COVID-19 Pandemic, en Research in Autism
+Spectrum Disorders, Vol. 106 (2023): 102202. https://doi.org/10.1016/j.rasd.2023.102202.
+
+[234]
+Expediente digital, 4.11Correo01Jul-26Grupo_Acciones_Publicas.pdf.
+
+[235]
+Tabla 1. Intervenciones en sede de revisión.
+
+[236]
+Ministerio de Salud y Protección Social. Resolución 113 de 2020 Por la cual se
+dictan disposiciones en relación con la certificación de discapacidad y el
+Registro de Localización y Caracterización de Personas con Discapacidad. Artículo
+4.
+
+[237] Corte Constitucional, sentencias T-029 de
+2010 y T-105 de 2024.
+
+[238]
+Constitución Política, art. 44.
+
+[239]
+Expediente digital, 4.21Correo10Jul-26Fiscalia_General_de_la_Nacion.pdf, p. 9.
+
+[240]
+Expediente digital, 4.6Correo24Jun-26ANDREA.pdf, pp. 60-61.
+
+[241]
+Katherine Lippel, Workers Compensation and Stress, International
+Journal of Law and Psychiatry 22, núm. 1 (enero de 1999): 7989, https://doi.org/10.1016/S0160-2527(98)00019-3.
+
+[242]
+Abel Perez-Gonzalez et al., "Gender Diversity and Psychosocial Work Risks
+from a Non-Binary Perspective: A Systematic Review", en Merits,
+Vol. 6, No. 1 (2026): 6. https://doi.org/10.3390/merits6010006.
+
+[243]
+Alper Kayaalp, Kyle J. Page y Kathleen M. Rospenda, "Caregiver Burden,
+Work-Family Conflict, Family-Work Conflict, and Mental Health of Caregivers: A
+Mediational Longitudinal Study", en Work & Stress, Vol. 35, No.
+3 (2021): 217-40. https://doi.org/10.1080/02678373.2020.1832609.
+
+[244]
+Código Sustantivo del Trabajo, art. 357.
+
+[245]
+Corte Constitucional, Sentencia T-115 de 2025.
+

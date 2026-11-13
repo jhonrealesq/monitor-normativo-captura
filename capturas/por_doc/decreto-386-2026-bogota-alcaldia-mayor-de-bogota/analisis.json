@@ -1,0 +1,26 @@
+[
+ {
+  "id": "an-d33c7077bc35",
+  "doc_id": "decreto-386-2026-bogota-alcaldia-mayor-de-bogota",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 172.5",
+  "fragmento": "regirá por el principio de la autonomía de la voluntad privada",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?dt=S&i=194345",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ },
+ {
+  "id": "an-8111794ad997",
+  "doc_id": "decreto-386-2026-bogota-alcaldia-mayor-de-bogota",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 6",
+  "fragmento": "rige a partir del día siguiente de su publicación en el Registro Distrital, modifica los artículos 152, 154, 158 y 182, y adiciona la Sección 2 al Subcapítulo 2 del",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?dt=S&i=194345",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ }
+]
