@@ -1,0 +1,794 @@
+                              COMUNICADO 31
+                             30 de septiembre de 2026
+
+    El comunicado 31 contiene seis decisiones. Se presenta en el siguiente índice sus
+                             principales ejes temáticos:
+
+Sentencia C-316/26: La Corte Constitucional se inhibió de pronunciarse sobre la disposición
+del Estatuto Tributario que excluye de la compensación determinadas pérdidas fiscales, por
+ineptitud sustantiva de la demanda.
+
+Sentencia C-317/26: La Corte Constitucional decidió declarar exequibles las expresiones
+“únicamente” y “sin necesidad de publicación en un medio escrito”, contenidas en el
+artículo 10 de la Ley 2213 de 2022, en el entendido de que la inscripción en el Registro
+Nacional de Personas Emplazadas (RNPE) constituye el mecanismo general, principal y
+obligatorio de emplazamiento, sin excluir la adopción de un medio complementario
+cuando existan barreras significativas de acceso al entorno digital. Asimismo, exhortó a las
+autoridades competentes a fortalecer las políticas de acceso significativo a internet y
+ordenó a la Defensoría del Pueblo realizar seguimiento a la aplicación del
+condicionamiento.
+
+Sentencia C-318/26: La Corte declaró inexequible la expresión “conducta obscena”,
+como una “falta disciplinaria grave” de las personas privadas de la libertad, por
+considerar que esa expresión carece de un contenido determinado o determinable
+como lo exige el principio de legalidad. La norma está contenida en el numeral 6 del
+inciso segundo del artículo 121 de la Ley 65 de 1993 —Código Penitenciario y
+Carcelario—
+
+Sentencia SU-319/26: La Corte confirmó las decisiones que negaron la acción de tutela
+promovida por una víctima que, como parte civil, pretendía interponer el recurso
+extraordinario de casación contra la sentencia que resolvió la impugnación especial.
+Además, reiteró el exhorto al Congreso para que regule de manera integral esta garantía.
+
+Sentencia C-320/26: La Corte estableció que es constitucional la medida de redención de
+pena que abona dos días de reclusión por tres de trabajo, aprobada en la reforma laboral,
+por el cargo de vulneración al principio de consecutividad e identidad flexible.
+
+Sentencia C-321/26: La Corte determinó que la presunción de temeridad o mala fe prevista
+en el artículo 79 del Código General del Proceso no desconoce el artículo 83 de la
+Constitución Política, porque se trata de una presunción legal que admite prueba en
+contrario, exige la verificación judicial de la conducta y garantiza el derecho de defensa y
+contradicción.
+Sentencia C-316/26
+M.P. Carlos Camargo Assis
+Expediente D-17395
+
+La Corte se inhibió de pronunciarse sobre la disposición del Estatuto Tributario que
+excluye de la compensación determinadas pérdidas fiscales, por ineptitud
+sustantiva de la demanda
+
+    1. Norma demandada
+
+
+              “Ley 1111 de 2006
+                (diciembre 27)
+     Por la cual se modifica el Estatuto
+ Tributario de los impuestos administrados
+ por la Dirección de Impuestos y Aduanas
+                 Nacionales.
+                      (…)
+Artículo 5º. Modifícanse los incisos primero
+y sexto del artículo 147 del Estatuto
+Tributario, los cuales quedan así:
+
+“Artículo 147. Compensación de pérdidas
+fiscales de sociedades. Las sociedades
+podrán compensar las pérdidas fiscales
+reajustadas fiscalmente, con las rentas
+líquidas ordinarias que obtuvieren en los
+periodos gravables siguientes sin perjuicio
+de la renta presuntiva del ejercicio. Las
+pérdidas de las sociedades no serán
+trasladables a los socios.
+                     (…)
+
+Las pérdidas fiscales originadas en ingresos
+no constitutivos de renta ni de ganancia
+ocasional, y en costos y deducciones que
+no tengan relación de causalidad con la
+generación de la renta gravable, en
+ningún caso podrán ser compensadas
+con las rentas líquidas del contribuyente,
+salvo las generadas en la deducción por
+inversión en activos fijos a que se refiere el
+artículo 158-3 de este Estatuto”.
+   2. Decisión
+
+INHIBIRSE de emitir un pronunciamiento de fondo sobre los cargos
+formulados contra el inciso sexto del artículo 147 del Estatuto Tributario,
+modificado por el artículo 5.º de la Ley 1111 de 2006, por ineptitud sustantiva
+de la demanda.
+
+   3. Síntesis de los fundamentos
+
+La Sala Plena de la Corte Constitucional estudió una demanda de
+inconstitucionalidad contra el inciso sexto del artículo 147 del Estatuto
+Tributario, modificado por el artículo 5.º de la Ley 1111 de 2006, que excluye
+de la compensación las pérdidas fiscales originadas en ingresos no
+constitutivos de renta ni de ganancia ocasional, y en costos y deducciones
+sin relación de causalidad con la generación de la renta gravable. A juicio
+de los demandantes, la disposición impide compensar las pérdidas fiscales
+acumuladas cuando el contribuyente cambia de actividad económica y,
+por esa vía, desconoce los principios de capacidad contributiva (arts. 95.9 y
+363 CP); de igualdad, equidad tributaria y proporcionalidad (arts. 13, 338 y
+363 CP); y de libertad económica y neutralidad tributaria (art. 333 CP).
+
+Como cuestión previa, y ante las solicitudes inhibitorias formuladas por
+algunos intervinientes, la Sala examinó la aptitud sustantiva de la demanda.
+Para ello, reiteró que la admisión de la demanda no impide a la Corte
+verificar nuevamente, al momento de dictar sentencia, el cumplimiento de
+los requisitos mínimos de los cargos. Recordó, además, que el requisito de
+certeza exige que la acusación recaiga sobre una proposición jurídica real
+y existente, y que, cuando se cuestiona un sentido normativo distinto del
+tenor literal de la disposición, corresponde al demandante demostrar que es
+razonable derivarlo del enunciado acusado.
+
+En este caso, la Corte concluyó que la demanda no satisface el requisito de
+certeza, defecto que se proyecta sobre los tres cargos formulados. Para la
+Sala, la premisa común a todos ellos -según la cual la norma condiciona la
+compensación de pérdidas fiscales a la permanencia del contribuyente en
+una misma actividad económica- no se desprende de la literalidad del
+enunciado acusado, y los demandantes no acreditaron que se tratara de
+una interpretación razonable. La Corte sustentó esta conclusión en las
+siguientes razones:
+
+Primero, la Sala constató que el texto acusado no contiene la restricción que
+los demandantes le atribuyen. El inciso sexto no alude a la “actividad
+económica”, al “objeto social” ni a procesos de “reorganización”, ni emplea
+expresión equivalente alguna. Su contenido se limita a excluir de la
+compensación determinadas pérdidas en razón de su origen -el ingreso, el
+costo o la deducción que las generó-, sin referencia a la actividad que
+desarrolle el contribuyente.
+
+Segundo, la Corte advirtió que los demandantes no cumplieron la carga de
+justificar la razonabilidad de la lectura por ellos propuesta. En particular, no
+explicaron por qué derivan una prohibición de un enunciado que parece
+limitarse a regular las pérdidas compensables por su origen; no confrontaron
+su interpretación con los incisos primero y quinto del artículo 147, ni con el
+artículo 869 del Estatuto Tributario; y no ofrecieron razones para predicar la
+relación de causalidad respecto de la renta del periodo en el que se
+efectúa la compensación. La Sala precisó que, les correspondía a los
+demandantes hacer esa confrontación, con el fin de demostrar la
+plausibilidad de su interpretación.
+
+Tercero, la Sala señaló que la demanda no aportó elementos que
+respaldaran la interpretación propuesta. Si bien la Corte reiteró que la
+referencia a conceptos de la DIAN, actos administrativos o decisiones
+judiciales no constituye una exigencia general del requisito de certeza; para
+este caso consideró que elementos de esa naturaleza habrían podido servir
+de apoyo a los demandantes para acreditar que la disposición se entiende
+o se aplica en el sentido que plantean.
+
+Cuarto, la Sala precisó que las deficiencias advertidas en el requisito de
+certeza se irradian a los de pertinencia y especificidad. Teniendo en cuenta
+que los reproches se dirigen contra un contenido normativo que los
+demandantes no demostraron se desprende de la disposición acusada, no
+plantean una confrontación entre la norma legal y la Constitución, sino entre
+esta y la lectura que de aquella hacen los demandantes. Por la misma razón,
+el término de comparación propuesto en el cargo por igualdad -
+contribuyentes que mantienen su actividad económica frente a quienes la
+cambian- resulta aparente, pues se edifica sobre una diferenciación que la
+norma no consagra.
+
+La Corte concluyó que la demanda no logra suscitar una duda mínima
+sobre la constitucionalidad de la disposición acusada. Al edificarse los tres
+cargos sobre una misma interpretación cuya razonabilidad no fue
+demostrada, la falta de certeza compromete la totalidad de la acusación
+e impide adelantar un juicio de fondo.
+
+En consecuencia, la Sala Plena se inhibió de emitir un pronunciamiento de
+fondo sobre los cargos formulados contra el inciso sexto del artículo 147 del
+Estatuto Tributario, modificado por el artículo 5.º de la Ley 1111 de 2006, por
+ineptitud sustantiva de la demanda.
+
+Sentencia C-317/26
+M.P. Héctor Alfonso Carvajal Londoño
+Expediente D-16919
+
+La Corte Constitucional decidió declarar exequibles las expresiones
+“únicamente” y “sin necesidad de publicación en un medio escrito”,
+contenidas en el artículo 10 de la Ley 2213 de 2022, en el entendido de que
+la inscripción en el Registro Nacional de Personas Emplazadas (RNPE)
+constituye el mecanismo general, principal y obligatorio de emplazamiento,
+sin excluir la adopción de un medio complementario cuando existan
+barreras significativas de acceso al entorno digital. Asimismo, exhortó a las
+autoridades competentes a fortalecer las políticas de acceso significativo a
+internet y ordenó a la Defensoría del Pueblo realizar seguimiento a la
+aplicación del condicionamiento.
+Demanda de inconstitucionalidad contra las expresiones “únicamente” y “sin necesidad
+de publicación en un medio escrito” contenidas en el artículo 10 (parcial) de la Ley 2213 de
+2022, “[P]or medio de la cual se establece la vigencia permanente del Decreto Legislativo
+806 de 2020 y se adoptan medidas para implementar las tecnologías de la información y
+las comunicaciones en las actuaciones judiciales, agilizar los procesos judiciales y
+flexibilizar la atención a los usuarios del servicio de justicia y se dictan otras disposiciones”.
+
+
+   1. Norma demandada
+
+                                                            ARTÍCULO 10. EMPLAZAMIENTO
+                                                            PARA NOTIFICACIÓN PERSONAL.
+             Ley 2213 de 2022                               Los emplazamientos que deban
+                 (junio 13)                                 realizarse en aplicación del
+                                                            artículo 108 del Código General
+   Diario Oficial No. 52.064 de 13 de junio                 del Proceso se harán únicamente
+   de 2022                                                  en el registro nacional de personas
+                                                            emplazadas, sin necesidad de
+   “Por medio de la cual se establece la                    publicación en un medio escrito.
+   vigencia permanente del Decreto
+   Legislativo 806 de 2020 y se adoptan
+   medidas      para       implementar     las
+   tecnologías de la información y las
+   comunicaciones en las actuaciones
+   judiciales,    agilizar     los   procesos
+   judiciales y flexibilizar la atención a los
+   usuarios del servicio de justicia y se
+   dictan otras disposiciones”
+
+                      (…)
+                                                                                1
+
+
+   2. Decisión:
+
+PRIMERO. Declarar EXEQUIBLES, por el cargo analizado, las expresiones
+“únicamente” y “sin necesidad de publicación en un medio escrito”,
+contenidas en el artículo 10 de la Ley 2213 de 2022, en el entendido de que
+la inscripción en el Registro Nacional de Personas Emplazadas constituye el
+mecanismo general, principal y obligatorio de emplazamiento, pero no
+excluye el deber de la autoridad judicial de disponer, mediante providencia
+motivada, un medio complementario de publicidad cuando, a partir de
+elementos objetivos disponibles en el proceso, existan indicios serios y
+verificables de que la persona emplazada enfrenta barreras significativas de
+acceso al entorno digital que pueden tornar ineficaz la publicidad de la
+actuación. En esos eventos, el emplazamiento se entenderá surtido cuando
+se hayan cumplido la inscripción en el registro y el medio complementario
+ordenado, y el término legal se contará a partir de la actuación realizada en
+último lugar.
+SEGUNDO. EXHORTAR al Gobierno nacional, por conducto del Ministerio de
+Tecnologías de la Información y las Comunicaciones y del Ministerio de
+Justicia y del Derecho, y al Consejo Superior de la Judicatura para que, dentro
+del ámbito de sus competencias y de manera coordinada, continúen y
+fortalezcan las políticas destinadas a garantizar el acceso significativo a
+internet como instrumento para el ejercicio efectivo del derecho de acceso
+a la administración de justicia, con especial prioridad en las zonas rurales,
+apartadas y dispersas, las comunidades étnicas, las personas con
+discapacidad y los territorios afectados por el conflicto armado.
+TERCERO. EXHORTAR al Gobierno nacional, por conducto del Ministerio de
+Tecnologías de la Información y las Comunicaciones y del Ministerio de
+Justicia y del Derecho, y al Consejo Superior de la Judicatura para que
+produzcan anualmente, publiquen de manera desagregada por
+departamento y municipio y suministren oportunamente a la Defensoría del
+Pueblo información sobre: (i) el acceso y utilización efectiva de los canales
+digitales de la Rama Judicial; (ii) las barreras de conectividad, asequibilidad,
+dispositivos, habilidades digitales y accesibilidad; (iii) la eficacia de las
+notificaciones y emplazamientos digitales; y (iv) el impacto diferenciado de la
+digitalización sobre los grupos y territorios que enfrentan mayores barreras.
+CUARTO. ORDENAR a la Defensoría del Pueblo que, en el marco de su
+autonomía constitucional y durante los tres (3) años siguientes a la notificación
+de esta sentencia, realice seguimiento a la aplicación del condicionamiento
+dispuesto en el numeral primero y a la eficacia del emplazamiento respecto
+de las personas que enfrentan barreras de acceso al entorno digital, y
+publique anualmente un informe con las recomendaciones dirigidas a las
+autoridades competentes.
+Para ese seguimiento, la Defensoría podrá solicitar información al Ministerio de
+Tecnologías de la Información y las Comunicaciones, al Ministerio de Justicia
+y del Derecho, al Consejo Superior de la Judicatura, a la Dirección Ejecutiva
+de Administración Judicial y a las demás autoridades competentes.
+El informe anual deberá: (i) contener información territorial y
+poblacionalmente desagregada; (ii) identificar barreras de cobertura,
+calidad, continuidad, asequibilidad, dispositivos, habilidades digitales y
+accesibilidad; (iii) examinar los efectos de esas barreras sobre el conocimiento
+de las actuaciones judiciales y la utilización de los servicios de justicia; (iv)
+evaluar la aplicación del condicionamiento dispuesto en esta sentencia; y (v)
+formular recomendaciones a las autoridades competentes.
+Los informes que se elaboren deberán remitirse al Ministerio de Tecnologías de
+la Información y las Comunicaciones, al Ministerio de Justicia y del Derecho,
+al Consejo Superior de la Judicatura y al Congreso de la República, sin
+perjuicio de la autonomía de la Defensoría para definir la metodología y los
+instrumentos que considere pertinentes.
+   3. Síntesis de los fundamentos
+
+La Sala Plena de la Corte Constitucional descartó la existencia de cosa
+juzgada constitucional frente a la Sentencia C-420 de 2020. Consideró que
+aquella decisión examinó una medida transitoria adoptada durante la
+emergencia sanitaria, mientras que la disposición ahora demandada tiene
+vocación permanente y debe analizarse en un contexto distinto.
+Al estudiar el cargo, la Corte reconoció que la utilización del RNPE persigue
+finalidades    constitucionalmente   importantes      relacionadas   con    la
+modernización, celeridad y eficiencia de la administración de justicia. Sin
+embargo, advirtió que la exclusividad absoluta del medio digital puede
+afectar de manera desproporcionada a las personas que enfrentan barreras
+de acceso a internet.
+La Sala concluyó que la regla acusada, aunque está formulada en términos
+generales, puede producir un impacto diferenciado sobre quienes no
+cuentan con condiciones suficientes para consultar el registro. Por ello,
+consideró necesario armonizar la digitalización de la justicia con la igualdad
+material, el debido proceso y el acceso efectivo a la administración de
+justicia.
+En consecuencia, declaró la exequibilidad condicionada de las expresiones
+demandadas. El RNPE se mantiene como mecanismo general, principal y
+obligatorio, pero la autoridad judicial deberá disponer un medio
+complementario de publicidad cuando existan elementos objetivos que
+permitan advertir que las barreras digitales pueden tornar ineficaz el
+emplazamiento.
+Finalmente, la Corte exhortó a las autoridades competentes a continuar las
+acciones dirigidas a reducir la brecha digital y ordenó a la Defensoría del
+Pueblo realizar seguimiento a la aplicación del condicionamiento.
+Sentencia C-318/26
+M.P. Héctor Alfonso Carvajal Londoño
+Expediente D-17349
+
+La Corte Constitucional declaró inexequible la expresión “conducta
+obscena”, como una “falta disciplinaria grave” de las personas privadas de
+la libertad, por considerar que esa expresión carece de un contenido
+determinado o determinable como lo exige el principio de legalidad. la
+norma está contenida en el numeral 6 del inciso segundo del artículo 121
+de la Ley 65 de 1993 —Código Penitenciario y Carcelario—.
+
+
+
+   1. Norma demandada
+
+
+               Ley 65 de 1993                 Son faltas graves las siguientes:
+
+             (agosto 19 de 1993)                               [...]
+
+     POR LA CUAL SE EXPIDE EL CÓDIGO
+                                                     6. Conducta obscena.
+       PENITENCIARIO Y CARCELARIO
+
+                     [...]
+
+       Artículo 121. CLASIFICACIÓN DE
+      FALTAS. Las faltas se clasifican en
+                leves y graves.
+
+                     [...]
+
+   2. Decisión
+
+DECLARAR LA INEXEQUIBILIDAD del numeral 6, inciso segundo del artículo 121
+de la Ley 65 de 1993, “Por la cual se expide el Código Penitenciario y
+Carcelario”.
+
+   3. Síntesis de los fundamentos
+
+
+Los demandantes solicitaron la inexequibilidad de la norma acusada por
+considerar que desconoce el debido proceso previsto en el artículo 29 de la
+Constitución. El cargo fue admitido respecto de dos reproches relacionados
+pero conceptualmente diferenciables: (i) legalidad, en sus exigencias de
+tipicidad y taxatividad, y (ii) culpabilidad. Aunque la demanda aludió
+también a la dignidad humana, la igualdad y la posible afectación diferencial
+de las personas LGBTIQ+ privadas de la libertad, los accionantes aclararon que
+estas consideraciones no constituían cargos autónomos, sino argumentos
+destinados a reforzar los reproches admitidos.
+Durante el proceso se recibieron 13 intervenciones, once de ellas y el
+Procurador General de la Nación en su concepto solicitaron la
+inexequibilidad. Varias intervenciones destacaron, que nociones asociadas
+con la obscenidad han sido utilizadas históricamente para valorar la
+corporalidad, la sexualidad y las manifestaciones afectivas, con riesgos
+diferenciados para las personas LGBTIQ+. El proyecto recoge estos elementos
+como “contexto constitucional”, pero no los convierte en un cargo autónomo
+de igualdad.
+La Corte formuló el problema jurídico en los siguientes términos: establecer si
+el legislador vulneró el principio de legalidad, en sus exigencias de tipicidad y
+taxatividad, y comprometió el principio de culpabilidad, al tipificar como falta
+grave la “conducta obscena” sin definir expresamente su contenido, o si la
+expresión podía ser razonablemente determinada a partir del régimen
+penitenciario y de otros criterios jurídicos objetivos.
+Para resolverlo, la Sala estructuró el examen en cuatro etapas: (i) precisó el
+alcance de legalidad y tipicidad en materia disciplinaria; (ii) desarrolló las
+reglas sobre conceptos jurídicos indeterminados y la diferencia entre
+indeterminaciones superables e insuperables; (iii) delimitó el principio de
+culpabilidad y su relación con la responsabilidad subjetiva y el derecho
+sancionador de acto; y (iv) aplicó esas reglas a los dos reproches y determinó
+el remedio constitucional.
+La decisión partió de que el derecho disciplinario admite una tipicidad más
+flexible que la penal. El legislador puede utilizar tipos abiertos, normas en
+blanco, remisiones y conceptos jurídicos indeterminados. Sin embargo, esa
+flexibilidad no significa ausencia de tipicidad: debe existir un núcleo básico
+definido por el legislador o criterios jurídicos objetivos que permitan determinar
+razonablemente la conducta y controlar el ejercicio del poder sancionador.
+Asimismo, la Sala reiteró las reglas que la Corte ha señalado en su
+jurisprudencia sobre la determinabilidad de ciertos conceptos ambiguos en
+materia sancionatoria. La decisión sustentó estas reglas, entre otras, en las
+sentencias C-030 de 2012, C-321 de 2021, C-040 de 2022 y C-505 de 2025.
+La Sentencia C-350 de 2009 fue utilizada como precedente especialmente
+próximo: la Corte había declarado inexequible una falta disciplinaria
+construida alrededor de “la moral o las buenas costumbres” porque, utilizada
+como supuesto autónomo de sanción, carecía de parámetros objetivos
+suficientes. El proyecto aclaró, sin embargo, que “no toda categoría moral o
+valorativa es inconstitucional”; el problema aparece cuando el ordenamiento
+no ofrece criterios que permitan concretarla.
+Aplicadas esas reglas, se realizó un examen sucesivo de todas las fuentes
+potencialmente aptas para concretar “conducta obscena”.
+Primero, se estudió la propia Ley 65 de 1993. Segundo, se examinó el
+significado lingüístico y los antecedentes legislativos de la norma. Tercero, se
+estudió la jurisprudencia, particularmente las sentencias C-069 de 2023 y T-391
+de 2007; el contexto social y la reglamentación penitenciaria, en particular los
+reglamentos generales.
+Agotadas esas fuentes, se concluyó que en ninguna de ellas aparece un
+núcleo normativo objetivo que permita determinar la conducta. Por esto, la
+persona privada de la libertad no puede tener claridad sobre qué actos u
+omisiones comprende la prohibición. La autoridad, correlativamente, recibe
+un margen de apreciación constitucionalmente excesivo, lo que puede dar
+pie a decisiones subjetivas e incluso a facilitar formas de discriminación. Por
+ello, se concluyó que la expresión constituye un tipo disciplinario
+indeterminado incompatible con la legalidad, en sus exigencias de tipicidad
+y taxatividad.
+En cuanto a la culpabilidad, en este caso, la inexistencia de un contenido
+preciso sobre la conducta sancionada se proyecta sobre la imposibilidad de
+estructurar adecuadamente el juicio. De ahí que se precise que el vicio directo
+y suficiente para retirar la norma es la violación del principio de legalidad, pero
+la indeterminación compromete adicionalmente la culpabilidad.
+El proyecto descartó la exequibilidad condicionada, entender que “conducta
+obscena” significa exclusivamente una conducta “sexual, explícita, que
+produzca una afectación real y comprobable y que recaiga sobre
+determinados bienes jurídicos” exigiría incorporar judicialmente cuatro
+elementos que no están en la ley ni pueden derivarse inequívocamente del
+ordenamiento. Eso no sería interpretar la disposición, sino configurar una nueva
+falta disciplinaria, competencia reservada al legislador.
+Sentencia SU-319/26
+M.P. Carlos Camargo Assis
+Expediente T – 11.862.653
+
+La Corte Constitucional confirmó las decisiones que negaron la acción de
+tutela promovida por una víctima que, como parte civil, pretendía interponer
+el recurso extraordinario de casación contra la sentencia que resolvió la
+impugnación especial. Además, reiteró el exhorto al Congreso para que
+regule de manera integral esta garantía.
+
+      1. Antecedentes
+
+La Sala Plena de la Corte Constitucional estudió la acción de tutela
+presentada por una periodista contra la Sala de Casación Penal de la Corte
+Suprema de Justicia, con ocasión de la decisión de esa autoridad judicial de
+abstenerse de dar tramitar al recurso de casación interpuesto contra la
+sentencia que resolvió la impugnación especial y absolvió a uno de los
+procesados por el delito de tortura agravada.
+
+El proceso penal se siguió contra un agente del DAS por el delito de tortura
+agravada del cual fue víctima la accionante, como consecuencia de la
+investigación periodística que adelantó por hechos relacionados con el
+homicidio agravado de Jaime Garzón Forero Q.E.P.D. El proceso se tramitó
+bajo la Ley 600 de 2000 y culminó con sentencia de primera instancia en la
+que el procesado fue absuelto. No obstante, el Tribunal Superior de Bogotá
+revocó la decisión absolutoria y, en su lugar, condenó al procesado por el
+delito de tortura agravada.
+
+Al resolver la impugnación especial, la Sala de Casación Penal de la Corte
+Suprema de Justicia mediante Sentencia SP1188 de 2025, revocó la condena
+impuesta y, en su lugar, confirmó la absolución proferida por el juez de primera
+instancia. Contra esta decisión la accionante interpuso el recurso
+extraordinario de casación, frente al cual la Sala de Casación Penal de la
+Corte Suprema de Justicia por Auto del 1 de julio de 2025 se abstuvo de dar
+trámite. Lo anterior, con fundamento en la regla fijada en el auto AP1263-2019,
+según la cual contra la decisión que resuelve la impugnación especial no
+procede la casación.
+
+Contra la providencia judicial mediante la cual la Sala de Casación Penal de
+la Corte Suprema de Justicia se abstuvo de dar trámite, la accionante instauró
+acción de tutela por considerar que se le vulneró el derecho al debido
+proceso y al acceso a la administración de justicia.
+
+A juicio de la accionante, esa decisión (i) careció de motivación, al no
+exponer razones específicas frente a las particularidades de su caso; (ii)
+desconoció el precedente constitucional sobre los derechos de las víctimas
+de graves violaciones a los derechos humanos y el deber de aplicar el
+enfoque de género, y (iii) vulneró directamente la Constitución, en particular
+sus derechos a la igualdad procesal, al acceso a la administración de justicia,
+a la libertad de expresión y a una vida libre de violencias.
+Las salas de Casación Civil, Agraria y Rural y de Casación Laboral de la Corte
+Suprema de Justicia negaron el amparo en primera y segunda instancia, al
+considerar razonable la aplicación de la regla según la cual la casación no
+procede contra lo resuelto en la impugnación especial.
+
+      2. Síntesis de los fundamentos
+
+Al surtirse el trámite de revisión previsto en el numeral 9 del artículo 241 de la
+Constitución, la Sala Plena de la Corte Constitucional encontró satisfechos los
+requisitos generales de procedencia de la tutela contra providencias
+judiciales, examinados con el rigor que exige su ejercicio frente a decisiones
+de las altas cortes.
+
+Así al acreditarse las condiciones generales de procedencia, la Corte
+procedió a examinar si la Sala de Casación Penal de la Corte Suprema de
+Justicia vulneró los derechos de la accionante, como parte civil, al abstenerse
+de tramitar a la casación contra la sentencia que, al resolver la impugnación
+especial, absolvió al procesado.
+
+Con fundamento en la Sentencia SU-317 de 2023, la Corte reiteró que la
+casación es un recurso extraordinario que no forma parte del núcleo esencial
+de la doble instancia, por lo que no existe un derecho fundamental a ese
+mecanismo. Además, advirtió que mientras el Legislador no regule la
+impugnación especial, rige la regla fijada en la providencia AP1263-2019 de
+la Sala de Casación Penal de la Corte Suprema de Justicia, según la cual
+contra la decisión que la resuelve no procede la casación. No obstante,
+precisó que este caso se diferencia del resuelto en la Sentencia-317 de 2023
+porque quien pretende acudir a la casación es la parte civil. Por ello, identificó
+la necesidad de desarrollar un marco jurídico sobre los derechos de las
+víctimas frente a la regla de improcedencia de la casación contra la
+sentencia que resuelve la impugnación especial.
+
+Seguidamente, al pronunciarse sobre las causales específicas de
+procedibilidad, la Corte descartó el defecto de decisión sin motivación, con
+fundamento en que la Sala de Casación Penal aplicó una regla pública,
+reiterada desde 2019 y avalada por esta Corporación en las sentencias T-431
+de 2021, SU-317 de 2023 y C-154 de 2025, de modo que su determinación fue
+previsible y razonada, y satisfizo la exigencia de motivación del artículo 8 de
+la Convención Americana sobre Derechos Humanos.
+
+En esa misma orientación, la Sala Plena determinó que tampoco se configuró
+el desconocimiento del precedente, puesto que no existe una decisión previa
+que haya resuelto un problema jurídico sustancialmente idéntico o lo
+suficientemente semejante. Al respecto, la Corte precisó que el enfoque de
+género tiene un carácter transversal que se proyecta incluso sobre las normas
+procesales, por lo que es relevante ponderar la condición de mujer, periodista
+y víctima de la accionante. No obstante, al examinar el caso concreto, la
+Corte determinó que ello no permite atribuir a la Sala de Casación Penal una
+competencia inexistente, habilitar la procedencia de un recurso en contravía
+de lo previsto por el ordenamiento; cuestión que en modo alguno resulta
+suficiente para superar el límite competencial derivado de la estructura
+procesal vigente.
+
+Por último, la Corte descartó la violación directa de la Constitución, al
+determinar que la parte civil, frente a una absolución, no enfrenta un riesgo
+equiparable al de quien es condenado por primera vez en segunda instancia,
+pues este es el titular exclusivo de la garantía de la doble conformidad.
+Además, el acceso a la administración de justicia no implica multiplicar los
+recursos frente a una misma controversia, y la accionante participó
+activamente en todas las etapas del proceso, incluida la impugnación
+especial, en la que sus cuestionamientos fueron examinados de fondo.
+
+Con base en lo anterior, la Sala Plena confirmó las decisiones que negaron el
+amparo y, al constatar que persiste la falta de regulación legal de la
+impugnación especial, reiteró el exhorto formulado en la Sentencia SU-317 de
+2023 al Congreso de la República, así como al Gobierno Nacional y a la Corte
+Suprema de Justicia para que, si lo consideran pertinente, ejerzan la iniciativa
+legislativa sobre la materia.
+
+
+      3. Decisión
+
+PRIMERO. CONFIRMAR la Sentencia del 15 de octubre de 2025, a través de la
+cual la Sala de Casación Laboral de la Corte Suprema de Justicia resolvió
+confirmar el fallo proferido en primera instancia por la Sala de Casación Civil,
+Agraria y Rural de la Corte Suprema de Justicia, que negó el amparo
+deprecado.
+
+SEGUNDO. REITERAR EL EXHORTO al Congreso de la República para regular de
+manera integral, precisa y definitiva el mecanismo que garantice el ejercicio
+del derecho a impugnar la primera sentencia condenatoria en materia penal,
+conforme a lo dispuesto en los artículos 29 y 235, numerales 2, 6 y 7 de la
+Constitución, así como al Gobierno Nacional y a la Corte Suprema de Justicia
+para que, de conformidad con lo dispuesto en los artículos 154 y 156 de la
+Constitución Política –respectivamente– y, de considerarlo pertinente,
+desarrollen su iniciativa legislativa sobre este particular.
+
+TERCERO. Por Secretaría General de esta Corporación, LÍBRENSE las
+comunicaciones previstas en el artículo 36 del Decreto 2591 de 1991, para los
+fines allí contemplados.
+Sentencia C-320/26
+M.P. Juan Carlos Cortés González
+Expediente D-16883
+Es constitucional la medida de redención de pena que abona dos días de
+reclusión por tres de trabajo, aprobada en la reforma laboral, por el cargo de
+vulneración al principio de consecutividad e identidad flexible
+
+1. Normas demandadas
+
+       “Ley 2466 de 2025
+                                          ARTÍCULO 19. Experiencia laboral
+            (Junio 25)                    de personas privadas de la
+                                          libertad.      Las        actividades
+Diario Oficial No. 53.160 de 25 de        productivas     y     ocupacionales
+           junio de 2025                  desarrolladas por la población
+                                          privada de la libertad serán
+Por medio de la cual se modifica          reconocidas como experiencia
+parcialmente normas laborales y           laboral previa certificación de las
+se adopta una Reforma Laboral             entidades correspondientes con la
+para el trabajo decente y digno           finalidad de posibilitar su ingreso al
+          en Colombia                     mercado      laboral,     mitigar   la
+                                          discriminación laboral y disminuir la
+  EL CONGRESO DE COLOMBIA                 probabilidad de reincidencia. Se
+         DECRETA:                         concederá la redención de pena
+            […]                           por trabajo a las personas privadas
+                                          de la libertad y se les abonará dos
+           TÍTULO II.                     días de reclusión por tres días de
+  RELACIONES INDIVIDUALES DE              trabajo.
+          TRABAJO.
+              […]                         Parágrafo. El Ministerio de Trabajo
+                                          en un término de 6 meses expedirá
+          CAPÍTULO III.                   la reglamentación necesaria para
+MEDIDAS PARA LA ELIMINACIÓN               el    reconocimiento      de    las
+DE LA VIOLENCIA, EL ACOSO Y LA            actividades      productivas      y
+ DISCRIMINACIÓN EN EL MUNDO               ocupacionales en los centros
+                                          penitenciarios como experiencia
+         DEL TRABAJO.
+                                          profesional.”.
+              […]
+
+
+
+2. Decisión
+
+PRIMERO. ESTARSE A LO RESUELTO en la Sentencia C-030 de 2026, por el cargo
+de unidad de materia formulado contra el artículo 19 (parcial) de la Ley 2466
+de 2025.
+SEGUNDO. Declarar EXEQUIBLE la expresión “Se concederá la redención de
+pena por trabajo a las personas privadas de la libertad y se les abonará dos
+días de reclusión por tres días de trabajo.” contenida en el artículo 19 de la Ley
+2466 de 2025, por el cargo de violación al principio de consecutividad e
+identidad flexible.
+
+3. Síntesis de los fundamentos
+
+La Corte Constitucional conoció la demanda de inconstitucionalidad
+formulada contra el artículo 19 —parcial— de la Ley 2466 de 2025, que
+establece la concesión de la redención de la pena por trabajo a las personas
+privadas de la libertad y les abona dos días de reclusión por tres días de
+trabajo. La demanda sostuvo que esa expresión vulneraba el principio de
+unidad de materia porque la norma estableció un beneficio penitenciario
+bajo el esquema de redención de penas, que resulta extraño a la Ley 2466 de
+2025, de naturaleza estrictamente laboral, e impactaba el principio de
+consecutividad e identidad flexible, en tanto el referido beneficio no fue
+debatido ni aprobado en primer ni en segundo debate en la Cámara de
+Representantes y había sido introducido y aprobado solamente en el segundo
+debate en el Senado de la República.
+
+Antes de estudiar el fondo del asunto, la Corte Constitucional estableció que,
+en relación con el cargo por violación del principio de unidad de materia, se
+configuró la cosa juzgada constitucional respecto de la Sentencia C-030 de
+2026, que declaró constitucional la medida por la misma censura.
+
+Respecto del segundo cargo, la Corte Constitucional se preguntó si la referida
+medida constituyó una temática novedosa y autónoma en el trámite
+legislativo de la reforma laboral, que solo fue propuesta y aprobada en el
+segundo debate ante el Senado de la República, sin respetar la
+consecutividad e identidad flexible respecto del trámite legislativo surtido ante
+el Congreso.
+
+Para resolver el caso, la Corte Constitucional compiló las reglas y subreglas
+jurisprudenciales sobre los principios de consecutividad e identidad flexible, se
+refirió a la noción de trabajo penitenciario y su ámbito de aplicación, y
+recordó el desarrollo jurisprudencial aplicable en esta materia. Luego realizó
+un recuento detallado del trámite legislativo del artículo 19 de la Ley 2466 de
+2025 y, específicamente, del aparte demandado. A partir de ello, concluyó
+que este se ajusta a la Constitución, en tanto su adopción no constituyó la
+introducción tardía de una materia autónoma y separable, sino el desarrollo
+de un asunto conocido y debatido durante el proceso de formación de la ley,
+con antecedente directo en una modificación introducida en el segundo
+debate ante la Cámara de Representantes.
+Dicha conclusión se fundamentó en que el aparte demandado: i) surtió una
+deliberación integral respecto de la materia atinente al trabajo penitenciario;
+ii) se armonizó con los temas tratados en el trámite del proyecto, que desde el
+proyecto inicial propendió por el establecimiento de garantías para el trabajo
+decente, en especial de poblaciones vulnerables; iii) no constituyó una
+materia autónoma, pues conservó una proximidad temática clara, específica,
+estrecha, necesaria y evidente con el contenido integral de la regulación; y
+iv) su trámite legislativo guardó conexidad con los asuntos discutidos y
+aprobados previamente, en especial con la regulación sobre la certificación
+de la experiencia laboral de las personas privadas de la libertad, aprobada
+en segundo debate por la Cámara de Representantes.
+
+Por ello, la Corte señaló que la medida se ajustó al margen de variación del
+proyecto de ley permitido por la aplicación del principio de consecutividad e
+identidad flexible y, por consiguiente, declaró la exequibilidad de la expresión
+por el cargo en mención.
+
+Sentencia C-321/26
+M.P. Carlos Camargo Assis
+Expediente D-17.233
+
+La Corte Constitucional determinó que la presunción de temeridad o mala fe
+prevista en el artículo 79 del Código General del Proceso no desconoce el
+artículo 83 de la Constitución Política, porque se trata de una presunción legal
+que admite prueba en contrario, exige la verificación judicial de la conducta
+y garantiza el derecho de defensa y contradicción.
+
+
+1. Norma demandada
+
+               “Ley 1564 de 2012                 temeridad o mala      fe   en   los
+                     (julio 12)                  siguientes casos:
+       Diario Oficial No. 48.489 de 12 de
+                  julio de 2012                  1. Cuando sea manifiesta la
+                                                 carencia de fundamento legal de
+       Por medio de la cual se expide el         la demanda, excepción, recurso,
+       Código General del Proceso y se           oposición o incidente, o a
+           dictan otras disposiciones.           sabiendas se aleguen hechos
+                                                 contrarios a la realidad.
+       EL CONGRESO DE LA REPÚBLICA
+                                                 2. Cuando se aduzcan calidades
+                   DECRETA:                      inexistentes.
+
+                      (…)                        3. Cuando se utilice el proceso,
+                                                 incidente o recurso para fines
+      ARTÍCULO 79. TEMERIDAD O MALA              claramente     ilegales   o    con
+      FE. Se presume que ha existido             propósitos dolosos o fraudulentos.
+      4. Cuando se obstruya, por acción
+      u omisión, la práctica de pruebas.         6.      Cuando     se     hagan
+                                                 transcripciones     o       citas
+      5. Cuando por cualquier otro               deliberadamente inexactas”.
+      medio se entorpezca el desarrollo
+      normal y expedito del proceso.
+
+2. Decisión
+
+Declarar EXEQUIBLE, por el cargo analizado, la expresión “se presume que”,
+contenida en el encabezado del artículo 79 de la Ley 1564 de 2012, “[p]or
+medio de la cual se expide el Código General del Proceso y se dictan otras
+disposiciones”.
+
+3. Síntesis de los fundamentos
+
+La Sala Plena de la Corte Constitucional estudió una demanda de
+inconstitucionalidad contra la expresión “se presume que”, contenida en el
+artículo 79 del Código General del Proceso (CGP). Esta disposición regula seis
+supuestos en los que se presume la existencia de temeridad o mala fe de las
+partes y sus apoderados en el marco de las actuaciones judiciales. A juicio de
+los demandantes, la expresión acusada desconoce el artículo 83 de la
+Constitución porque, aunque el Legislador puede presumir excepcionalmente
+la mala fe, esta medida no es necesaria ni proporcionada.
+
+Como cuestiones previas, la Corte verificó que la demanda cumplía los
+requisitos de aptitud sustantiva. Además, concluyó que no era necesario
+integrar la unidad normativa con la totalidad del artículo 79, entre otras
+razones, porque la expresión acusada tiene un contenido normativo propio,
+en tanto define la técnica que eligió el Legislador en la materia, esto es, la
+inferencia de la temeridad o mala fe y el traslado de la carga de la prueba.
+
+En ese contexto, el problema jurídico consistió en determinar si la expresión “se
+presume que” desconoce la presunción de buena fe del artículo 83 de la
+Constitución, al disponer que, una vez acreditado alguno de los supuestos
+previstos en el artículo 79 del CGP, se infiere que ha existido temeridad o mala
+fe y se traslada al sujeto procesal la carga de desvirtuar ese hecho presumido.
+
+Para resolverlo, la Corte reiteró su jurisprudencia sobre el margen de
+configuración legislativa en materia procesal, los deberes y las cargas
+procesales de las partes, las presunciones legales y el principio de buena fe.
+
+Al abordar el fondo del asunto, la Sala precisó de manera general el alcance
+de la expresión demandada. Aclaró que la referencia a las causales del
+artículo 79 del CGP se hace mediante una interpretación sistemática, con el
+fin de comprender el contexto en el que opera la presunción, y no constituye
+un pronunciamiento sobre su constitucionalidad.
+
+Con sustento en lo anterior, la Sala encontró que la expresión acusada respeta
+los límites del margen de configuración legislativa en materia procesal.
+
+Primero, señaló que el artículo 83 superior no consagra una prohibición
+absoluta de presunciones de mala fe, sino que es un postulado general que la
+ley puede excepcionar de manera fundamentada, tal como lo ha
+reconocido la jurisprudencia constitucional, incluso en las relaciones entre
+particulares y autoridades.
+
+Segundo, explicó que la presunción, interpretada sistemáticamente con el
+régimen de lealtad y probidad procesal del CGP, contribuye a los objetivos de
+la función judicial, esto es, la prevalencia del derecho sustancial, la celeridad,
+la imparcialidad y el acceso efectivo a la administración de justicia.
+
+Tercero, concluyó que la norma es razonable y proporcionada, en tanto
+responde a las reglas de la lógica y de la experiencia frente a conductas
+contrarias a la lealtad procesal y, al ser una presunción legal -iuris tantum-, no
+es automática, pues quien se ve afectado puede desvirtuar el hecho
+presumido.
+
+En este punto, la Corporación realizó un juicio de proporcionalidad de
+intensidad intermedia y concluyó que la disposición acusada supera este
+escrutinio porque: (i) persigue finalidades constitucionalmente importantes -
+garantizar la lealtad, la probidad y la recta administración de justicia- y facilita
+la prueba del elemento subjetivo de la temeridad o mala fe, que de otra
+manera sería difícil de acreditar; (ii) es un medio conducente para
+desincentivar actuaciones contrarias a la lealtad procesal, y el traslado de la
+carga probatoria es razonable, pues la parte o su apoderado son quienes
+conocen las razones de su propia conducta y están en mejor posición de
+explicarla; y (iii) no es evidentemente desproporcionada, porque la
+presunción solo opera cuando se prueba el hecho base y admite prueba en
+contrario; además, la temeridad o mala fe exige un reproche subjetivo
+cualificado -dolo o culpa grave-.
+
+Cuarto, determinó que la norma es compatible con las garantías del debido
+proceso. Destacó que la presunción recae sobre la temeridad o mala fe, y no
+sobre la responsabilidad ni sobre la sanción, que solo pueden imponerse una
+vez el juez verifique la conducta, garantice el derecho de defensa y adopte
+una decisión motivada.
+
+En consecuencia, la Sala Plena declaró la exequibilidad de la expresión “se
+presume que”, contenida en el artículo 79 del CGP, por el cargo analizado.
+Paola Andrea Meneses Mosquera
+Presidenta
+Corte Constitucional de Colombia
+

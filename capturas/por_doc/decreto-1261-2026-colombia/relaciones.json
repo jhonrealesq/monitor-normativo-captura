@@ -1,0 +1,58 @@
+[
+ {
+  "id": "rel-bc4bc5b40e77",
+  "origen_id": "decreto-1261-2026-colombia",
+  "destino_id": "",
+  "destino_ref": "Ley 1532 de 2012",
+  "parte": "",
+  "tipo": "Adiciona",
+  "fragmento": "novedades y Congreso de la República el informe motivado sobre las causas que determinaron la cobro efectivo; que tales verificaciones condicionan la liquidación de las transferencias presente declaratoria y las medidas adoptadas, en los términos del artículo 215 de la por mandato de normas de rango legal -entre otras, la Ley 1532 de 2012",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://sidn.ramajudicial.gov.co/SIDN//NORMATIVA/TEXTOS_COMPLETOS/5_DECRETOS/DECRETOS%202026/Decreto%201261%20de%202026.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 3 del texto capturado (hash 01716c51cc8b8479)."
+ },
+ {
+  "id": "rel-2bd5768f718e",
+  "origen_id": "decreto-1261-2026-colombia",
+  "destino_id": "",
+  "destino_ref": "Ley 2294 de 2023",
+  "parte": "el artículo 215 de la por mandato de normas de rango legal -entre otras, la Ley 1532 de 2012, el artículo 5° Constitución Política.",
+  "tipo": "Adiciona",
+  "fragmento": "la Ley 1532 de 2012, el artículo 5° Constitución Política. de la Ley 2294 de 2023",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://sidn.ramajudicial.gov.co/SIDN//NORMATIVA/TEXTOS_COMPLETOS/5_DECRETOS/DECRETOS%202026/Decreto%201261%20de%202026.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 3 del texto capturado (hash 01716c51cc8b8479)."
+ },
+ {
+  "id": "rel-8bf187a9da8a",
+  "origen_id": "decreto-1261-2026-colombia",
+  "destino_id": "",
+  "destino_ref": "Decreto Legislativo 241 de 2026",
+  "parte": "",
+  "tipo": "Reglamenta",
+  "fragmento": "le permita inaplicar Naciones Unidas y al Secretario General de la Organización de los Estados Americanos. exigencias fijadas por el legislador ni sustituir los instrumentos ordinarios de focalización por los registros oficiales de afectación del Sistema Nacional de Gestión del Riesgo de Artículo 6°. El presente decreto rige a partir de la fecha de su publicación. Desastres; y que, en materia pres",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://sidn.ramajudicial.gov.co/SIDN//NORMATIVA/TEXTOS_COMPLETOS/5_DECRETOS/DECRETOS%202026/Decreto%201261%20de%202026.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 3 del texto capturado (hash 01716c51cc8b8479)."
+ },
+ {
+  "id": "rel-d9da51ffbb47",
+  "origen_id": "decreto-1261-2026-colombia",
+  "destino_id": "",
+  "destino_ref": "Decreto Legislativo 241 de 2026",
+  "parte": "",
+  "tipo": "Sustituye",
+  "fragmento": "le permita inaplicar Naciones Unidas y al Secretario General de la Organización de los Estados Americanos. exigencias fijadas por el legislador ni sustituir los instrumentos ordinarios de focalización por los registros oficiales de afectación del Sistema Nacional de Gestión del Riesgo de Artículo 6°. El presente decreto rige a partir de la fecha de su publicación. Desastres; y que, en materia pres",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://sidn.ramajudicial.gov.co/SIDN//NORMATIVA/TEXTOS_COMPLETOS/5_DECRETOS/DECRETOS%202026/Decreto%201261%20de%202026.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 3 del texto capturado (hash 01716c51cc8b8479)."
+ }
+]

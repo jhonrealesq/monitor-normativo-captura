@@ -1,0 +1,72 @@
+[
+ {
+  "id": "rel-48eee31a0ef4",
+  "origen_id": "sentencia-c-c-317-26-2026-colombia-corte-constitucional",
+  "destino_id": "",
+  "destino_ref": "Ley 600 de 2000",
+  "parte": "",
+  "tipo": "Reglamenta",
+  "fragmento": "como consecuencia de la investigación periodística que adelantó por hechos relacionados con el homicidio agravado de Jaime Garzón Forero Q.E.P.D. El proceso se tramitó bajo la Ley 600 de 2000",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.corteconstitucional.gov.co/comunicados/comunicado-31-septiembre-30-de-2026.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 121 del texto capturado (hash 4cd8269332681e62)."
+ },
+ {
+  "id": "rel-e7974027a068",
+  "origen_id": "sentencia-c-c-317-26-2026-colombia-corte-constitucional",
+  "destino_id": "",
+  "destino_ref": "Ley 600 de 2000",
+  "parte": "",
+  "tipo": "Adiciona",
+  "fragmento": "como consecuencia de la investigación periodística que adelantó por hechos relacionados con el homicidio agravado de Jaime Garzón Forero Q.E.P.D. El proceso se tramitó bajo la Ley 600 de 2000",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.corteconstitucional.gov.co/comunicados/comunicado-31-septiembre-30-de-2026.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 121 del texto capturado (hash 4cd8269332681e62)."
+ },
+ {
+  "id": "rel-5c8482937052",
+  "origen_id": "sentencia-c-c-317-26-2026-colombia-corte-constitucional",
+  "destino_id": "",
+  "destino_ref": "Ley 2466 de 2025",
+  "parte": "el artículo 19 (parcial)",
+  "tipo": "Modifica",
+  "fragmento": "EL ACOSO Y LA actividades productivas y DISCRIMINACIÓN EN EL MUNDO ocupacionales en los centros penitenciarios como experiencia DEL TRABAJO. profesional.”. […] 2. Decisión PRIMERO. ESTARSE A LO RESUELTO en la Sentencia C-030 de 2026, por el cargo de unidad de materia formulado contra el artículo 19 (parcial) de la Ley 2466 de 2025",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.corteconstitucional.gov.co/comunicados/comunicado-31-septiembre-30-de-2026.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 19 del texto capturado (hash 2031b7b6b94a18fc)."
+ },
+ {
+  "id": "rel-25a08aa86cf4",
+  "origen_id": "sentencia-c-c-317-26-2026-colombia-corte-constitucional",
+  "destino_id": "",
+  "destino_ref": "Ley 2466 de 2025",
+  "parte": "el artículo 19 (parcial)",
+  "tipo": "Reglamenta",
+  "fragmento": "EL ACOSO Y LA actividades productivas y DISCRIMINACIÓN EN EL MUNDO ocupacionales en los centros penitenciarios como experiencia DEL TRABAJO. profesional.”. […] 2. Decisión PRIMERO. ESTARSE A LO RESUELTO en la Sentencia C-030 de 2026, por el cargo de unidad de materia formulado contra el artículo 19 (parcial) de la Ley 2466 de 2025",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.corteconstitucional.gov.co/comunicados/comunicado-31-septiembre-30-de-2026.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 19 del texto capturado (hash 2031b7b6b94a18fc)."
+ },
+ {
+  "id": "rel-ab2caabfcbd9",
+  "origen_id": "sentencia-c-c-317-26-2026-colombia-corte-constitucional",
+  "destino_id": "",
+  "destino_ref": "Ley 2466 de 2025",
+  "parte": "el artículo 19",
+  "tipo": "Compila",
+  "fragmento": "se refirió a la noción de trabajo penitenciario y su ámbito de aplicación, y recordó el desarrollo jurisprudencial aplicable en esta materia. Luego realizó un recuento detallado del trámite legislativo del artículo 19 de la Ley 2466 de 2025",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.corteconstitucional.gov.co/comunicados/comunicado-31-septiembre-30-de-2026.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 19 del texto capturado (hash 2031b7b6b94a18fc)."
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "id": "an-65ead3b0e175",
+  "doc_id": "sentencia-c-c-336-26-s-f-colombia-corte-constitucional",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 46",
+  "fragmento": "rigen privado y (ii) a los empleadores personas naturales, respectivamente",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.corteconstitucional.gov.co/comunicados/comunicado-32-octubre-14-y-15-de-2026.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ },
+ {
+  "id": "an-7d2ef06070d8",
+  "doc_id": "sentencia-c-c-336-26-s-f-colombia-corte-constitucional",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 46",
+  "fragmento": "rigentes de ese grupo que se reincorporaron a la vida civil reconocieron que fue una gran equivocación y pidieron perdón por ello",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.corteconstitucional.gov.co/comunicados/comunicado-32-octubre-14-y-15-de-2026.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ },
+ {
+  "id": "an-67df3700dd48",
+  "doc_id": "sentencia-c-c-336-26-s-f-colombia-corte-constitucional",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 7",
+  "fragmento": "rige a partir de la fecha de su expedición y deroga todas las demás disposiciones que le sean contrarias”",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.corteconstitucional.gov.co/comunicados/comunicado-32-octubre-14-y-15-de-2026.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ },
+ {
+  "id": "an-c0bfb89bae11",
+  "doc_id": "sentencia-c-c-336-26-s-f-colombia-corte-constitucional",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 6o",
+  "fragmento": "rige a partir de la fecha de su publicación y consagrado por el artículo 2",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.corteconstitucional.gov.co/comunicados/comunicado-32-octubre-14-y-15-de-2026.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ },
+ {
+  "id": "an-f2438d8078d8",
+  "doc_id": "sentencia-c-c-336-26-s-f-colombia-corte-constitucional",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 6o",
+  "fragmento": "regirán por las disposiciones de este decreto emergencia y hasta finalizar la vigencia fiscal hasta su culminación",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.corteconstitucional.gov.co/comunicados/comunicado-32-octubre-14-y-15-de-2026.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ }
+]
