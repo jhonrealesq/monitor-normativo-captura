@@ -2,7 +2,7 @@
  {
   "doc_id": "acuerdo-1084-2026-bogota-concejo-de-bogota",
   "sha256": "4d3b175e7ee128d1a1b09ee44e605214185a726d1fc9510c3867a869c648e761",
-  "fecha_captura": "2026-11-12",
+  "fecha_captura": "2026-11-13",
   "metodo": "html.parser",
   "unidades": 150,
   "articulos": 55,
@@ -17,7 +17,7 @@
  {
   "doc_id": "boletin-7-2026-s-f-antioquia-tribunal-administrativo-de-antioquia",
   "sha256": "8c0d50ec42eab0f1a4ba9b16e1f223986d13ebf161cbdb8b9e3054119fbe87d8",
-  "fecha_captura": "2026-11-12",
+  "fecha_captura": "2026-11-13",
   "metodo": "pdftotext -layout",
   "unidades": 3,
   "articulos": 0,
@@ -32,7 +32,7 @@
  {
   "doc_id": "circular-0024-2026-colombia-comision-nacional-de-precios",
   "sha256": "c4ee30fcf918c4ce74f1d41e8768a71bd951b446c8d794315c2b1c933a0b9028",
-  "fecha_captura": "2026-11-12",
+  "fecha_captura": "2026-11-13",
   "metodo": "pdftotext -layout",
   "unidades": 5,
   "articulos": 3,
@@ -47,7 +47,7 @@
  {
   "doc_id": "decreto-legislativo-1379-2026-colombia",
   "sha256": "ffcdc9b703166eff8a7a421697c498f3ed8c4d7d8f719cba96b8aaca47272247",
-  "fecha_captura": "2026-11-12",
+  "fecha_captura": "2026-11-13",
   "metodo": "html.parser",
   "unidades": 17,
   "articulos": 12,
@@ -62,7 +62,7 @@
  {
   "doc_id": "decreto-legislativo-1381-2026-colombia",
   "sha256": "19cdff4cf27763235311b9cfca07d7be08840dab620ebaca607879d0ebfccb2c",
-  "fecha_captura": "2026-11-12",
+  "fecha_captura": "2026-11-13",
   "metodo": "html.parser",
   "unidades": 4,
   "articulos": 3,
@@ -77,7 +77,7 @@
  {
   "doc_id": "decreto-legislativo-1418-2026-colombia",
   "sha256": "35c3d0b5621665938f46a6f726e5c1dbbbfffc23dbd116f10e62a8f688431805",
-  "fecha_captura": "2026-11-12",
+  "fecha_captura": "2026-11-13",
   "metodo": "html.parser",
   "unidades": 34,
   "articulos": 17,
@@ -92,7 +92,7 @@
  {
   "doc_id": "decreto-legislativo-1419-2026-colombia",
   "sha256": "a86cacb7286786622728ba1c24b4120ab5a264ebda86be5addffc3b5e569d7f3",
-  "fecha_captura": "2026-11-12",
+  "fecha_captura": "2026-11-13",
   "metodo": "html.parser",
   "unidades": 28,
   "articulos": 15,
@@ -107,7 +107,7 @@
  {
   "doc_id": "decreto-legislativo-1426-2026-colombia",
   "sha256": "7e7b6e125382bea86c842244b29b8085149aa729f2ab480e4f0331df7b099440",
-  "fecha_captura": "2026-11-12",
+  "fecha_captura": "2026-11-13",
   "metodo": "html.parser",
   "unidades": 10,
   "articulos": 5,
@@ -122,7 +122,7 @@
  {
   "doc_id": "providencia-sp1316-2026-2026-colombia-corte-suprema-de-justicia",
   "sha256": "442b84f62c938943230357dfba3104716e3790304316da40e7c43a37db81c879",
-  "fecha_captura": "2026-11-12",
+  "fecha_captura": "2026-11-13",
   "metodo": "pdftotext -layout",
   "unidades": 5,
   "articulos": 0,
@@ -137,7 +137,7 @@
  {
   "doc_id": "providencia-sp1317-2026-2026-colombia-corte-suprema-de-justicia",
   "sha256": "fa8713a024f96d49a6b9800aaf6c8c9d04363890b91300c5c88cdef1b4e93672",
-  "fecha_captura": "2026-11-12",
+  "fecha_captura": "2026-11-13",
   "metodo": "pdftotext -layout",
   "unidades": 11,
   "articulos": 0,
@@ -167,7 +167,7 @@
  {
   "doc_id": "proyecto-de-ley-f62ff120-2026-colombia-congreso-de-la-republica",
   "sha256": "4a7e52938b91a30da837c41e3e6ad4a28e667d546aafac4add16892f5a6ef6cf",
-  "fecha_captura": "2026-11-12",
+  "fecha_captura": "2026-11-13",
   "metodo": "pdftotext -layout",
   "unidades": 393,
   "articulos": 158,
@@ -182,7 +182,7 @@
  {
   "doc_id": "resolucion-s-2026061010448-2026-antioquia-gobernacion-de-antioquia",
   "sha256": "c88c095ef3d9dc0e5f2bd854ac08f3830927bf29d3f27fb63a5ecf51ddf61995",
-  "fecha_captura": "2026-11-12",
+  "fecha_captura": "2026-11-13",
   "metodo": "pdftotext -layout",
   "unidades": 22,
   "articulos": 14,
