@@ -30,6 +30,21 @@
   "clave": "acuerdo-1084-2026-bogota-concejo-de-bogota"
  },
  {
+  "doc_id": "acuerdo-local-9a12a155-2026-medellin-alcaldia-de-medellin",
+  "sha256": "004e9b5239e2a217dc650e306d4d1592bae7d6e0566d1a9cf84ce2c9d95c599a",
+  "fecha_captura": "2026-11-14",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 7072,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.medellin.gov.co/statements/innovaciondigital/gacetas/consulta-publica/5975",
+  "archivo": "originales/004e9b5239e2a217dc650e306d4d1592bae7d6e0566d1a9cf84ce2c9d95c599a.html",
+  "clave": "acuerdo-local-9a12a155-2026-medellin-alcaldia-de-medellin"
+ },
+ {
   "doc_id": "auto-1282-26-2026-colombia-corte-constitucional",
   "sha256": "cc2aa6722bee27fda48a68f43b570df826859b0796880964983dc8e753c82cf7",
   "fecha_captura": "2026-11-13",
@@ -120,6 +135,21 @@
   "clave": "circular-0024-2026-colombia-comision-nacional-de-precios"
  },
  {
+  "doc_id": "circular-med-2026-60-000002-2026-medellin-alcaldia-de-medellin",
+  "sha256": "d64aa803c60605b385a32bea96a1873e0836ffeab44f053f166c8b214d71be74",
+  "fecha_captura": "2026-11-14",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 1317,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.medellin.gov.co/statements/innovaciondigital/gacetas/consulta-publica/5978",
+  "archivo": "originales/d64aa803c60605b385a32bea96a1873e0836ffeab44f053f166c8b214d71be74.html",
+  "clave": "circular-med-2026-60-000002-2026-medellin-alcaldia-de-medellin"
+ },
+ {
   "doc_id": "decreto-1261-2026-colombia",
   "sha256": "8f99e9f166cbed80a68abc0166c377b55b72cf2c36835bde60bc078f3b453aa5",
   "fecha_captura": "2026-11-13",
@@ -178,6 +208,21 @@
   "url": "https://www.alcaldiabogota.gov.co/sisjur//normas/Norma1.jsp?i=194344",
   "archivo": "originales/0d3ebd0d0516936ee9a556377e4376c75b41b96c7ace4e1237f537a1abf737d4.html",
   "clave": "decreto-389-2026-bogota-alcaldia-mayor-de-bogota"
+ },
+ {
+  "doc_id": "decreto-473-2026-bogota-alcaldia-mayor-de-bogota",
+  "sha256": "46d7bcc58581cab58b18aba53bbc23c6d87fb487bd787455bd402031f0fe9678",
+  "fecha_captura": "2026-11-14",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 535,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=194728",
+  "archivo": "originales/46d7bcc58581cab58b18aba53bbc23c6d87fb487bd787455bd402031f0fe9678.html",
+  "clave": "decreto-473-2026-bogota-alcaldia-mayor-de-bogota"
  },
  {
   "doc_id": "decreto-legislativo-1379-2026-colombia",
@@ -255,6 +300,36 @@
   "clave": "decreto-legislativo-1426-2026-colombia"
  },
  {
+  "doc_id": "decreto-med-2026-40-00012-2026-medellin-alcaldia-de-medellin",
+  "sha256": "d53faac337676f6101c453727dd58d14527586bdb7b2dcb15d4105b6e33af584",
+  "fecha_captura": "2026-11-14",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 1278,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.medellin.gov.co/statements/innovaciondigital/gacetas/consulta-publica/5977",
+  "archivo": "originales/d53faac337676f6101c453727dd58d14527586bdb7b2dcb15d4105b6e33af584.html",
+  "clave": "decreto-med-2026-40-00012-2026-medellin-alcaldia-de-medellin"
+ },
+ {
+  "doc_id": "decreto-med-2026-40-000128-2026-medellin-alcaldia-de-medellin",
+  "sha256": "c868ae56cec3a0d102cf3fbbe724b07f4c078312946205136656f96a26599e0a",
+  "fecha_captura": "2026-11-14",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 1317,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.medellin.gov.co/statements/innovaciondigital/gacetas/consulta-publica/5978",
+  "archivo": "originales/c868ae56cec3a0d102cf3fbbe724b07f4c078312946205136656f96a26599e0a.html",
+  "clave": "decreto-med-2026-40-000128-2026-medellin-alcaldia-de-medellin"
+ },
+ {
   "doc_id": "hito-27b741e4-2026-colombia-congreso-de-la-republica",
   "sha256": "9fd728ff0280f4399e83f72e38f149be7a4dc97c6d1b4182ea2d84fb758396b6",
   "fecha_captura": "2026-11-13",
@@ -268,6 +343,21 @@
   "url": "https://www.camara.gov.co/plenaria-de-la-camara-subsano-los-vicios-de-tramite-en-la-reforma-pensional/",
   "archivo": "originales/9fd728ff0280f4399e83f72e38f149be7a4dc97c6d1b4182ea2d84fb758396b6.html",
   "clave": "hito-27b741e4-2026-colombia-congreso-de-la-republica"
+ },
+ {
+  "doc_id": "hito-9ea6b0b7-2026-colombia-ministerio-de-vivienda-ciudad",
+  "sha256": "9364739e9eb43845cd480f79957d23291bee6dc377739b937fef10e20e7cc472",
+  "fecha_captura": "2026-11-14",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 1048,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://minvivienda.gov.co/tramites-y-servicios/consultas-publicas/agenda-regulatoria-2027",
+  "archivo": "originales/9364739e9eb43845cd480f79957d23291bee6dc377739b937fef10e20e7cc472.html",
+  "clave": "hito-9ea6b0b7-2026-colombia-ministerio-de-vivienda-ciudad"
  },
  {
   "doc_id": "ordenanza-35-s-f-antioquia-asamblea-de-antioquia",
@@ -345,6 +435,36 @@
   "clave": "providencia-sp1317-2026-2026-colombia-corte-suprema-de-justicia"
  },
  {
+  "doc_id": "proyecto-de-acto-legislativo-009-2026s-s-f-colombia-congreso-de-la-republica",
+  "sha256": "bc49cba689fefee19d08ffab1ed65c4f47c602f5ba84d732a43097224ca99ea2",
+  "fecha_captura": "2026-11-14",
+  "metodo": "pdftotext -layout",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 23168,
+  "notas_vigencia": 1,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "http://www.secretariasenado.gov.co/orden-del-dia-senado/18540-orden-del-dia-29-de-octubre-2026/file",
+  "archivo": "originales/bc49cba689fefee19d08ffab1ed65c4f47c602f5ba84d732a43097224ca99ea2.pdf",
+  "clave": "proyecto-de-acto-legislativo-009-2026s-s-f-colombia-congreso-de-la-republica"
+ },
+ {
+  "doc_id": "proyecto-de-acto-legislativo-09e7c996-s-f-colombia-congreso-de-la-republica",
+  "sha256": "8801a5d04af422b2fadb4e0f2640f38cf7f37ca8a5d4d632215a440cb1733f54",
+  "fecha_captura": "2026-11-14",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 5518,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.camara.gov.co/aval-a-reforma-que-limitaria-a-alcaldes-de-bogota-para-ser-presidentes-de-colombia/",
+  "archivo": "originales/8801a5d04af422b2fadb4e0f2640f38cf7f37ca8a5d4d632215a440cb1733f54.html",
+  "clave": "proyecto-de-acto-legislativo-09e7c996-s-f-colombia-congreso-de-la-republica"
+ },
+ {
   "doc_id": "proyecto-de-acuerdo-027-2026-s-f-envigado-concejo-de-envigado",
   "sha256": "1128f3c5776d63f7edfd3cc1fc6a3d1193908efa4d6ffdfc508c52dc4e7490e8",
   "fecha_captura": "2026-11-13",
@@ -373,6 +493,36 @@
   "url": "https://www.concejoenvigado.gov.co/proyectos_de_acuerdo/proyecto-de-acuerdo-041-de-2026/",
   "archivo": "originales/e5b92d2982cd319beac90999679c43b71eb7c5a04b0aba7167079d1908185ce0.html",
   "clave": "proyecto-de-acuerdo-041-2026-s-f-envigado-concejo-de-envigado"
+ },
+ {
+  "doc_id": "proyecto-de-acuerdo-045-2026-s-f-envigado-concejo-de-envigado",
+  "sha256": "f09cafd54706f6ed74cb6edce472aefd3a51ce69eb9d4e600427ab527f2c342c",
+  "fecha_captura": "2026-11-14",
+  "metodo": "html.parser",
+  "unidades": 2,
+  "articulos": 0,
+  "caracteres": 66567,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.concejoenvigado.gov.co/proyectos_de_acuerdo/",
+  "archivo": "originales/f09cafd54706f6ed74cb6edce472aefd3a51ce69eb9d4e600427ab527f2c342c.html",
+  "clave": "proyecto-de-acuerdo-045-2026-s-f-envigado-concejo-de-envigado"
+ },
+ {
+  "doc_id": "proyecto-de-acuerdo-046-2026-s-f-envigado-concejo-de-envigado",
+  "sha256": "f9ca2b82b0fa0f7ede70787d48a9e500153219089da2fca9d0097ae619e8a082",
+  "fecha_captura": "2026-11-14",
+  "metodo": "html.parser",
+  "unidades": 2,
+  "articulos": 0,
+  "caracteres": 66567,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.concejoenvigado.gov.co/proyectos_de_acuerdo/",
+  "archivo": "originales/f9ca2b82b0fa0f7ede70787d48a9e500153219089da2fca9d0097ae619e8a082.html",
+  "clave": "proyecto-de-acuerdo-046-2026-s-f-envigado-concejo-de-envigado"
  },
  {
   "doc_id": "proyecto-de-acuerdo-047-2026-s-f-envigado-concejo-de-envigado",
@@ -480,6 +630,21 @@
   "clave": "proyecto-de-decreto-b8179e82-2026-colombia-ministerio-de-vivienda-ciudad"
  },
  {
+  "doc_id": "proyecto-de-ley-001-2026c-2026-colombia-congreso-de-la-republica",
+  "sha256": "a7ef2936da7eaefe13be8ce5f2e17408e21b1fa1e6782fd6366cd9c69f5e9496",
+  "fecha_captura": "2026-11-14",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 4462,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.camara.gov.co/comision-septima-aprobo-en-primer-debate-el-sistema-nacional-del-cuidado/",
+  "archivo": "originales/a7ef2936da7eaefe13be8ce5f2e17408e21b1fa1e6782fd6366cd9c69f5e9496.html",
+  "clave": "proyecto-de-ley-001-2026c-2026-colombia-congreso-de-la-republica"
+ },
+ {
   "doc_id": "proyecto-de-ley-008-2026c-s-f-colombia-congreso-de-la-republica",
   "sha256": "09ee47c0d152ecf7df1ed10c18ac56692630a9875e7ff13931012f678316aaff",
   "fecha_captura": "2026-11-14",
@@ -570,6 +735,21 @@
   "clave": "proyecto-de-ley-111-2026c-s-f-colombia-congreso-de-la-republica"
  },
  {
+  "doc_id": "proyecto-de-ley-119-2025s-s-f-colombia-congreso-de-la-republica",
+  "sha256": "bc49cba689fefee19d08ffab1ed65c4f47c602f5ba84d732a43097224ca99ea2",
+  "fecha_captura": "2026-11-14",
+  "metodo": "pdftotext -layout",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 23168,
+  "notas_vigencia": 1,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "http://www.secretariasenado.gov.co/orden-del-dia-senado/18540-orden-del-dia-29-de-octubre-2026/file",
+  "archivo": "originales/bc49cba689fefee19d08ffab1ed65c4f47c602f5ba84d732a43097224ca99ea2.pdf",
+  "clave": "proyecto-de-ley-119-2025s-s-f-colombia-congreso-de-la-republica"
+ },
+ {
   "doc_id": "proyecto-de-ley-119-2026c-s-f-colombia-congreso-de-la-republica",
   "sha256": "5566953025986e654ec8c2853f5e7c6dcdbc0af38891ba88d7ca5a64f289cb99",
   "fecha_captura": "2026-11-14",
@@ -600,6 +780,21 @@
   "clave": "proyecto-de-ley-152-2026c-111-2026s-2026-colombia-congreso-de-la-republica"
  },
  {
+  "doc_id": "proyecto-de-ley-169-2026s-s-f-colombia-congreso-de-la-republica",
+  "sha256": "bc49cba689fefee19d08ffab1ed65c4f47c602f5ba84d732a43097224ca99ea2",
+  "fecha_captura": "2026-11-14",
+  "metodo": "pdftotext -layout",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 23168,
+  "notas_vigencia": 1,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "http://www.secretariasenado.gov.co/orden-del-dia-senado/18540-orden-del-dia-29-de-octubre-2026/file",
+  "archivo": "originales/bc49cba689fefee19d08ffab1ed65c4f47c602f5ba84d732a43097224ca99ea2.pdf",
+  "clave": "proyecto-de-ley-169-2026s-s-f-colombia-congreso-de-la-republica"
+ },
+ {
   "doc_id": "proyecto-de-ley-175-2026s-s-f-colombia-congreso-de-la-republica",
   "sha256": "9e4e00b9013f272d0d4f9aed188129aadfdb95abbadac221d0c237ecaf83b4b9",
   "fecha_captura": "2026-11-14",
@@ -613,6 +808,36 @@
   "url": "https://www.senado.gov.co/index.php/el-senado/noticias/7717-comision-primera-aprobo-proyectos-sobre-juventudes-rurales-y-asambleas-virtuales",
   "archivo": "originales/9e4e00b9013f272d0d4f9aed188129aadfdb95abbadac221d0c237ecaf83b4b9.html",
   "clave": "proyecto-de-ley-175-2026s-s-f-colombia-congreso-de-la-republica"
+ },
+ {
+  "doc_id": "proyecto-de-ley-206-2025s-s-f-colombia-congreso-de-la-republica",
+  "sha256": "bc49cba689fefee19d08ffab1ed65c4f47c602f5ba84d732a43097224ca99ea2",
+  "fecha_captura": "2026-11-14",
+  "metodo": "pdftotext -layout",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 23168,
+  "notas_vigencia": 1,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "http://www.secretariasenado.gov.co/orden-del-dia-senado/18540-orden-del-dia-29-de-octubre-2026/file",
+  "archivo": "originales/bc49cba689fefee19d08ffab1ed65c4f47c602f5ba84d732a43097224ca99ea2.pdf",
+  "clave": "proyecto-de-ley-206-2025s-s-f-colombia-congreso-de-la-republica"
+ },
+ {
+  "doc_id": "proyecto-de-ley-243-2026s-136-2025c-s-f-colombia-congreso-de-la-republica",
+  "sha256": "bc49cba689fefee19d08ffab1ed65c4f47c602f5ba84d732a43097224ca99ea2",
+  "fecha_captura": "2026-11-14",
+  "metodo": "pdftotext -layout",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 23168,
+  "notas_vigencia": 1,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "http://www.secretariasenado.gov.co/orden-del-dia-senado/18540-orden-del-dia-29-de-octubre-2026/file",
+  "archivo": "originales/bc49cba689fefee19d08ffab1ed65c4f47c602f5ba84d732a43097224ca99ea2.pdf",
+  "clave": "proyecto-de-ley-243-2026s-136-2025c-s-f-colombia-congreso-de-la-republica"
  },
  {
   "doc_id": "proyecto-de-ley-282-2026s-s-f-colombia-congreso-de-la-republica",
@@ -643,6 +868,21 @@
   "url": "https://www.senado.gov.co/index.php/el-senado/noticias/7725-victimas-de-abuso-sexual-no-tendrian-que-sostener-a-padres-agresores",
   "archivo": "originales/15af85e63b3de79595380422d4fdbbfeec15b17c96ff452610c51faca3b8c83c.html",
   "clave": "proyecto-de-ley-3046733c-s-f-colombia-congreso-de-la-republica"
+ },
+ {
+  "doc_id": "proyecto-de-ley-311-2025s-s-f-colombia-congreso-de-la-republica",
+  "sha256": "bc49cba689fefee19d08ffab1ed65c4f47c602f5ba84d732a43097224ca99ea2",
+  "fecha_captura": "2026-11-14",
+  "metodo": "pdftotext -layout",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 23168,
+  "notas_vigencia": 1,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "http://www.secretariasenado.gov.co/orden-del-dia-senado/18540-orden-del-dia-29-de-octubre-2026/file",
+  "archivo": "originales/bc49cba689fefee19d08ffab1ed65c4f47c602f5ba84d732a43097224ca99ea2.pdf",
+  "clave": "proyecto-de-ley-311-2025s-s-f-colombia-congreso-de-la-republica"
  },
  {
   "doc_id": "proyecto-de-ley-331-2026s-s-f-colombia-congreso-de-la-republica",
@@ -780,6 +1020,21 @@
   "clave": "proyecto-de-ley-7eee9788-2026-colombia-congreso-de-la-republica"
  },
  {
+  "doc_id": "proyecto-de-ley-8e2bac48-2026-colombia-congreso-de-la-republica",
+  "sha256": "424bd849847008ce4bbcf80e8ab682d9c1be41cf54e6224a33be560b985c779a",
+  "fecha_captura": "2026-11-14",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 4067,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.camara.gov.co/a-la-plenaria-paso-la-ley-del-presupuesto-de-las-regalias-2027-2028",
+  "archivo": "originales/424bd849847008ce4bbcf80e8ab682d9c1be41cf54e6224a33be560b985c779a.html",
+  "clave": "proyecto-de-ley-8e2bac48-2026-colombia-congreso-de-la-republica"
+ },
+ {
   "doc_id": "proyecto-de-ley-9ef41689-s-f-colombia-congreso-de-la-republica",
   "sha256": "703c4743d8e533c744d073ff12ba50734501f984166aab3ed952f706b6a5593e",
   "fecha_captura": "2026-11-14",
@@ -793,6 +1048,36 @@
   "url": "https://www.camara.gov.co/la-camara-analiza-impacto-del-fenomeno-de-el-nino-en-colombia",
   "archivo": "originales/703c4743d8e533c744d073ff12ba50734501f984166aab3ed952f706b6a5593e.html",
   "clave": "proyecto-de-ley-9ef41689-s-f-colombia-congreso-de-la-republica"
+ },
+ {
+  "doc_id": "proyecto-de-ley-c7724785-2026-colombia-congreso-de-la-republica",
+  "sha256": "2dd4abeb77d1678c484aba9ca44591879d98d38dce30f54cea28927ef9d1a330",
+  "fecha_captura": "2026-11-14",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 5163,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.senado.gov.co/index.php/el-senado/noticias/7689-ley-antitramites-pasa-primer-debate-respuesta-en-30-dias-a-negocios",
+  "archivo": "originales/2dd4abeb77d1678c484aba9ca44591879d98d38dce30f54cea28927ef9d1a330.html",
+  "clave": "proyecto-de-ley-c7724785-2026-colombia-congreso-de-la-republica"
+ },
+ {
+  "doc_id": "proyecto-de-ley-d2bdd9f4-s-f-colombia-congreso-de-la-republica",
+  "sha256": "4a3237de2c6cb88025ed8112bc71958db829a71759115cc95d6a6f8989567cec",
+  "fecha_captura": "2026-11-14",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 5058,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.senado.gov.co/index.php/el-senado/noticias/7703-comision-septima-aprueba-que-mi-casa-ya-sea-un-programa-de-estado",
+  "archivo": "originales/4a3237de2c6cb88025ed8112bc71958db829a71759115cc95d6a6f8989567cec.html",
+  "clave": "proyecto-de-ley-d2bdd9f4-s-f-colombia-congreso-de-la-republica"
  },
  {
   "doc_id": "proyecto-de-ley-f62ff120-2026-colombia-congreso-de-la-republica",
@@ -900,6 +1185,51 @@
   "clave": "resolucion-2708-2026-colombia-ministerio-del-trabajo"
  },
  {
+  "doc_id": "resolucion-med-2026-50-002222-2026-medellin-alcaldia-de-medellin",
+  "sha256": "b7359a7b130f2062d2a63ffd835cf2c34af83bfdae49e2557ab16b7557b80e4b",
+  "fecha_captura": "2026-11-14",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 6122,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.medellin.gov.co/statements/innovaciondigital/gacetas/consulta-publica/5974",
+  "archivo": "originales/b7359a7b130f2062d2a63ffd835cf2c34af83bfdae49e2557ab16b7557b80e4b.html",
+  "clave": "resolucion-med-2026-50-002222-2026-medellin-alcaldia-de-medellin"
+ },
+ {
+  "doc_id": "resolucion-s-2026060908096-2026-antioquia-gobernacion-de-antioquia",
+  "sha256": "1bbe0884ccbbfd1c1bae9c9bc8704e69535fbd486833fcfba7ee935e711b82d8",
+  "fecha_captura": "2026-11-14",
+  "metodo": "pdftotext -layout",
+  "unidades": 12,
+  "articulos": 11,
+  "caracteres": 301467,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.antioquia.gov.co/images/gaceta/2026/11/GACETA%2025.999%20-%20R.pdf",
+  "archivo": "originales/1bbe0884ccbbfd1c1bae9c9bc8704e69535fbd486833fcfba7ee935e711b82d8.pdf",
+  "clave": "resolucion-s-2026060908096-2026-antioquia-gobernacion-de-antioquia"
+ },
+ {
+  "doc_id": "resolucion-s-2026061010032-2026-antioquia-gobernacion-de-antioquia",
+  "sha256": "08bdb5b4f428807024a4f317080f96e91e77bcc9465d89830f0ef2982ec627d0",
+  "fecha_captura": "2026-11-14",
+  "metodo": "pdftotext -layout",
+  "unidades": 93,
+  "articulos": 88,
+  "caracteres": 127971,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.antioquia.gov.co/images/gaceta/2026/11/GACETA%2026.002%20-%20R.pdf",
+  "archivo": "originales/08bdb5b4f428807024a4f317080f96e91e77bcc9465d89830f0ef2982ec627d0.pdf",
+  "clave": "resolucion-s-2026061010032-2026-antioquia-gobernacion-de-antioquia"
+ },
+ {
   "doc_id": "resolucion-s-2026061010448-2026-antioquia-gobernacion-de-antioquia",
   "sha256": "c88c095ef3d9dc0e5f2bd854ac08f3830927bf29d3f27fb63a5ecf51ddf61995",
   "fecha_captura": "2026-11-13",
@@ -913,6 +1243,21 @@
   "url": "https://www.antioquia.gov.co/images/gaceta/2026/11/GACETA%2026.003%20-%20R.pdf",
   "archivo": "originales/c88c095ef3d9dc0e5f2bd854ac08f3830927bf29d3f27fb63a5ecf51ddf61995.pdf",
   "clave": "resolucion-s-2026061010448-2026-antioquia-gobernacion-de-antioquia"
+ },
+ {
+  "doc_id": "sentencia-05001-23-33-000-2025-00454-01-s-f-antioquia-consejo-de-estado",
+  "sha256": "f8558c252ddc79ec4d96964285d4ec9c8754e64e72aa3347acb756fcadbfd2e8",
+  "fecha_captura": "2026-11-14",
+  "metodo": "html.parser",
+  "unidades": 45,
+  "articulos": 0,
+  "caracteres": 1757145,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.consejodeestado.gov.co/noticias/index.php",
+  "archivo": "originales/f8558c252ddc79ec4d96964285d4ec9c8754e64e72aa3347acb756fcadbfd2e8.html",
+  "clave": "sentencia-05001-23-33-000-2025-00454-01-s-f-antioquia-consejo-de-estado"
  },
  {
   "doc_id": "sentencia-0fe481b9-2026-colombia-consejo-de-estado",
@@ -943,6 +1288,21 @@
   "url": "https://www.consejodeestado.gov.co/noticias/index.php",
   "archivo": "originales/f8558c252ddc79ec4d96964285d4ec9c8754e64e72aa3347acb756fcadbfd2e8.html",
   "clave": "sentencia-20560b57-s-f-envigado-consejo-de-estado"
+ },
+ {
+  "doc_id": "sentencia-2d47461c-2026-colombia-consejo-de-estado",
+  "sha256": "f8558c252ddc79ec4d96964285d4ec9c8754e64e72aa3347acb756fcadbfd2e8",
+  "fecha_captura": "2026-11-14",
+  "metodo": "html.parser",
+  "unidades": 45,
+  "articulos": 0,
+  "caracteres": 1757145,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.consejodeestado.gov.co/noticias/index.php",
+  "archivo": "originales/f8558c252ddc79ec4d96964285d4ec9c8754e64e72aa3347acb756fcadbfd2e8.html",
+  "clave": "sentencia-2d47461c-2026-colombia-consejo-de-estado"
  },
  {
   "doc_id": "sentencia-59ecde56-s-f-leticia-consejo-de-estado",

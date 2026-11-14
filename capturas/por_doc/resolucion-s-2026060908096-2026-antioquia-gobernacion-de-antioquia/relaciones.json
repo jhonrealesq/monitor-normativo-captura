@@ -1,0 +1,58 @@
+[
+ {
+  "id": "rel-e204aeb0a7a1",
+  "origen_id": "resolucion-s-2026060908096-2026-antioquia-gobernacion-de-antioquia",
+  "destino_id": "",
+  "destino_ref": "Resolución 2026060906152 de 2026",
+  "parte": "",
+  "tipo": "Adiciona",
+  "fragmento": "se relacionan las plazas en vacante definitiva de la Secretaría de Educación de Antioquia que serán ofertadas para el Proceso Ordinario de Traslados correspondiente a la vigencia 2026 - 2027: Plazas mayoritarias: ESTABLECIMIENTO N'DE N' ÁREA SUBREGIÓN MUNICIPIO SEDE EDUCATIVO PLAZA COLEGIO VEINTE DE 1 Ciencias Sociales BAJOCAUCA EL BAGRE l. E. 20 DE JULIO 2142 JULIO· SEDE PRINCIPAL SVELEZGI 6 RESO",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.antioquia.gov.co/images/gaceta/2026/11/GACETA%2025.999%20-%20R.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 1 del texto capturado (hash 6a41923074104beb)."
+ },
+ {
+  "id": "rel-4dc7136f9dea",
+  "origen_id": "resolucion-s-2026060908096-2026-antioquia-gobernacion-de-antioquia",
+  "destino_id": "",
+  "destino_ref": "Resolución 2026060906152 de 2026",
+  "parte": "",
+  "tipo": "Modifica",
+  "fragmento": "se relacionan las plazas en vacante definitiva de la Secretaría de Educación de Antioquia que serán ofertadas para el Proceso Ordinario de Traslados correspondiente a la vigencia 2026 - 2027: Plazas mayoritarias: ESTABLECIMIENTO N'DE N' ÁREA SUBREGIÓN MUNICIPIO SEDE EDUCATIVO PLAZA COLEGIO VEINTE DE 1 Ciencias Sociales BAJOCAUCA EL BAGRE l. E. 20 DE JULIO 2142 JULIO· SEDE PRINCIPAL SVELEZGI 6 RESO",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.antioquia.gov.co/images/gaceta/2026/11/GACETA%2025.999%20-%20R.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 1 del texto capturado (hash 6a41923074104beb)."
+ },
+ {
+  "id": "rel-a2776631957c",
+  "origen_id": "resolucion-s-2026060908096-2026-antioquia-gobernacion-de-antioquia",
+  "destino_id": "",
+  "destino_ref": "Resolución 2026060906152 de 1911",
+  "parte": "",
+  "tipo": "Modifica",
+  "fragmento": "l. E. INMACULADA 132 ORIENTE NARIÑO CONCEPCIÓN - SEDE 11424 Química CONCEPCIÓN PRINCIPAL SVELEZGI 10 RESOLUCIÓN HOJA 9 POR LA CUAL SE MODIFICA PARCIALMENTE LA RESOLUCIÓN No. 2026060906152 DEL 1911",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.antioquia.gov.co/images/gaceta/2026/11/GACETA%2025.999%20-%20R.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 1 del texto capturado (hash 6a41923074104beb)."
+ },
+ {
+  "id": "rel-9919cde96434",
+  "origen_id": "resolucion-s-2026060908096-2026-antioquia-gobernacion-de-antioquia",
+  "destino_id": "",
+  "destino_ref": "Resolución 2026060906152",
+  "parte": "",
+  "tipo": "Modifica",
+  "fragmento": "INCIPAL LICEO LORENZO YALÍ • NORDESTE YALÍ l. E. LORENZO VALÍ 4714 819 Matemáticas SEDE PRINCIPAL 31 RESOLUCIÓN HOJA 30 POR LA CUAL SE MODIFICA PARCIALMENTE LA RESOLUCIÓN No. 2026060906152",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.antioquia.gov.co/images/gaceta/2026/11/GACETA%2025.999%20-%20R.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 1 del texto capturado (hash 6a41923074104beb)."
+ }
+]
