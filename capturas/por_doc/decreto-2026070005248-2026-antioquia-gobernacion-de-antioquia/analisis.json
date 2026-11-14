@@ -1,0 +1,38 @@
+[
+ {
+  "id": "an-7267eb44e21f",
+  "doc_id": "decreto-2026070005248-2026-antioquia-gobernacion-de-antioquia",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 1",
+  "fragmento": "rigerio en la mañana y tarde, según indicaciones que para el efecto comunicará la Dirección de Talento Humano - Educación",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.antioquia.gov.co/images/gaceta/noviembre/GACETA%2026.018%20-%20D.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ },
+ {
+  "id": "an-30c8f7d0465a",
+  "doc_id": "decreto-2026070005248-2026-antioquia-gobernacion-de-antioquia",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 5",
+  "fragmento": "rige por las reglas de una relación laboral, lo cual implica el ejercicio del ius variandi, facultad que no es absoluta",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.antioquia.gov.co/images/gaceta/noviembre/GACETA%2026.018%20-%20D.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ },
+ {
+  "id": "an-93a573b543e6",
+  "doc_id": "decreto-2026070005248-2026-antioquia-gobernacion-de-antioquia",
+  "tipo": "Regla de vigencia",
+  "valor": "Artículo 4",
+  "fragmento": "rigerio en la mañana y tarde",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.antioquia.gov.co/images/gaceta/noviembre/GACETA%2026.018%20-%20D.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Regla literal; la fecha de entrada en vigencia no se infiere."
+ }
+]
