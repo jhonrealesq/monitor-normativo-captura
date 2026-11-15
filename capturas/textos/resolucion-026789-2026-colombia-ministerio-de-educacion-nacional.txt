@@ -1,0 +1,86 @@
+
+MinEducación fija el calendario de traslados de docentes y directivos con derechos de carrera para el año escolar 2027 | Ministerio de Educación Nacional
+
+Inicio 
+
+InicioInicio
+
+InicioNoticiasComunicados
+MinEducación fija el calendario de traslados de docentes y directivos con derechos de carrera para el año escolar 2027
+
+ÚLTIMA HORA:
+
+06/10/2026
+MinEducación fija el calendario de traslados de docentes y directivos con derechos de carrera para el año escolar 2027
+
+05/10/2026
+19.900 directivos docentes lideran la transformación de la educación en Colombia
+
+03/10/2026
+Corea del Sur y el Ministerio de Educación reafirman años de cooperación educativa para impulsar la tecnología y el uso apropiado de la IA
+
+03/10/2026
+Viceministerio de Educación Superior avanza en diálogo sectorial, respuesta al sismo, calidad y fortalecimiento de Inspección y Vigilancia
+
+02/10/2026
+Consejo Directivo del Fomag aprueba traslado de $859 mil millones para garantizar la salud del magisterio
+
+MinEducación fija el calendario de traslados de docentes y directivos con derechos de carrera para el año escolar 2027
+
+Actualizado:  06 de octubre de 2026
+• Salen a traslados las vacantes definitivas que hoy ocupan docentes provisionales en instituciones mayoritarias, en Escuelas Normales Superiores, en zonas con Programas de Desarrollo con Enfoque Territorial -PDET- y en instituciones etnoeducativas afrocolombianas, raizales y palenqueras.
+
+La lista de seleccionados se conocerá entre el 14 y el 18 de diciembre.
+
+Fachada Ministerio de Educación
+
+Bogotá D.C., 6 de octubre de 2026. El Ministerio de Educación Nacional fijó, mediante la Resolución 026789 del 2 de octubre, el cronograma para el proceso ordinario de traslados. Los docentes y directivos docentes de carrera que deseen cambiar de institución educativa podrán inscribirse entre el 2 y el 13 de noviembre de 2026.
+
+Antes de abrir las inscripciones, cada Entidad Territorial Certificada (ETC) deberá consolidar las vacantes definitivas y expedir la convocatoria a más tardar el 19 de octubre. La publicación deberá realizarse entre el 20 y el 23 de octubre, a través de su página web y otros medios de difusión. Asimismo, las Secretarías de Educación deberán informar los canales oficiales y las herramientas tecnológicas para radicar las solicitudes, garantizando el registro de la fecha y hora de recepción. Cuando no cuenten con estos medios, deberán habilitar la inscripción de manera presencial.
+
+Entre el 16 de noviembre y el 11 de diciembre, las Secretarías revisarán la documentación de los aspirantes. Los actos administrativos de traslado dentro de la misma entidad territorial se expedirán del 22 al 30 de diciembre. Cuando el educador provenga de otra entidad, la comunicación se hará entre el 31 de diciembre y el 8 de enero de 2027 para que inicie en su entidad de origen el trámite del convenio interadministrativo.
+
+La Resolución exige a las ETC abrir sus vacantes a maestros de otros departamentos, distritos y municipios certificados y tramitar los convenios sin dilaciones, en especial, cuando la solicitud responda a situaciones personales o familiares que requieran protección. El Ministerio informará a los entes de control cualquier incumplimiento que impida la posesión oportuna del docente en la entidad de destino.
+
+Los docentes de carrera provenientes del concurso afrocolombiano que soliciten estos traslados deberán presentar dos avales de las autoridades tradicionales correspondientes, tanto del lugar de origen como de destino. En zonas PDET, los educadores del concurso especial que ya tengan derechos de carrera podrán trasladarse únicamente a vacantes definitivas del mismo perfil pertenecientes a plantas exclusivas PDET, dentro o fuera de su entidad territorial certificada.
+
+El Ministerio busca garantizar que los docentes trasladados estén en sus aulas desde el primer día del año escolar 2027.
+
+Consulte la resolución en el siguiente enlace: https://www.mineducacion.gov.co/1780/articles-431019_recurso_1.pdf
+
+__
+
+Siga la actualidad del sector educativo en las redes del Ministerio de Educación Nacional. Visítenos en @mineducacion (X, Facebook, YouTube y Linkedln), mineducacioncol (Instagram) y @mineducacioncolombia (TikTok).
+
+FIN
+
+Comunicados
+Videos
+Podcast
+Audios
+Especiales WEB
+Especiales Prensa
+Calendario de actividades y eventos
+
+AGENDA
+
+01-oct-2026
+Ministra Ilva Myriam Hoyos abrió nueva etapa de diálogo con FECODE  y fijó agenda prioritaria con el magisterio 
+
+17-sep-2026
+Colombia e Israel avanzan en la construcción de una agenda conjunta de cooperación educativa con enfoque regional
+
+16-sep-2026
+ Ilva Myriam Hoyos Castañeda, nueva ministra de Educación Nacional
+
+Compartir en:
+
+Evalúe esta página
+
+';
+
+    //$(this).parent().append(iframe);
+    $(this).replaceWith(iframe);
+  });
+});
+					-->
