@@ -30,6 +30,21 @@
   "clave": "acuerdo-1084-2026-bogota-concejo-de-bogota"
  },
  {
+  "doc_id": "acuerdo-724-s-f-bogota-concejo-de-bogota",
+  "sha256": "3b2b1ce54b2a6672a39c144aaf2c8eb4356917b469b9e35d6ca150bf396d040b",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 6802,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://bogota.gov.co/mi-ciudad/hacienda/alivios-del-60-en-intereses-de-impuestos-y-multas-transito-en-bogota",
+  "archivo": "originales/3b2b1ce54b2a6672a39c144aaf2c8eb4356917b469b9e35d6ca150bf396d040b.html",
+  "clave": "acuerdo-724-s-f-bogota-concejo-de-bogota"
+ },
+ {
   "doc_id": "acuerdo-local-9a12a155-2026-medellin-alcaldia-de-medellin",
   "sha256": "004e9b5239e2a217dc650e306d4d1592bae7d6e0566d1a9cf84ce2c9d95c599a",
   "fecha_captura": "2026-11-14",
@@ -43,6 +58,66 @@
   "url": "https://www.medellin.gov.co/statements/innovaciondigital/gacetas/consulta-publica/5975",
   "archivo": "originales/004e9b5239e2a217dc650e306d4d1592bae7d6e0566d1a9cf84ce2c9d95c599a.html",
   "clave": "acuerdo-local-9a12a155-2026-medellin-alcaldia-de-medellin"
+ },
+ {
+  "doc_id": "acuerdo-metropolitano-09-2026-medellin-area-metropolitana-del-valle",
+  "sha256": "77d3f1c0379a302e015a2878faba63be41d97e53dc620f6af0210712afe49e4e",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 1396,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.medellin.gov.co/statements/innovaciondigital/gacetas/consulta-publica/5976",
+  "archivo": "originales/77d3f1c0379a302e015a2878faba63be41d97e53dc620f6af0210712afe49e4e.html",
+  "clave": "acuerdo-metropolitano-09-2026-medellin-area-metropolitana-del-valle"
+ },
+ {
+  "doc_id": "acuerdo-metropolitano-10-2026-medellin-area-metropolitana-del-valle",
+  "sha256": "50867a0a849a17327d1c3820568e7e7c5ca2d3bb4fed3e045e1be49dd4c0b354",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 1396,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.medellin.gov.co/statements/innovaciondigital/gacetas/consulta-publica/5976",
+  "archivo": "originales/50867a0a849a17327d1c3820568e7e7c5ca2d3bb4fed3e045e1be49dd4c0b354.html",
+  "clave": "acuerdo-metropolitano-10-2026-medellin-area-metropolitana-del-valle"
+ },
+ {
+  "doc_id": "acuerdo-metropolitano-11-2026-medellin-area-metropolitana-del-valle",
+  "sha256": "8440e496a50ab15a51c4caac3cd729de95f5d6f2473af81d3b18dcfeea747081",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 1396,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.medellin.gov.co/statements/innovaciondigital/gacetas/consulta-publica/5976",
+  "archivo": "originales/8440e496a50ab15a51c4caac3cd729de95f5d6f2473af81d3b18dcfeea747081.html",
+  "clave": "acuerdo-metropolitano-11-2026-medellin-area-metropolitana-del-valle"
+ },
+ {
+  "doc_id": "acuerdo-metropolitano-12-2026-medellin-area-metropolitana-del-valle",
+  "sha256": "8e41746fdffce40729bbf124d508219720971fa326c9746b8ec2cadc93b2b554",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 1396,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.medellin.gov.co/statements/innovaciondigital/gacetas/consulta-publica/5976",
+  "archivo": "originales/8e41746fdffce40729bbf124d508219720971fa326c9746b8ec2cadc93b2b554.html",
+  "clave": "acuerdo-metropolitano-12-2026-medellin-area-metropolitana-del-valle"
  },
  {
   "doc_id": "auto-1282-26-2026-colombia-corte-constitucional",
@@ -105,6 +180,36 @@
   "clave": "boletin-299-2026-colombia-consejo-de-estado"
  },
  {
+  "doc_id": "boletin-55-s-f-cundinamarca-tribunal-administrativo-de-cundinamarca",
+  "sha256": "50cc6ae7cd2322e082b32342f1c5b62b93ef4c682596c8798f915c6c60e29b0b",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 3533,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://tac.gov.co/boletin55/",
+  "archivo": "originales/50cc6ae7cd2322e082b32342f1c5b62b93ef4c682596c8798f915c6c60e29b0b.html",
+  "clave": "boletin-55-s-f-cundinamarca-tribunal-administrativo-de-cundinamarca"
+ },
+ {
+  "doc_id": "boletin-6-2026-s-f-antioquia-tribunal-administrativo-de-antioquia",
+  "sha256": "0f2ed705485fff5547868ac52c36c57df0c4684a4a3e569ec951483d4a671a3a",
+  "fecha_captura": "2026-11-15",
+  "metodo": "pdftotext -layout",
+  "unidades": 3,
+  "articulos": 0,
+  "caracteres": 84042,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "http://taa.gov.co/wp-content/uploads/Boletin-Edicion-6-2026_compressed.pdf",
+  "archivo": "originales/0f2ed705485fff5547868ac52c36c57df0c4684a4a3e569ec951483d4a671a3a.pdf",
+  "clave": "boletin-6-2026-s-f-antioquia-tribunal-administrativo-de-antioquia"
+ },
+ {
   "doc_id": "boletin-7-2026-s-f-antioquia-tribunal-administrativo-de-antioquia",
   "sha256": "8c0d50ec42eab0f1a4ba9b16e1f223986d13ebf161cbdb8b9e3054119fbe87d8",
   "fecha_captura": "2026-11-13",
@@ -135,6 +240,21 @@
   "clave": "circular-0024-2026-colombia-comision-nacional-de-precios"
  },
  {
+  "doc_id": "circular-202660000150-s-f-medellin-alcaldia-de-medellin",
+  "sha256": "1762e2ef35a28eefd31c445387f867a2d2c3c96a6231174c8954dc037e342b7e",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 663,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.medellin.gov.co/statements/innovaciondigital/gacetas/consulta-publica/5952",
+  "archivo": "originales/1762e2ef35a28eefd31c445387f867a2d2c3c96a6231174c8954dc037e342b7e.html",
+  "clave": "circular-202660000150-s-f-medellin-alcaldia-de-medellin"
+ },
+ {
   "doc_id": "circular-med-2026-60-000002-2026-medellin-alcaldia-de-medellin",
   "sha256": "d64aa803c60605b385a32bea96a1873e0836ffeab44f053f166c8b214d71be74",
   "fecha_captura": "2026-11-14",
@@ -148,6 +268,21 @@
   "url": "https://www.medellin.gov.co/statements/innovaciondigital/gacetas/consulta-publica/5978",
   "archivo": "originales/d64aa803c60605b385a32bea96a1873e0836ffeab44f053f166c8b214d71be74.html",
   "clave": "circular-med-2026-60-000002-2026-medellin-alcaldia-de-medellin"
+ },
+ {
+  "doc_id": "concepto-c216d830-2026-colombia-consejo-de-estado",
+  "sha256": "f8558c252ddc79ec4d96964285d4ec9c8754e64e72aa3347acb756fcadbfd2e8",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 45,
+  "articulos": 0,
+  "caracteres": 1757145,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.consejodeestado.gov.co/noticias/index.php",
+  "archivo": "originales/f8558c252ddc79ec4d96964285d4ec9c8754e64e72aa3347acb756fcadbfd2e8.html",
+  "clave": "concepto-c216d830-2026-colombia-consejo-de-estado"
  },
  {
   "doc_id": "decreto-1261-2026-colombia",
@@ -178,6 +313,21 @@
   "url": "https://www.antioquia.gov.co/images/gaceta/noviembre/GACETA%2026.018%20-%20D.pdf",
   "archivo": "originales/e6e0491dd81a2302f8a889edcaa9853f7652fb3e0b38bf899f896917c348d762.pdf",
   "clave": "decreto-2026070005248-2026-antioquia-gobernacion-de-antioquia"
+ },
+ {
+  "doc_id": "decreto-2356-2026-medellin-alcaldia-de-medellin",
+  "sha256": "60c58f9a650daa3c9442f760ede279491bea3e4d3b81698698026658e41f64f9",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 956,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.medellin.gov.co/statements/innovaciondigital/gacetas/consulta-publica/5970",
+  "archivo": "originales/60c58f9a650daa3c9442f760ede279491bea3e4d3b81698698026658e41f64f9.html",
+  "clave": "decreto-2356-2026-medellin-alcaldia-de-medellin"
  },
  {
   "doc_id": "decreto-386-2026-bogota-alcaldia-mayor-de-bogota",
@@ -330,6 +480,21 @@
   "clave": "decreto-med-2026-40-000128-2026-medellin-alcaldia-de-medellin"
  },
  {
+  "doc_id": "hito-23320749-2026-colombia-superintendencia-de-notariado-y",
+  "sha256": "801d76af08dee535f2f48578beb46fab8c5a1032040950fa4017d7d67fd63a74",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 3379,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.supernotariado.gov.co/prensa/noticias/snr-aplaza-etapa-de-inscripcion-del-concurso-para-la-designacion-de-curadores-urbanos-2",
+  "archivo": "originales/801d76af08dee535f2f48578beb46fab8c5a1032040950fa4017d7d67fd63a74.html",
+  "clave": "hito-23320749-2026-colombia-superintendencia-de-notariado-y"
+ },
+ {
   "doc_id": "hito-27b741e4-2026-colombia-congreso-de-la-republica",
   "sha256": "9fd728ff0280f4399e83f72e38f149be7a4dc97c6d1b4182ea2d84fb758396b6",
   "fecha_captura": "2026-11-13",
@@ -360,6 +525,21 @@
   "clave": "hito-9ea6b0b7-2026-colombia-ministerio-de-vivienda-ciudad"
  },
  {
+  "doc_id": "ordenanza-33-2026-antioquia-asamblea-de-antioquia",
+  "sha256": "e16294166465fc310a48a219ccba5be0f3952300553edeadbe7c60652091ada2",
+  "fecha_captura": "2026-11-15",
+  "metodo": "pdftotext -layout",
+  "unidades": 97,
+  "articulos": 87,
+  "caracteres": 117996,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.antioquia.gov.co/images/gaceta/2026/10/GACETA%2025.984%20-%20D%20Ord.%20No.%2033.pdf",
+  "archivo": "originales/e16294166465fc310a48a219ccba5be0f3952300553edeadbe7c60652091ada2.pdf",
+  "clave": "ordenanza-33-2026-antioquia-asamblea-de-antioquia"
+ },
+ {
   "doc_id": "ordenanza-35-s-f-antioquia-asamblea-de-antioquia",
   "sha256": "43c0a617c09cd5527a3a3bf1e835fc23e0d34cc0d561f439ef7f121fa6de3a29",
   "fecha_captura": "2026-11-14",
@@ -388,6 +568,21 @@
   "url": "https://www.consejodeestado.gov.co/noticias/index.php",
   "archivo": "originales/f8558c252ddc79ec4d96964285d4ec9c8754e64e72aa3347acb756fcadbfd2e8.html",
   "clave": "providencia-854ef8b7-s-f-colombia-consejo-de-estado"
+ },
+ {
+  "doc_id": "providencia-sep-136-2026-2026-colombia-corte-suprema-de-justicia",
+  "sha256": "5b8274c7ec9b8b58c5903d30e6190ab77bd1dad9274a79399eed2b898015763f",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 2857,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://cortesuprema.gov.co/la-sala-especial-de-primera-instancia-impuso-una-pena-de-48-meses-de-prision-a-exmagistrado-del-consejo-seccional-de-la-judicatura-por-prevaricato-por-accion/",
+  "archivo": "originales/5b8274c7ec9b8b58c5903d30e6190ab77bd1dad9274a79399eed2b898015763f.html",
+  "clave": "providencia-sep-136-2026-2026-colombia-corte-suprema-de-justicia"
  },
  {
   "doc_id": "providencia-sl852-2026-2026-colombia-corte-suprema-de-justicia",
@@ -463,6 +658,21 @@
   "url": "https://www.camara.gov.co/aval-a-reforma-que-limitaria-a-alcaldes-de-bogota-para-ser-presidentes-de-colombia/",
   "archivo": "originales/8801a5d04af422b2fadb4e0f2640f38cf7f37ca8a5d4d632215a440cb1733f54.html",
   "clave": "proyecto-de-acto-legislativo-09e7c996-s-f-colombia-congreso-de-la-republica"
+ },
+ {
+  "doc_id": "proyecto-de-acuerdo-022-2026-s-f-envigado-concejo-de-envigado",
+  "sha256": "9065604c348265d0ddcbe6a1fe5ac77db6f306be2a88173066ee0e45df1f7e4b",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 9939,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.concejoenvigado.gov.co/proyectos_de_acuerdo/proyecto-de-acuerdo-022-de-2026/",
+  "archivo": "originales/9065604c348265d0ddcbe6a1fe5ac77db6f306be2a88173066ee0e45df1f7e4b.html",
+  "clave": "proyecto-de-acuerdo-022-2026-s-f-envigado-concejo-de-envigado"
  },
  {
   "doc_id": "proyecto-de-acuerdo-027-2026-s-f-envigado-concejo-de-envigado",
@@ -615,6 +825,21 @@
   "clave": "proyecto-de-decreto-3fc3c631-2026-colombia-ministerio-de-hacienda-y"
  },
  {
+  "doc_id": "proyecto-de-decreto-410a7b00-2026-colombia-ministerio-de-comercio-industria",
+  "sha256": "7c1fc60d02e139d3260a6acd6d76e0fd810181a7e61070afc687bdac6629a307",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 2,
+  "articulos": 0,
+  "caracteres": 40276,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.mincit.gov.co/normatividad/proyectos-de-normatividad/proyectos-de-decreto-2026",
+  "archivo": "originales/7c1fc60d02e139d3260a6acd6d76e0fd810181a7e61070afc687bdac6629a307.html",
+  "clave": "proyecto-de-decreto-410a7b00-2026-colombia-ministerio-de-comercio-industria"
+ },
+ {
   "doc_id": "proyecto-de-decreto-b8179e82-2026-colombia-ministerio-de-vivienda-ciudad",
   "sha256": "2ebe409c7cb364cf14af904d42f0b71764e920064a2386f2ea9274dc46ac950d",
   "fecha_captura": "2026-11-14",
@@ -628,6 +853,21 @@
   "url": "https://minvivienda.gov.co/tramites-y-servicios/consultas-publicas/por-el-cual-se-reglamenta-el-articulo-25-de-la-ley-2079-de-2021-adicionando-una-disposicion-al-decreto-1077-de-2015-en-materia-de-obras-por-impuestos",
   "archivo": "originales/2ebe409c7cb364cf14af904d42f0b71764e920064a2386f2ea9274dc46ac950d.html",
   "clave": "proyecto-de-decreto-b8179e82-2026-colombia-ministerio-de-vivienda-ciudad"
+ },
+ {
+  "doc_id": "proyecto-de-decreto-d06e6fa6-2026-colombia-ministerio-de-comercio-industria",
+  "sha256": "17e04a7c71be90417cfb15a0c019408a608cf9bf10c85c94630a88cafe39bb43",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 2,
+  "articulos": 0,
+  "caracteres": 40276,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.mincit.gov.co/normatividad/proyectos-de-normatividad/proyectos-de-decreto-2026",
+  "archivo": "originales/17e04a7c71be90417cfb15a0c019408a608cf9bf10c85c94630a88cafe39bb43.html",
+  "clave": "proyecto-de-decreto-d06e6fa6-2026-colombia-ministerio-de-comercio-industria"
  },
  {
   "doc_id": "proyecto-de-ley-001-2026c-2026-colombia-congreso-de-la-republica",
@@ -930,6 +1170,21 @@
   "clave": "proyecto-de-ley-3cbb934f-s-f-colombia-congreso-de-la-republica"
  },
  {
+  "doc_id": "proyecto-de-ley-401-2026c-280-2026s-s-f-colombia-congreso-de-la-republica",
+  "sha256": "574e34c6175a334c70817f5b0b2ee24e1af6398f149d86b249271347fff0c2b3",
+  "fecha_captura": "2026-11-15",
+  "metodo": "pdftotext -layout",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 15574,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.senado.gov.co/index.php/documentos/senado-prensa/agenda-legislativa-actual/9671-agenda-legislativa-del-19-al-23-de-octubre-de-2026",
+  "archivo": "originales/574e34c6175a334c70817f5b0b2ee24e1af6398f149d86b249271347fff0c2b3.pdf",
+  "clave": "proyecto-de-ley-401-2026c-280-2026s-s-f-colombia-congreso-de-la-republica"
+ },
+ {
   "doc_id": "proyecto-de-ley-41f50396-2026-colombia-congreso-de-la-republica",
   "sha256": "68bf4cebb0ef785f156b62cf80a2caa77dfc51ec9588b30ac26939c213a832c8",
   "fecha_captura": "2026-11-14",
@@ -943,6 +1198,21 @@
   "url": "https://www.senado.gov.co/index.php/el-senado/noticias/7715-proyecto-premiaria-a-los-territorios-que-mejor-manejen-el-pae",
   "archivo": "originales/68bf4cebb0ef785f156b62cf80a2caa77dfc51ec9588b30ac26939c213a832c8.html",
   "clave": "proyecto-de-ley-41f50396-2026-colombia-congreso-de-la-republica"
+ },
+ {
+  "doc_id": "proyecto-de-ley-4b0d2566-s-f-colombia-congreso-de-la-republica",
+  "sha256": "f595be7d54d6a941d6f592b4bc6254447116841b173c6d272b2eba9cef53db11",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 5467,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.camara.gov.co/mi-techo-mi-derecho-la-propuesta-que-busca-darle/",
+  "archivo": "originales/f595be7d54d6a941d6f592b4bc6254447116841b173c6d272b2eba9cef53db11.html",
+  "clave": "proyecto-de-ley-4b0d2566-s-f-colombia-congreso-de-la-republica"
  },
  {
   "doc_id": "proyecto-de-ley-4d9d36e0-s-f-colombia-congreso-de-la-republica",
@@ -973,6 +1243,21 @@
   "url": "https://www.camara.gov.co/la-representante-bleidy-perez-radica-proyecto-para-que-las-grandes-plataformas-digitales-contribuyan-a-financiar-la-salud-mental-en-colombia",
   "archivo": "originales/697e0072e0496076badf1bbc3c2cedc18e09a0d17fe2beacb101793017d6f66e.html",
   "clave": "proyecto-de-ley-4f1943d4-s-f-colombia-congreso-de-la-republica"
+ },
+ {
+  "doc_id": "proyecto-de-ley-521f8f79-s-f-colombia-congreso-de-la-republica",
+  "sha256": "9f2a96d190af09a2d761739be1dab4b83ecebd25136400fdea1a994a974f2e37",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 4619,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.camara.gov.co/244748-2/",
+  "archivo": "originales/9f2a96d190af09a2d761739be1dab4b83ecebd25136400fdea1a994a974f2e37.html",
+  "clave": "proyecto-de-ley-521f8f79-s-f-colombia-congreso-de-la-republica"
  },
  {
   "doc_id": "proyecto-de-ley-5a8232bd-s-f-colombia-congreso-de-la-republica",
@@ -1050,6 +1335,21 @@
   "clave": "proyecto-de-ley-9ef41689-s-f-colombia-congreso-de-la-republica"
  },
  {
+  "doc_id": "proyecto-de-ley-aaadd496-2026-colombia-congreso-de-la-republica",
+  "sha256": "be0276010834c42ba813c80005ce16fd54e34b05f685dd2a6a271ef07ce1bb49",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 5402,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.senado.gov.co/index.php/el-senado/noticias/7659-proponen-bajar-el-iva-del-19-al-10-por-ciento-en-tiquetes-y-alojamientos-de-zonas-afectadas-por-el-terremoto",
+  "archivo": "originales/be0276010834c42ba813c80005ce16fd54e34b05f685dd2a6a271ef07ce1bb49.html",
+  "clave": "proyecto-de-ley-aaadd496-2026-colombia-congreso-de-la-republica"
+ },
+ {
   "doc_id": "proyecto-de-ley-c7724785-2026-colombia-congreso-de-la-republica",
   "sha256": "2dd4abeb77d1678c484aba9ca44591879d98d38dce30f54cea28927ef9d1a330",
   "fecha_captura": "2026-11-14",
@@ -1093,6 +1393,21 @@
   "url": "https://www.camara.gov.co/wp-content/uploads/2026/10/proyectos-ley/documentos/proyecto-36548/PROYECTO-DE-LEY-Rescate-Economico-2026-VSD-RADICADA-1.pdf",
   "archivo": "originales/4a7e52938b91a30da837c41e3e6ad4a28e667d546aafac4add16892f5a6ef6cf.pdf",
   "clave": "proyecto-de-ley-f62ff120-2026-colombia-congreso-de-la-republica"
+ },
+ {
+  "doc_id": "resolucion-0349-s-f-colombia-ministerio-de-agricultura-y",
+  "sha256": "703f0c2ecfd66703d06a91fd2a60794a159c2a7a03ce3e579f8717debc6bf8f5",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 1752,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://upra.gov.co/es-co/sala-de-prensa/noticias/ministerio-agricultura-paso-liberar-zonas-agricolas-derogar-areas-produccion-alimentos-appa-municipios-sur-guajira",
+  "archivo": "originales/703f0c2ecfd66703d06a91fd2a60794a159c2a7a03ce3e579f8717debc6bf8f5.html",
+  "clave": "resolucion-0349-s-f-colombia-ministerio-de-agricultura-y"
  },
  {
   "doc_id": "resolucion-0843-2026-colombia-ministerio-de-vivienda-ciudad",
@@ -1170,6 +1485,21 @@
   "clave": "resolucion-2026101905077-2026-medellin-alcaldia-de-medellin"
  },
  {
+  "doc_id": "resolucion-202650083555-2026-medellin-alcaldia-de-medellin",
+  "sha256": "4437ada405f76ecddeb7b3ccaee009b2cac0dfde6c03781257492928fe62b299",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 1582,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.medellin.gov.co/statements/innovaciondigital/gacetas/consulta-publica/5967",
+  "archivo": "originales/4437ada405f76ecddeb7b3ccaee009b2cac0dfde6c03781257492928fe62b299.html",
+  "clave": "resolucion-202650083555-2026-medellin-alcaldia-de-medellin"
+ },
+ {
   "doc_id": "resolucion-2708-2026-colombia-ministerio-del-trabajo",
   "sha256": "fe2a39197e3509f060377d97b99bedec514d2432c974ff44a7c0e4d07725733f",
   "fecha_captura": "2026-11-13",
@@ -1183,6 +1513,21 @@
   "url": "https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=193993",
   "archivo": "originales/fe2a39197e3509f060377d97b99bedec514d2432c974ff44a7c0e4d07725733f.html",
   "clave": "resolucion-2708-2026-colombia-ministerio-del-trabajo"
+ },
+ {
+  "doc_id": "resolucion-gg-886-2026-medellin-empresa-de-desarrollo-urbano",
+  "sha256": "e7698a0248c68cbb7b8237929aa3a4fdca4073f10c6a2e3c67f6bfcfbffacc4e",
+  "fecha_captura": "2026-11-15",
+  "metodo": "html.parser",
+  "unidades": 1,
+  "articulos": 0,
+  "caracteres": 1317,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.medellin.gov.co/statements/innovaciondigital/gacetas/consulta-publica/5978",
+  "archivo": "originales/e7698a0248c68cbb7b8237929aa3a4fdca4073f10c6a2e3c67f6bfcfbffacc4e.html",
+  "clave": "resolucion-gg-886-2026-medellin-empresa-de-desarrollo-urbano"
  },
  {
   "doc_id": "resolucion-med-2026-50-002222-2026-medellin-alcaldia-de-medellin",
@@ -1513,6 +1858,21 @@
   "url": "https://www.corteconstitucional.gov.co/comunicados/comunicado-30-septiembre-23-de-2026.pdf",
   "archivo": "originales/342cbe45693bc91fcbf14bd91ed1f9ddf96f68b4716470d29ae7404c0e7f4dfb.pdf",
   "clave": "sentencia-su-su-313-26-2026-colombia-corte-constitucional"
+ },
+ {
+  "doc_id": "sentencia-su-su-334-26-s-f-colombia-corte-constitucional",
+  "sha256": "dcd34152265c0929fbe2c2e5340af92fac142fbb8f4a4ec30dd16d9ef03680e0",
+  "fecha_captura": "2026-11-15",
+  "metodo": "pdftotext -layout",
+  "unidades": 25,
+  "articulos": 16,
+  "caracteres": 218102,
+  "notas_vigencia": 0,
+  "estado": "capturado",
+  "aviso": "",
+  "url": "https://www.corteconstitucional.gov.co/comunicados/comunicado-32-octubre-14-y-15-de-2026.pdf",
+  "archivo": "originales/dcd34152265c0929fbe2c2e5340af92fac142fbb8f4a4ec30dd16d9ef03680e0.pdf",
+  "clave": "sentencia-su-su-334-26-s-f-colombia-corte-constitucional"
  },
  {
   "doc_id": "sentencia-t-t-246-26-2026-colombia-corte-constitucional",
