@@ -1,0 +1,30 @@
+[
+ {
+  "id": "rel-966a0f1dba08",
+  "origen_id": "resolucion-s-2026061334918-2026-antioquia-gobernacion-de-antioquia",
+  "destino_id": "",
+  "destino_ref": "Decreto 1278 de 2002",
+  "parte": "",
+  "tipo": "Modifica",
+  "fragmento": "donde cumplirá las siguientes actividades: Municipios que atiende Subregión Nombre Sede Otros Magdalena Jorge lván Castrillón Agudelo Puerto Nare. Puerto Puerto Berrio Medio ce 71.183.829 Triunfo y Yondó. Maceo: * Reunión con Directivtb Docente, vinculado~ ajo¡ el Decreto 1278 de 2002",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.antioquia.gov.co/images/gaceta/2026/11/GACETA%2026.008%20-%20R.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 7 del texto capturado (hash 305fbfd1dd1d6aa5)."
+ },
+ {
+  "id": "rel-222a556b8da7",
+  "origen_id": "resolucion-s-2026061334918-2026-antioquia-gobernacion-de-antioquia",
+  "destino_id": "",
+  "destino_ref": "Resolución 2026060906749 de 2026",
+  "parte": "",
+  "tipo": "Modifica",
+  "fragmento": "resulta necesario modificar las fechas del cronograma establecido en el artículo 1 de la Resolución No. S2026060906749 del 21 de octubre de 2026, respecto de las etapas 3 a 7. En mérito de lo expuesto, 35 RESOLUCIÓN HOJA 2 POR MEDIO DE LA CUAL SE MODIFICA LA RESOLUCIÓN No. 2026060906749 DEL 21 DE OCTUBRE DE 2026",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.antioquia.gov.co/images/gaceta/2026/11/GACETA%2026.008%20-%20R.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 6 del texto capturado (hash 1faea7226f03c2f9)."
+ }
+]

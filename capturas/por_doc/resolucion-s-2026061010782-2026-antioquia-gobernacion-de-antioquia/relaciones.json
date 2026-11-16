@@ -1,0 +1,30 @@
+[
+ {
+  "id": "rel-e2c81c5683c3",
+  "origen_id": "resolucion-s-2026061010782-2026-antioquia-gobernacion-de-antioquia",
+  "destino_id": "",
+  "destino_ref": "Decreto 1082 de 2015",
+  "parte": "los artículos 2.2.1 .2.1.4.4 y 2.2.1.2.1 .4.1",
+  "tipo": "Reglamenta",
+  "fragmento": "contempla la contratación directa interadministrativa cuando las obligaciones tienen relación directa con el objeto legal o reglamentario de la entidad ejecutora, con sujeción a las excepciones legales. 14. Que, los artículos 2.2.1 .2.1.4.4 y 2.2.1.2.1 .4.1 del Decreto 1082 de 2015",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.antioquia.gov.co/images/gaceta/2026/11/GACETA%2026.006%20-%20R%20.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo DÉCIMO del texto capturado (hash 302383b5aef73859)."
+ },
+ {
+  "id": "rel-6455ba23d83b",
+  "origen_id": "resolucion-s-2026061010782-2026-antioquia-gobernacion-de-antioquia",
+  "destino_id": "",
+  "destino_ref": "Decreto 1278",
+  "parte": "",
+  "tipo": "Modifica",
+  "fragmento": "para visitar el municipio de Concordia y Copacabana, para este último municipio fue delegado para realizar evaluación de desempeño y/o período de prueba a Directivos docentes o docentes, vinculados mediante el decreto 1278",
+  "fragmento_literal": "sí",
+  "fuente_url": "https://www.antioquia.gov.co/images/gaceta/2026/11/GACETA%2026.006%20-%20R%20.pdf",
+  "metodo": "Captura de texto completo",
+  "estado_validacion": "Sugerida por IA",
+  "nota": "Identificada en Artículo 7 del texto capturado (hash 65cf27adc9cb5f2b)."
+ }
+]
