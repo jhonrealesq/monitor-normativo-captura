@@ -7544,5 +7544,19 @@
   "metodo_extraccion": "",
   "unidades": 0,
   "nota": "se pidió un PDF y el sitio devolvió otro contenido; no se conserva como original"
+ },
+ {
+  "doc_id": "proyecto-de-acuerdo-113-2026-s-f-medellin-concejo-de-medellin",
+  "url": "https://simi.concejodemedellin.gov.co/simi3/invitados/proyectos/proyectos.xhtml",
+  "fecha_captura": "2026-11-28",
+  "estado": "bloqueado por robots.txt",
+  "sha256": "",
+  "bytes": 0,
+  "content_type": "",
+  "archivo": "",
+  "texto": "",
+  "metodo_extraccion": "",
+  "unidades": 0,
+  "nota": "robots.txt respondió 403: se trata como prohibido"
  }
 ]
